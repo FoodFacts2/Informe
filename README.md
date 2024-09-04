@@ -231,6 +231,26 @@ Nuesta Startup proporciona un análisis detallado de la composición nutricional
 
 ### 2.2.2. Registro de entrevistas.
 
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Entrevista 1:**
+
+**Nombres y Apellidos:** Alessandra Yap Arévalo
+
+**Edad:** 21 años
+
+**Lugar de Residencia:** La Molina
+
+**Ocupación:** Estudiante de Nutrición
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/ETPfd3eSXt5KplgbqAmxc8MB02P1b1xGGjd4FvxSkhv0cw?e=sCF3ct&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:** Se entrevistó a aAlessandra Yap, una estudiante de Nutricion de la Universidad San Ignacio de Loyola, ella nos cuenta que consume alimentos procesados con una frecuencia de 2 a 3 veces por semana, además indica que le preocupa bastante el impacto de estos alimentos procesados en su salud, tambien señala que es muy importante limitar su consumo. 
+
+Ella comenta que a menudo revisa las etiquetas nutricionales de los productos que consume. Para ella le sería de bastante utilidad el tener a la mano una aplicación que le permita saber los riesgos de estos alimentos procesados. 
+
+Nos indica que le gustaría que nuestra aplicación le avisara si algún alimento es muy dañino para su salud, además de recomiendaciones de comida que a ella le guste. Por último a ella estaría dispuesta a pagar entre 5 a 10 dólares al mes.
+
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
