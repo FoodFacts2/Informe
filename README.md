@@ -245,11 +245,31 @@ Nuesta Startup proporciona un análisis detallado de la composición nutricional
 
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/ETPfd3eSXt5KplgbqAmxc8MB02P1b1xGGjd4FvxSkhv0cw?e=sCF3ct&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**Resumen de la Entrevista:** Se entrevistó a aAlessandra Yap, una estudiante de Nutricion de la Universidad San Ignacio de Loyola, ella nos cuenta que consume alimentos procesados con una frecuencia de 2 a 3 veces por semana, además indica que le preocupa bastante el impacto de estos alimentos procesados en su salud, tambien señala que es muy importante limitar su consumo. 
+**Resumen de la Entrevista:** Se entrevistó a Alessandra Yap, una estudiante de Nutricion de la Universidad San Ignacio de Loyola, ella nos cuenta que consume alimentos procesados con una frecuencia de 2 a 3 veces por semana, además indica que le preocupa bastante el impacto de estos alimentos procesados en su salud, tambien señala que es muy importante limitar su consumo. 
 
 Ella comenta que a menudo revisa las etiquetas nutricionales de los productos que consume. Para ella le sería de bastante utilidad el tener a la mano una aplicación que le permita saber los riesgos de estos alimentos procesados. 
 
 Nos indica que le gustaría que nuestra aplicación le avisara si algún alimento es muy dañino para su salud, además de recomiendaciones de comida que a ella le guste. Por último a ella estaría dispuesta a pagar entre 5 a 10 dólares al mes.
+
+**Entrevista 2:**
+
+**Nombres y Apellidos:** Danae Pacheco Santa Cruz
+
+**Edad:** 18 años
+
+**Lugar de Residencia:** La Molina
+
+**Ocupación:** Estudiante de Medicina
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EUjXnCeMMOpHk6cq5vhRb4IB3-IPuR5Wb-R3ZlAkqbBuTg?e=PsATUc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:** Se entrevistó a Danae Pacheco, una estudiante de Medicina que siempre ha tenido interés en los alimentos que ella consume, además va al gimnasio desde hace dos años lo que hace que se vuelva casi una prioridad las sustancias que contienen dichos alimentos.
+
+Ella nos cuenta que últimamente ha tratado de reducir su consumo de alimentos procesados; sin embargo ella consume dichos alimentos varias veces a la semana, por lo que si le preocupa bastante el impacto que pueden llegar a tener estos alimentos en su salud.
+
+Danae comenta que siempre revisa las etiquetas de los productos que ella compra, centrándose principalmente en si estos tienen algun tipo de aditivos, las calorías y sobretodo la cantidad de proteina, por lo que ella piensa que el recibir reportes personalizados sobre su dieta le ayudaría a mejorar su salud.
+
+Ella opina que deberíamos considerar incluir recomendaciones de comida en base a los gustos de cada persona, además de la cantidad de calorías que tienen estas comidas. Por último nos indica que ella estaría dispuesta a pagar 5 soles mensuales por nuestra aplicación.
 
 ### 2.2.3. Análisis de entrevistas.
 
