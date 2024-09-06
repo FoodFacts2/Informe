@@ -564,6 +564,22 @@ Danae comenta que siempre revisa las etiquetas de los productos que ella compra,
 
 Ella opina que deberíamos considerar incluir recomendaciones de comida en base a los gustos de cada persona, además de la cantidad de calorías que tienen estas comidas. Por último nos indica que ella estaría dispuesta a pagar 5 soles mensuales por nuestra aplicación.
 
+**Entrevista 3:**
+
+**Nombres y Apellidos:** Jennifer Quispe Roldan
+
+**Edad:** 21 años
+
+**Lugar de Residencia:** Surco
+
+**Ocupación:** Estudiante de ingwnieria ambiental
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EaME9ht66e9IkB9ADvm6ZFABMuihNvmulPWkdYo0Po7U_w?e=fnkBxW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:** Jennifer trata de evitar los alimentos procesados, pero los consume ocasionalmente por falta de tiempo o alternativas más saludables. Está preocupada por los efectos de estos productos en su salud a largo plazo debido a los ingredientes dañinos que suelen contener. Aunque no tiene una condición médica específica, se esfuerza por mantener una dieta equilibrada. Revisa siempre las etiquetas nutricionales de los productos, prestando especial atención a azúcares, grasas y sodio, además de evitar aditivos innecesarios.
+
+Le gustaría que al registrar un producto alimenticio, se proporcionara un desglose claro de los nutrientes e ingredientes, además de alertas sobre aditivos dañinos. Encuentra útil que una aplicación le advierta sobre riesgos de salud relacionados con ciertos alimentos y cree que reportes personalizados sobre su dieta la ayudarían a mejorar su salud. Le gustaría que una aplicación como Food-Facts ofreciera recomendaciones basadas en sus preferencias y necesidades, y la capacidad de escanear productos en tiendas para obtener información rápidamente. Está dispuesta a pagar entre $5 y $10 mensuales si la aplicación es de valor. Considera que esta herramienta sería útil para tomar decisiones más saludables en su vida diaria.
+
 **Segmento Objetivo: Personas con problemas alimenticios**
 
 **Entrevista 1:**
