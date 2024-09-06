@@ -206,6 +206,12 @@ __Quispe Roldan Michael Fred - 20221E734__
 </div>
 Actualmente estoy cursando el quinto ciclo de ingenieria de software. Mi compromiso con la responsabilidad, la atención y la disposición para liderar me capacita para desempeñar un papel efectivo como líder en mi equipo. Estas cualidades me permiten trabajar en colaboración con mis compañeros, mantener altos estándares de desempeño y avanzar hacia el logro de nuestros objetivos comunes.
 
+__Dextre Miguel kevin Cosner - 20211c027__
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/webs-20126.appspot.com/o/perfil.jpeg?alt=media&token=9a0c77cb-e631-4bd7-9cfa-c4e49b0e379e" alt="ErdavicPerfil" style="width: 15%; height: auto;">
+</div>
+Soy un apasionado por la Tecnología, es por ello que elegí estudiar Ingeniería de Sistemas de Información. Me considero una persona responsable con los deberes que se me encomiendan. Por otro lado, también me gusta apoyar y enseñar cuando tengo un dominio de un tema.
+
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
