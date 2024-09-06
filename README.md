@@ -564,7 +564,35 @@ Danae comenta que siempre revisa las etiquetas de los productos que ella compra,
 
 Ella opina que deberíamos considerar incluir recomendaciones de comida en base a los gustos de cada persona, además de la cantidad de calorías que tienen estas comidas. Por último nos indica que ella estaría dispuesta a pagar 5 soles mensuales por nuestra aplicación.
 
+**Segmento Objetivo: Personas con problemas alimenticios**
+
+**Entrevista 1:**
+
+**Nombres y Apellidos:** Fabrizio Sanchez Zamora
+
+**Edad:** 21 años
+
+**Lugar de Residencia:** Chorrillos
+
+**Ocupación:** Estudiante de ingwnieria de software
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EToONiw4RfdOlQFT358iV1QBlRVFleQk-XJ-0Ue570GPbw?e=dfE1NJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:** Fabrizio consume alimentos procesados con frecuencia, especialmente cuando se siente ansiosa o estresada, lo que le dificulta mantener una dieta equilibrada. Aunque está preocupada por el impacto de estos alimentos en su salud, a veces le resulta difícil evitarlos, lo que le genera culpa y afecta su estado de ánimo. No tiene una condición médica diagnosticada, pero su relación complicada con la comida influye en sus decisiones alimenticias, alternando entre comer en exceso o evitar comer. A veces revisa las etiquetas nutricionales, pero esto puede causarle frustración o ansiedad, por lo que en otras ocasiones las evita.
+
+Prefiere recibir información clara sobre los alimentos sin sentirse juzgada, y cree que una aplicación que le mostrara riesgos para la salud sería útil si lo hiciera de manera positiva y sin generar más ansiedad. Reportes personalizados podrían ser útiles, pero le preocupa que aumenten su ansiedad si no están orientados al cambio gradual. Le gustaría que la aplicación incluyera herramientas para gestionar la ansiedad relacionada con la comida, y está dispuesta a pagar una opción accesible si la ayuda tanto en lo emocional como en lo físico. Cree que Food-Facts podría ser útil si maneja la información de manera equilibrada y no la hace sentir mal por sus elecciones.
+
 ### 2.2.3. Análisis de entrevistas.
+
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Segmento Objetivo: Personas con problemas alimenticios**
+
+**Entrevista 1:**
+
+**Analisis de la Entrevista:** Fabrizio tiene una relación compleja con la comida, marcada por la ansiedad y la culpa, lo que afecta tanto sus hábitos alimenticios como su bienestar emocional. Aunque es consciente de los riesgos de los alimentos procesados y se preocupa por su salud, la dificultad para mantener una dieta equilibrada la lleva a recurrir a estos productos. La fluctuación entre obsesionarse con las etiquetas y evitarlas refleja una lucha interna por controlar su alimentación sin aumentar su ansiedad.
+
+El enfoque de esta persona hacia una aplicación como Food-Facts refleja la necesidad de una herramienta que le brinde apoyo emocional y funcional. No solo requiere información nutricional clara, sino también un enfoque que no la haga sentir juzgada o que aumente su ansiedad. La inclusión de herramientas para gestionar el estrés y la relación emocional con la comida sería clave para que esta aplicación sea útil para ella. Si Food-Facts puede ofrecer un enfoque de bienestar integral, que equilibre lo emocional y lo físico, podría tener un impacto positivo en personas con dificultades similares.
 
 ## 2.3. Needfinding.
 Desde la creación de Food-Facts, hemos llevado a cabo varias actividades clave para identificar las necesidades de nuestros usuarios:
@@ -1228,15 +1256,150 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
+Typography: Para nuestra fuente haremos uso de dos tipografías, ambas en sus variantes de peso Regular, Medium, Semi Bold y Bold. Merriweather Sans, principalmente usado para los títulos, subtítulos y encabezados de artículos. Roboto, empleado para contenido como párrafos, texto informativo, etc. Elaboramos unas reglas para un estilo uniforme en los contenidos de la Landing Page y Aplicación Web. Cabe recalcar que el sistema varía con el principio de Responsive Design.
+
+<div style="text-align: center;">
+    <img src="http://imgfz.com/i/k3FNMJY.png" alt="Tipografia" style="width: 50%; height: auto;">
+</div>
+
 ### 4.1.2. Web Style Guidelines.
+El enfoque principal del estilo para la aplicación web y la landing page se centra en:
+Diseño minimalista y colorido: La aplicación tendrá un enfoque minimalista para evitar abrumar al usuario con demasiada información o elementos en pantalla.
+Imágenes ilustrativas: Se utilizarán ilustraciones en lugar de fotografías, ya que estas se alinean mejor con el estilo minimalista y permiten una mayor personalización visual.
+Elementos de interacción intuitivos: Los elementos de la aplicación serán intuitivos para mejorar la experiencia del usuario, destacándose principalmente con los colores primarios y secundarios.
+Contraste de colores: Se prioriza un adecuado contraste entre los elementos para mejorar la claridad y legibilidad dentro de la aplicación.
+
 ## 4.2. Information Architecture.
+
 ### 4.2.1. Organization Systems.
+La estructura de FoodFacts se presenta a través de un diagrama en árbol que detalla la jerarquía de sus componentes y funcionalidades. El diagrama se inicia en el nodo principal FoodFacts, que representa la aplicación en su totalidad. Desde este punto se ramifican dos grandes ramas: Landing Page, que corresponde a la página de inicio o aterrizaje, y Login, que agrupa todas las funcionalidades relacionadas con el acceso y gestión de usuarios. Una vez dentro, el usuario accede al Home que actúa como el centro de control, desde donde se ramifican secciones como Profile, Navbar, Nutritionist, Settings y Sign Out. Además, cuenta con secciones específicas para la gestión de productos (Products) y para el registro y recuperación de contraseñas. La sección Products ofrece información detallada sobre los alimentos, incluyendo nutrientes, ingredientes y origen. Por otro lado, la sección Nutritionist parece estar diseñada para profesionales de la nutrición, proporcionando herramientas y datos específicos para su trabajo. FoodFacts es una aplicación que, a juzgar por su estructura, busca ofrecer una plataforma tanto para usuarios finales que desean conocer más sobre los alimentos que consumen, como para profesionales de la nutrición que requieren herramientas especializadas para su labor.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FOrganitation%20System%20Food-Facts.jpg?alt=media&token=f69455fe-5f66-4280-9a78-e2307e996328" alt="O-S" style="width: auto; height: auto;">
+</div>
+
 ### 4.2.2. Labeling Systems.
+- Landing Page: Etiqueta para la página de inicio donde se presenta la aplicación y se ofrecen las opciones de iniciar sesión, registrarse o recuperar contraseña.
+
+- Login: Etiqueta para la función que permite a los usuarios autentificarse en la aplicación y acceder a sus funcionalidades.
+
+- Home: Etiqueta para la página principal del usuario, que actúa como punto de partida para navegar por las diferentes secciones de la aplicación.
+
+- Profile: Incluye etiquetas adicionales como:
+
+- Edit Profile: Para modificar la información personal del usuario.
+
+- Settings: Para configurar las preferencias del usuario.
+
+- Nutritionist Profile: Para la información específica del perfil de un nutricionista (si aplica).
+
+- User Data: Para visualizar los datos personales del usuario organizados por categorías (ej: país, ciudad, historial de búsqueda).
+
+- Nutritionist: Contiene etiquetas como: Patient Management: Para gestionar la información de los pacientes.
+
+- Diet Plans: Para crear y administrar planes de alimentación personalizados.
+
+- Research Tools: Para acceder a herramientas de investigación y bases de datos nutricionales.
+
+- Educational Resources: Para acceder a materiales educativos y guías de nutrición.
+Products: Incluye etiquetas como:
+
+- Food Database: Para buscar y consultar información sobre una amplia variedad de alimentos.
+- Nutrition Facts: Para visualizar los valores nutricionales de un producto específico.
+- Ingredients: Para ver la lista de ingredientes de un producto.
+- Allergens: Para identificar alérgenos presentes en un producto.
+- Settings: Incluye etiquetas como:
+
+- General Settings: Para configurar las preferencias generales de la aplicación.
+- Notification Settings: Para personalizar las notificaciones.
+- Account Settings: Para gestionar la información de la cuenta del usuario.
+- Data Privacy: Para configurar las opciones de privacidad de los datos.
+- Sign Out: Etiqueta para cerrar la sesión del usuario.
+
+- Search: Para la función de búsqueda de alimentos o nutrientes.
+- Favorites: Para guardar alimentos favoritos o búsquedas frecuentes.
+- Shopping List: Para crear listas de compras.
+- Community: Para interactuar con otros usuarios y compartir experiencias.
+
 ### 4.2.3. SEO Tags and Meta Tags
+Las etiquetas son representativas del contenido de nuestro proyecto, incluyendo tanto el Landing Page como el Sitio Web. Están diseñadas para potenciar la visibilidad de nuestro proyecto en los motores de búsqueda más importantes, lo que facilitará que los usuarios encuentren fácilmente nuestra plataforma de FoodFacts.
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="FoodFacts: Tu guía completa de nutrición. Descubre información detallada sobre alimentos, calcula tu ingesta calórica y crea planes de alimentación saludables. Perfecto para nutricionistas y cualquier persona interesada en una vida más sana.">
+    <meta name="keywords" content="nutrición, alimentos, dieta, salud, calorías, nutricionista, planes de alimentación, FoodFacts, guía nutricional, alimentos saludables">
+    <meta name="author" content="FoodFacts">
+
+    <meta property="og:title" content="FoodFacts | Tu Guía Completa de Nutrición">
+    <meta property="og:description" content="Con FoodFacts, conocerás todo lo que necesitas saber sobre los alimentos que consumes. Calcula tus macros, descubre nuevos alimentos y mejora tu alimentación.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.foodfacts.com">
+    <meta property="og:image" content="https://www.foodfacts.com/images/landing-page.jpg">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="FoodFacts | Tu Guía Completa de Nutrición">
+    <meta name="twitter:description" content="Toma el control de tu alimentación con FoodFacts. ¡Descarga la app ahora!">
+    <meta name="twitter:image" content="https://www.foodfacts.com/images/landing-page.jpg">
+
+    <title>FoodFacts | Tu Guía Completa de Nutrición</title>
+</head>
+<body>
+    </body>
+</html>
+
+```
+
 ### 4.2.4. Searching Systems.
+__Ubicación__
+- Se encuentra de manera prominente en la página principal, permitiendo a los usuarios buscar rápidamente alimentos, recetas, nutrientes o cualquier otra información relacionada.
+
+__Funcionalidad__
+- Permite realizar búsquedas por palabras clave, como "recetas veganas con quinoa" o "alimentos ricos en hierro".
+
+__Filtros de Búsqueda__
+- Tipo de alimento: Filtrar por frutas, verduras, granos, lácteos, carnes, etc.
+- Nutrientes: Filtrar por contenido de macronutrientes (proteínas, carbohidratos, grasas) y micronutrientes (vitaminas, minerales).
+- Dietéticas: Filtrar por alimentos adecuados para dietas específicas (vegana, vegetariana, ceto, sin gluten, etc.).
+- Alergenos: Filtrar por alimentos que contengan alérgenos comunes (gluten, lactosa, frutos secos, etc.).
+- Restricciones dietéticas: Filtrar por alimentos que cumplan con ciertas restricciones (bajo en sodio, sin azúcar añadida, etc.).
+
+- Rango de calorías: Filtrar por contenido calórico.
+- Cocina: Filtrar por tipo de cocina (italiana, mexicana, asiática, etc.).
+
+__Presentación de Resultados__
+- Listados: Mostrar los resultados en una lista con información concisa como nombre del alimento, imagen, valor nutricional destacado y un enlace para ver más detalles.
+- Tarjetas: Presentar los resultados en tarjetas visuales con información resumida y una imagen atractiva.
+- Recetas: Mostrar recetas relacionadas con la búsqueda, incluyendo ingredientes y pasos a seguir.
+- Gráficos: Visualizar la composición nutricional de los alimentos a través de gráficos circulares o barras.
+
+__Ordenamiento de Resultados__
+- Relevancia: Ordenar los resultados según la coincidencia con los términos de búsqueda.
+- Popularidad: Ordenar por popularidad o número de veces que se ha buscado un alimento.
+- Valor nutricional: Ordenar por contenido de un nutriente específico (por ejemplo, mayor contenido de proteína).
+- Precio: Ordenar por precio de menor a mayor o viceversa.
+
+__Sugerencias de Búsqueda__
+- Búsquedas relacionadas: Sugerir términos de búsqueda similares o relacionados con la consulta inicial.
+- Productos complementarios: Sugerir alimentos que complementen la búsqueda actual (por ejemplo, si se busca "pollo", sugerir "especias para pollo").
+- Recetas: Sugerir recetas que incluyan el alimento buscado.
+
 ### 4.2.5. Navigation Systems.
+En el sitio web de FoodFacts, los usuarios pueden navegar de manera fluida a través de un menú de navegación principal ubicado en la parte izquierda de la pantalla.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FNS.PNG?alt=media&token=bfa29c27-fb63-44f4-bbe2-9cd12d3a312b " alt="N-S" style="width: auto; height: auto;">
+</div>
+
 ## 4.3. Landing Page UI Design.
+
+En esta seccion Diseñaremos con los fundamentos obtenidos en el UX la landing Page y el Website que seria toda la parte visible por parte del cliente.
+
 ### 4.3.1. Landing Page Wireframe.
+
 ### 4.3.2. Landing Page Mock-up.
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
@@ -1250,11 +1413,101 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 ### 4.6.3. Software Architecture Components Diagrams.
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FDCfoodfacts%20(2).png?alt=media&token=2c1320c3-397d-4f93-925a-aefccb7da993 " alt="ErdavicPerfil" style="width: 100%; height: auto;">
+</div>
+
 ### 4.7.2. Class Dictionary.
+### User
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| User | id | Identificador del usuario | int | 4 bytes | Mayor a Cero |
+| | name | Nombre del usuario | string | Cadena de caracteres | Permite solo letras |
+| | email | Correo del usuario | string | Cadena de caracteres | Formato de email válido |
+| | password | Contraseña del usuario | string | Cadena de caracteres | Permite letras, números y símbolos |
+| | phone | Número de teléfono del usuario | string | Cadena de caracteres | Formato de número telefónico |
+
+### Subscription
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| Subscription | startDate | Fecha de inicio de la suscripción | Date | Fecha | Permite solo fechas válidas |
+| | endDate | Fecha de finalización de la suscripción | Date | Fecha | Permite solo fechas válidas |
+| | type | Tipo de suscripción | string | Cadena de caracteres | Premium, Standard, Básico |
+| | cost | Costo de la suscripción | double | Moneda | Mayor o igual a 0 |
+
+### Food
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| Food | name | Nombre del alimento | string | Cadena de caracteres | Permite solo letras |
+| | brand | Marca del alimento | string | Cadena de caracteres | Permite solo letras |
+| | category | Categoría del alimento | string | Cadena de caracteres | Permite solo letras |
+| | weight | Peso del alimento | double | Gramos | Mayor a 0 |
+| | calories | Calorías del alimento | double | Calorías | Mayor a 0 |
+
+### Nutrient
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| Nutrient | name | Nombre del nutriente | string | Cadena de caracteres | Permite solo letras |
+| | amount | Cantidad del nutriente | double | Variable | Mayor a 0 |
+| | unit | Unidad de medida del nutriente | string | Cadena de caracteres | g, mg, μg, etc. |
+| | dailyRecommended | Cantidad diaria recomendada | double | Variable | Mayor a 0 |
+
+### Composition
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| Composition | food | Alimento asociado a la composición | Food | N/A | N/A |
+| | nutrients | Lista de nutrientes | List<Nutrient> | N/A | N/A |
+| | totalAmount | Cantidad total de nutrientes | double | Variable | Mayor a 0 |
+| | dailyPercentage | Porcentaje diario recomendado | double | Porcentaje | Entre 0 y 100 |
+
+### PersonalizedRecommendation
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| PersonalizedRecommendation | user | Usuario que recibe la recomendación | User | N/A | N/A |
+| | recommendationName | Nombre de la recomendación | string | Cadena de caracteres | Permite solo letras |
+| | description | Descripción de la recomendación | string | Cadena de caracteres | N/A |
+| | creationDate | Fecha de creación de la recomendación | Date | Fecha | Permite solo fechas válidas |
+
+### AnalysisSystem
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| AnalysisSystem | systemName | Nombre del sistema de análisis | string | Cadena de caracteres | Permite solo letras |
+| | version | Versión del sistema | string | Cadena de caracteres | N/A |
+| | lastUpdate | Fecha de la última actualización | Date | Fecha | Permite solo fechas válidas |
+
+### AnalysisReport
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| AnalysisReport | userId | Identificador del usuario asociado | int | 4 bytes | Mayor a Cero |
+| | compositionId | Identificador de la composición asociada | int | 4 bytes | Mayor a Cero |
+| | recommendations | Recomendaciones generadas por el sistema | string | Cadena de caracteres | N/A |
+| | reportDate | Fecha del reporte | Date | Fecha | Permite solo fechas válidas |
+| | result | Resultado del análisis | string | Cadena de caracteres | N/A |
+
+### AnalysisHistory
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| AnalysisHistory | pastAnalyses | Lista de análisis previos | List<AnalysisReport> | N/A | N/A |
+| | lastAnalysisDate | Fecha del último análisis | Date | Fecha | Permite solo fechas válidas |
+| | currentStatus | Estado actual del análisis | string | Cadena de caracteres | N/A |
+
+### Notification
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| Notification | message | Mensaje de la notificación | string | Cadena de caracteres | N/A |
+| | sendDate | Fecha de envío de la notificación | Date | Fecha | Permite solo fechas válidas |
+| | read | Estado de lectura de la notificación | boolean | 1 bit | true o false |
+| | type | Tipo de notificación | string | Cadena de caracteres | N/A |
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FDBfoodFacts.png?alt=media&token=5cacaaef-ef20-4cc0-871b-035ffe7119fb " alt="ErdavicPerfil" style="width: 100%; height: auto;">
+</div>
+
 <h1 style="font-family: 'Roboto' sans-serif;">Capítulo V: Product Implementation, Validation & Deployment</h1> 
+
 
 ## 5.1. Software Configuration Management.
 
