@@ -599,11 +599,17 @@ Le gustaría que al registrar un producto alimenticio, se proporcionara un desgl
 Prefiere recibir información clara sobre los alimentos sin sentirse juzgada, y cree que una aplicación que le mostrara riesgos para la salud sería útil si lo hiciera de manera positiva y sin generar más ansiedad. Reportes personalizados podrían ser útiles, pero le preocupa que aumenten su ansiedad si no están orientados al cambio gradual. Le gustaría que la aplicación incluyera herramientas para gestionar la ansiedad relacionada con la comida, y está dispuesta a pagar una opción accesible si la ayuda tanto en lo emocional como en lo físico. Cree que Food-Facts podría ser útil si maneja la información de manera equilibrada y no la hace sentir mal por sus elecciones.
 
 **Entrevista 5:**
+
 **Nombres y Apellidos:** Ruler Elvis, Orizonda valenzuela
+
 **Edad:** 25 años
+
 **Lugar de Residencia:** Santiago de Surco
+
 **Ocupación:** Estudiante 
+
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c027_upc_edu_pe/Ef5Tyw2tbv1Pvq7ZEhr9JhoBEK4VwlPVpc-4Fm4WOXrQCw?e=f7gdg7 
+
 **Resumen de la Entrevista:** En la entrevista realizada, Elvis nos comenta que consume con poca frecuencia alimentos procesados. Sin embargo, considera que es muy importante cuidar nuestra salud; por ello le parece interesante que una aplicación web pueda brindar información nutricional sobre los productos y también alertar los posibles riesgos que conlleva al consumir de forma seguida. Por otra parte menciona que serìa importante que la aplicación web recomiende los productos que deben ser consumidos de forma natural en lugar de los procesados.
 
 ### 2.2.3. Análisis de entrevistas.
