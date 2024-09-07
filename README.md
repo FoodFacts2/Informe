@@ -239,6 +239,12 @@ Soy un estudiante que actualmente curso el 5to ciclo de la carrera de ingenierí
   <p style="text-align:justify; margin-top:10px">Tengo 21 años y actualmente estoy en mi 6to ciclo de Ingeniería de Software. Me fascina la programación y estoy dedicando mucho tiempo a perfeccionar mis habilidades a través de proyectos prácticos y desafiantes. Disfruto resolviendo problemas complejos y buscando soluciones innovadoras. Además, me gusta colaborar con mis compañeros y participar en actividades tecnológicas que me permitan seguir aprendiendo y creciendo en este campo.</p>
 </div>
 
+__Ramos Calagua Sebastian Alexander - 202222846__
+
+<div style="text-align: center;">
+    <img src="https://i.postimg.cc/4NB27nzr/Sebastian-Ramos-foto-perfil.jpg" alt="SebasPerfil" style="width: 15%; height: auto;">
+</div>
+Estudiante de la carrera de Ingeniería de Software. Me gusta todo lo relacionado a la tecnología y al desarrollo web. Espero ansioso poder aprender más del curso a medida que se desarrolle este proyecto.
 
 ## 1.2. Solution Profile
 
