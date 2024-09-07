@@ -33,6 +33,10 @@
                 <td style="border: 1px solid #ddd; padding: 8px;">Quispe Roldan Michael Fred</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">U20221E734</td>
             </tr>
+            <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Sanchez Montero Carlos</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">U202015274</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -1445,8 +1449,17 @@ En esta seccion Diseñaremos con los fundamentos obtenidos en el UX la landing P
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
+
+<img src="assets/Cap-IV/Software Architecture Context Diagram.png">
+
 ### 4.6.2. Software Architecture Container Diagrams.
+
+<img src="assets/Cap-IV/Software Architecture Container Diagrams.png">
+
 ### 4.6.3. Software Architecture Components Diagrams.
+
+<img src="assets/Cap-IV/Software Architecture Components Diagrams.png">
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 <div style="text-align: center;">
