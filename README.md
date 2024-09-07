@@ -1450,15 +1450,15 @@ En esta seccion Diseñaremos con los fundamentos obtenidos en el UX la landing P
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
-<img src="assets/Cap-IV/Software Architecture Context Diagram.png">
+<img src="assets/Software Architecture Context Diagram.png">
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-<img src="assets/Cap-IV/Software Architecture Container Diagrams.png">
+<img src="assets/Software Architecture Container Diagrams.png">
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-<img src="assets/Cap-IV/Software Architecture Components Diagrams.png">
+<img src="assets/Software Architecture Components Diagrams.png">
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
