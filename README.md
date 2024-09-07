@@ -679,11 +679,17 @@ Mateo nos dice que a el le gustaría que FoodFacts tuviera una lista con los ali
 
 **Lugar de Residencia:** San Borja
 
-**Ocupación:** Estudiante 
+**Ocupación:** Estudiante
+
+<img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/zzz.png?alt=media&token=e638082b-e040-48d2-8e55-34dbd8a55bb3">
 
 **URL:** https://upcedupe-my.sharepoint.com/personal/u202213241_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202213241%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo3768844864%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb6ebff82%2D337a%2D4582%2D8e6a%2D536362b82575
 
-**Resumen de la Entrevista:** En la entrevista realizada, Fabrizio comenta que generalmente consume productos procesados, puesto que generalmente anda anda muy ajustado con su horario y pues por ello recurre a este tipo de alimentos como para saciar su hambre, también menciona que padece de diabetes y que le seria muy util una app que le muestre la información de una manera sencilla en la que se le facilite entender.
+**Resumen de la Entrevista:** En la entrevista realizada, Fabrizio comenta que generalmente consume productos procesados, puesto que generalmente anda anda muy ajustado con su horario.
+
+Fabricio recurre a este tipo de comidas como para saciar su hambre. Por lo tanto, asegura que le sería de mucha ayuda el tener una aplicación así.
+
+Tambien menciona que padece de diabetes y que le seria muy util una app que le muestre la información de una manera sencilla en la que se le facilite entender y conocer que tipo y cual es el riesgo de los alimentos que este consume.
 
 
 ### 2.2.3. Análisis de entrevistas.
