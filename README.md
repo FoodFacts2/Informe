@@ -216,6 +216,15 @@ __Dextre Miguel kevin Cosner - 20211c027__
 </div>
 Soy un apasionado por la Tecnología, es por ello que elegí estudiar Ingeniería de Sistemas de Información. Me considero una persona responsable con los deberes que se me encomiendan. Por otro lado, también me gusta apoyar y enseñar cuando tengo un dominio de un tema.
 
+
+
+<div style="margin-top:20px;  text-align: center; ">
+  <p style="font-weight:bold; text-align:left">Sanchez Montero, Carlos - 202015274</p>
+  <img src="assets/carlos.jpeg" style="width: 15%; height: auto; display:inline-block;">
+  <p style="text-align:justify; margin-top:10px">Tengo 21 años y actualmente estoy en mi 6to ciclo de Ingeniería de Software. Me fascina la programación y estoy dedicando mucho tiempo a perfeccionar mis habilidades a través de proyectos prácticos y desafiantes. Disfruto resolviendo problemas complejos y buscando soluciones innovadoras. Además, me gusta colaborar con mis compañeros y participar en actividades tecnológicas que me permitan seguir aprendiendo y creciendo en este campo.</p>
+</div>
+
+
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
