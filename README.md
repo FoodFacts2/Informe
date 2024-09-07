@@ -12,7 +12,7 @@
  
  <div style="text-align: center; font-family: 'Roboto', sans-serif;">
     <p>Ingeniería de Software</p>
-    <p>SI729 - Aplicaciones Web</p>
+    <p>SI730 - Aplicaciones Web</p>
     <p>Docente: Juan Carlos Tinoco Licas</p>
     <p>Startup: NutritionSolutions</p>
     <p>Producto: FoodFacts</p>
