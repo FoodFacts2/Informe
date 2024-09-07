@@ -79,6 +79,26 @@
                 <td style="border: 1px solid #ddd; padding: 8px;">Quispe Roldan Michael Fred</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">- Creación del repositorio del proyecto</td>
             </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">2.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">23/08/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Allcca Guerrero, Irving Washington</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo el capitulo I, II y III</td>
+            </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">3.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">27/08/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Sanchez Montero Carlos</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo el capitulo IV</td>
+            </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">4.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">02/09/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Ramos Calagua, Sebastian Alexanderr</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se desarrollo el landing page</td>
+            </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">5.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">05/09/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Dextre Miguel, Kevin Cosner</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo capitulo V </td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -185,14 +205,14 @@
     </thead>
     <tbody>
         <tr>
-            <td>Criterio 1</td>
-            <td>Acción 1</td>
-            <td>Conclusión 1</td>
+            <td>Trabaja en equipo para proporcionar<br> liderazgo en forma conjunta</td>
+            <td>Michael Quispe<br>TB1<br>-Tomo el liderazgo del equipo<br>-Planifico todas las reuniones<br>Sebastian Ramos<br>TB1<br>-Estuvo en constante comunicacion<br>-Ayudo al lider con las complicaciones<br>Irving Allcca<br>TB1<br>-Estuvo en constante comunicacion con el lider<br>-Ayudaba a los integrantes si tenian dudas<br>Kevin Dextre<br>-Estuvo en constante comunicacion con el grupo<br>-Le decia al lider del grupo todas sus dudas<br>Carlos Sanchez<br>TB1<br>-Comunicaba al lider si habia culminado su trabajo<br>-Comunicaba al grupo si incovenientes</td>
+            <td>El equipo trabajó de manera colaborativa, distribuyendo el liderazgo y las responsabilidades.<br> Michael Quispe asumió el rol principal de liderazgo, organizando las reuniones y tomando decisiones clave.<br> Los demás integrantes, como Sebastián Ramos, Irving Allcca, Kevin Dextre y Carlos Sánchez,<br> apoyaron activamente al líder manteniendo una comunicación constante, ayudando con las complicaciones y asegurándose<br> de que el trabajo fluyera de manera eficiente. <br>Este trabajo en conjunto fue clave para superar dificultades y completar las tareas asignadas.</td>
         </tr>
         <tr>
-            <td>Criterio 2</td>
-            <td>Acción 2</td>
-            <td>Conclusión 2</td>
+            <td>Crea un entorno colaborativo e<br> inclusivo, establece metas,<br> planifica tareas y cumple objetivos.</td>
+            <td>Michael Quispe<br>TB1<br>-Planifico, organizo y creo el trabjo<br>-Propuso como objetivo acabar antes de cierta fecha <br>Sebatian Ramos<br>TB1<br>-Se propuso como meta perfeccionar el landing page<br>-Estaba dispuesto a recibir ayuda<br>Irving Allcca<br>TB1<br>-Cumplio a tiempo con lo pedido<br>-Propuso metas a cumplir <br>Kevin Dextre<br>-Proponia constantemente metas y objetivos<br>-Se reunia con el lider del grupo para resolver sus dudas<br>Carlos Sanchez<br>TB1<br>-Colaboraba con todos los objetivos propuestos<br>-Cumplio con todas las metas propuestas</td>
+            <td> El equipo trabajó de manera efectiva en un entorno colaborativo e inclusivo, estableciendo metas claras y cumpliendo con los objetivos propuestos.<br> Michael Quispe lideró el proceso, planificando y organizando el trabajo, con un enfoque en cumplir antes de los plazos establecidos. <br>Cada miembro del equipo, como Sebastián Ramos, Irving Allcca, Kevin Dextre y Carlos Sánchez, contribuyó activamente proponiendo metas, cumpliendo con sus responsabilidades y apoyándose mutuamente para garantizar el éxito del proyecto. <br>Este esfuerzo conjunto permitió alcanzar los objetivos de manera eficiente.</td>
         </tr>
     </tbody>
 </table>
@@ -299,7 +319,7 @@ Hemos detectados un factor critico que podria afectar la experiencia del usuario
 ### 1.2.2.4. Lean UX Canvas.
 
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/uBDL4Y7.png" alt="canvas" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FleanUXfoodFacts.png?alt=media&token=4d7f80c1-0545-463a-a907-09dcf10ce897" alt="canvas" style="width: auto; height: auto;">
 </div>
 
 ## 1.3. Segmentos objetivo.
@@ -2390,7 +2410,7 @@ Esperamos unos minutos y se hizo el despliegue en  GitHub despliega tu sitio.
 </div>
 
 
-Landing page desplegado: https://neon-trifle-2e0392.netlify.app/ 
+Landing page desplegado:  https://github.com/orgs/Food-Facts/repositories 
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -2401,7 +2421,7 @@ Team collaboration de la Organizacion:
 Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas que otros pero es aplicando mejora continua entre compañeros.
 
 <div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FTeam-insight-Informe.PNG?alt=media&token=8bf57737-e207-4004-841c-4822fa7a7056" alt="W5" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCommits.png?alt=media&token=4e71b20e-1c8f-4886-ae49-098865966ced" style="width: auto; height: auto;">
 </div>
 
 ## Conclusiones
