@@ -237,7 +237,7 @@ Nuesta Startup proporciona un análisis detallado de la composición nutricional
 __Quispe Roldan Michael Fred - 20221E734__
 
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/jgIXFKS.png" alt="ErdavicPerfil" style="width: 15%; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FFoto.png?alt=media&token=4955e321-d71b-4320-8f88-7af4546d7348" style="width: 15%; height: auto;">
 </div>
 Actualmente estoy cursando el quinto ciclo de ingenieria de software. Mi compromiso con la responsabilidad, la atención y la disposición para liderar me capacita para desempeñar un papel efectivo como líder en mi equipo. Estas cualidades me permiten trabajar en colaboración con mis compañeros, mantener altos estándares de desempeño y avanzar hacia el logro de nuestros objetivos comunes.
 
