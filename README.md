@@ -30,8 +30,20 @@
         </thead>
         <tbody>
             <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Allcca Guerrero, Irving Washington</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">u202213241</td>
+            </tr>
+             <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Dextre Miguel, Kevin Cosner</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">u20211c027</td>
+            </tr>
+            <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">Quispe Roldan Michael Fred</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">U20221E734</td>
+            </tr>
+            <tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">Ramos Calagua, Sebastian Alexander</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">u202222846</td>
             </tr>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">Sanchez Montero Carlos</td>
@@ -163,7 +175,6 @@
 
 
 ## Student Outcome
-
 <table>
     <thead>
         <tr>
@@ -1564,33 +1575,730 @@ En esta seccion Diseñaremos con los fundamentos obtenidos en el UX la landing P
     <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FDBfoodFacts.png?alt=media&token=5cacaaef-ef20-4cc0-871b-035ffe7119fb " alt="ErdavicPerfil" style="width: 100%; height: auto;">
 </div>
 
-<h1 style="font-family: 'Roboto' sans-serif;">Capítulo V: Product Implementation, Validation & Deployment</h1> 
 
+<h1 style="font-family: 'Roboto' sans-serif;">Capítulo V: Product Implementation, Validation & Deployment</h1> 
 
 ## 5.1. Software Configuration Management.
 
+El Software Configuration Management (SCM) resulta importante en cualquier solución ya que ayuda a gestionar y controlar los cambios realizados en el proyecto, teniendo como objetivo la integridad de cada uno de los elementos del software. Es por ello que en esta sección apreciaremos detalladamente los software utilizados por el equipo, las convenciones en la gestión de versión y gestión de cambios en repositorios remotos.
+
 ### 5.1.1. Software Development Environment Configuration.
+
+### Project Management: 
+Para poder llevar a cabo el proyecto, se creó un grupo de WhatsApp para la comunicación entre los miembros del equipo. Se acordó realizar una reunión de forma semanal para poder revisar los avances y discutir sobre los puntos que no quedaron claros o cuando surge una duda. Para una mayor formalidad y poder realizar el seguimiento a las actividades se realizó el uso del Trello, para la documentación del proyecto y el desarrollo del código se utilizó GitHub y las reuniones se realizó mediante la plataforma de Discord.
+
+### Requirements Management: 
+Debido a que cada estudiante avance las partes que le fueron asignadas, estas se tienen que revisar entre todos los integrantes en las reuniones, para poder brindar sugerencias de mejora y retroalimentación con la finalidad de que el proyecto se desarrolle de la mejor manera.
+
+### Product UX/UI Design:
+Antes de empezar con él còdigo es importante realizar el diseño del producto; ya que ello es importante para presentar al cliente para su aprobación. Para desarrollar el wireframe y los Mockup se hizo uso de la herramienta figma.
+
+### Software Development:
+Se utilizò las siguientes herramientas para el desarrollo del proyecto:
+Para frontend se utilizò el framework de Javascript vue.
+Para implementar el backend C# con la plataforma .Net.
+
+
 ### 5.1.2. Source Code Management.
+
+En esta sección detallaremos el esquema de organización que utilizaremos para aplicar el seguimiento de modificaciones que realizaremos en nuestro proyeto.
+
+#### Repositorio Remoto
+
+Haremos uso de la plataforma GitHub para crear nuestros repositorios remotos. Estos repositorios serán de gran utilidad ya que nos sirven para almacenar y gestionar nuestro código fuente y la documentación. Así mismo, nos facilita la colaboración entre todos los integrantes del grupo y permite tener un control de versiones de nuestro proyecto.
+
+Link de nuestro repositorio: https://github.com/FoodFacts2/Landing-pag 
+
+Conventional Commits
+
+Haremos uso de Conventional Commits para tener una mejor comprensión de los cambios realizados en el repositorio. Utilizaremos palabras clave como fix o feature para indicar el tipo de cambio realizado en los archivos, ya sea para el arreglo de bugs o la agregación de nuevo contenido.
+
+Versionamiento del software
+
+Para el versionamiento de nuestro software haremos uso de etiquetas en git (git tag). Las etiquetas que representan las versiones del proyecto están conformadas por 3 números (vX.Y.Z):
+
+Primer número de la etiqueta (X): Este representa la versión mayor del proyecto y se cambia cuando existen modificaciones importantes en las funcionalidades principales del sistema.
+
+Segundo número de la etiqueta (Y): Este representa la agregación o el retiro de funcionalidades al sistema sin alterar su estructura principal.
+
+Tercer número de la etiqueta (Z): Este número final representa los parches realizados al software y es utilizado cuando se realiza una revisión. Suele utilizarse para corregir errores simples.
+
+Es así como en nuestro repositorio será observable el uso de etiquetas como v0.1.0 o v1.0.0 indicando la versión respectiva según el avance del proyecto .
+
+
 ### 5.1.3. Source Code Style Guide & Conventions.
+
+#### Convenciones de Estilo para HTML
+
+- Estructura y Semántica
+Usar etiquetas semánticas siempre que sea posible para mejorar la accesibilidad y SEO:
+
+```html
+<header>, <nav>, <section>, <article>, <footer>, etc.
+Mantén la indentación consistente con 2 espacios.
+
+```
+
+- Las etiquetas deben estar en minúsculas.
+
+- Atributos de etiquetas deben estar entre comillas dobles "".
+
+Ejemplo:
+
+```html
+<section class="product-info">
+  <h2>Información del Producto</h2>
+  <p>Datos sobre el producto...</p>
+</section>
+``` 
+
+- Comentarios
+Usa comentarios para explicar secciones importantes del código, pero evita el exceso.
+
+Ejemplo:
+
+```html
+<!-- Inicio de la sección de productos -->
+<section class="product-info">
+  <!-- Detalles del producto -->
+  <p>Detalles...</p>
+</section>
+```
+
+- Nombres de Clases e IDs
+Nombres en kebab-case (minúsculas y separadas por guiones) para clases y IDs. <br>
+
+Ejemplo: product-info, main-header.
+Utilizar clases en lugar de IDs para estilos reutilizables.
+
+#### Convenciones de Estilo para CSS
+- Organización del Archivo
+Organiza el CSS en bloques lógicos (layout, tipografía, botones, etc.).
+
+Usa comentarios para separar secciones dentro del archivo CSS.
+
+Ejemplo:
+
+```css
+/* Layout */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* Tipografía */
+h1, h2, h3 {
+  font-family: 'Arial', sans-serif;
+}
+```
+
+- Nombres de Clases <br>
+Utilizar nombres claros y descriptivos en kebab-case.<br>
+Ejemplo: .main-header, .product-details, .footer-links.
+
+- Uso de Unidades
+Usa rem o em para tamaños relativos (tipografía, márgenes, padding), y px para bordes o imágenes.<br>
+
+Ejemplo:
+
+```css
+body {
+  font-size: 16px;
+}
+h1 {
+  font-size: 2rem; /* Equivalente a 32px si 1rem = 16px */
+}
+
+```
+
+-  Selectores
+Evitar los selectores anidados profundamente para mejorar la legibilidad y evitar problemas de especificidad.
+Usar selectores clase (.) en lugar de selectores de ID (#), para que los estilos sean reutilizables.
+
+- Reset o Normalize CSS
+Considera usar un archivo de reset o normalize.css para tener una base consistente en todos los navegadores.
+- Flexbox y Grid
+Usa Flexbox y CSS Grid para layouts responsivos y más flexibles en lugar de sistemas basados en floats.<br>
+Ejemplo de Flexbox:
+
+```css
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+```
+#### Convenciones de Estilo para JavaScript
+
+-  Uso de let, const y var
+Usa const para variables cuyo valor no va a cambiar, y let para aquellas que pueden ser reasignadas.
+
+Evita usar var. <br>
+
+Ejemplo:
+
+```js
+const apiUrl = "https://api.foodfacts.com";
+let totalCalories = 0;
+```
+
+- Funciones
+Definir funciones con nombres descriptivos en camelCase.
+
+si usamos funciones en ES6, prioriza las funciones flecha.
+
+Ejemplo:
+
+```js
+const calculateRiskScore = (product) => {
+  // código aquí
+};
+
+```
+
+-  Comentarios 
+Usar comentarios para explicar la lógica compleja.
+
+Ejemplo:
+
+```js
+// Calcula el puntaje de riesgo del producto
+const riskScore = calculateRiskScore(product);
+```
+
+
+ - Buenas Prácticas
+Mantén las funciones pequeñas y específicas.
+
+Evitar la repetición de código (principio DRY: Don’t Repeat Yourself).
+
+Usar promesas o async/await para manejar el código asíncrono, evitando los callbacks anidados.
+
+Ejemplo:
+
+```js
+async function fetchProductData(productId) {
+  try {
+    const response = await fetch(`https://api.foodfacts.com/products/${productId}`);
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error("Error al obtener los datos del producto", error);
+  }
+}
+```
+
+- Manejo de Errores
+Usa bloques try/catch en código asíncrono para manejar errores y mejorar la confiabilidad.
+
+Ejemplo:
+
+```js
+try {
+  const productData = await fetchProductData(productId);
+} catch (error) {
+  console.error("Error al cargar los datos del producto", error);
+}
+
+```
+
+- Estructura de Archivos y Carpetas
+```
+index.html: Archivo principal HTML.
+/css/style.css: Archivo principal de estilos.
+/js/script.js: Archivo principal de JavaScript.
+/img/: Carpeta para imágenes.
+```
+
 ### 5.1.4. Software Deployment Configuration.
+
+####   Despliegue en GitHub Pages
+
+##### Acceder a la Configuración del Repositorio
+1. El usuario debe ir al repositorio en GitHub donde ya se encuentra el código del proyecto, por ejemplo: `https://github.com/FoodFacts2/Landing-page `.
+2. En la parte superior del repositorio, seleccionar la pestaña **Settings**.
+
+####  Configurar GitHub Pages
+
+1. En el menú de la izquierda, el usuario debe desplazarse hacia abajo hasta la sección **Pages**.
+2. En la sección **Source**, seleccionar el branch donde está almacenado el código (generalmente `main` o `master`).
+3. Si el código está en la raíz del repositorio, seleccionar la carpeta `/root` como directorio fuente.
+4. Presionar el botón **Save** para guardar la configuración.
+
+#### Esperar a que el Sitio se Publique
+1. GitHub comenzará a desplegar automáticamente la página web.
+2. Una vez completado, aparecerá un enlace que permitirá acceder al sitio web publicado. 
+
+
+####  Verificación del Despliegue
+1. El usuario puede hacer clic en el enlace proporcionado por GitHub Pages o copiarlo en su navegador para verificar que la página web está en línea.
+
+####  Actualizaciones Futuras
+1. Para actualizar la página web, el usuario debe hacer cambios en su código local, confirmarlos (`commit`), y luego enviarlos (`push`) al repositorio.
+2. GitHub Pages volverá a desplegar automáticamente la página cada vez que se realicen nuevos envíos de código al branch configurado.
+
+#### Consideraciones Adicionales
+
+- **Custom Domain**: Si el usuario quiere configurar un dominio personalizado, puede hacerlo agregando un archivo `CNAME` con el nombre del dominio en el repositorio y configurando el DNS en el proveedor del dominio.
+- **HTTPS**: GitHub Pages activa automáticamente el uso de HTTPS, por lo que no es necesario configurarlo manualmente.
+
 ## 5.2. Landing Page, Services & Applications Implementation.
+
 ### 5.2.1. Sprint 1
+
+Durante el Sprint 1, nuestro enfoque estuvo en el diseño de la landing page de nuestro producto. Trabajamos arduamente para conceptualizar y dar forma a la primera impresión que tendrán nuestros usuarios. Este sprint fue fundamental para establecer la estética y la estructura inicial de nuestra plataforma, sentando así las bases para futuras iteraciones.
+
 ### 5.2.1.1. Sprint Planning 1.
+
+
+Acontinuacion  mostraremos la tabla:
+
+| Sprint 1 | Sprint 1 |
+|----------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2024/08/26 |
+| **Time** | 10:00 PM |
+| **Location** | Reunión por Discord |
+| **Prepared By** | Michael Quispe |
+| **Attendees (to planning meeting)** | Allcca Guerrero, Irving Washington <br> Dextre Miguel, Kevin Cosner<br> Ramos Calagua, Sebastian Alexander<br> Sanchez Montero, Carlos |
+| **Sprint n 1 Review Summary** | Nos hemos reunido para analizar las User Stories y de acuerdo a ello poner en marcha el trabajo|
+| **Sprint n – 1 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
+| **Sprint Planning Background** | |
+| **Sprint 1 Goal** | Completar el desarrollo de la landing page |
+| **Sprint 1 Velocity** | **Story US-006**: Registro de usuarios (2 Story Points) <br><br> **Story US-007**: Inicio de sesión de usuarios (2 Story Points) <br><br> **Story US-018**: Guardar productos favoritos (2 Story Points) <br><br> **Story US-019**: Eliminar productos de favoritos (2 Story Points) <br><br> **Story US-002**: Buscar productos por nombre o categoría (3 Story Points) <br><br> **Story US-005**: Valor nutricional real (3 Story Points) |
+| **Sum of Story Points** | Suma de Story Points: 2 + 2 + 2 + 2 + 3 + 3 = **14 Story Points** |
+
+
+
 ### 5.2.1.2. Sprint Backlog 1.
+
+<table>
+  <tr>
+    <th>Sprint 3</th>
+    <th colspan="7">Sprint 3</th>
+  </tr>
+  <tr>
+    <th colspan="2"> User Story</th>
+    <th colspan="7">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <td>001</td>
+    <td>apartado de la landing</td>
+    <td>026</td>
+    <td>Diseño De Hero Section</td>
+    <td>Como visitante, quiero ver una sección principal atractiva en la landing page que me muestre rápidamente el propósito y valor de la aplicación.</td>
+    <td>6.00</td>
+    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>002</td>
+    <td>apartado de la landing</td>
+    <td>027</td>
+    <td>Sección de Características Principales</td>
+    <td>Como visitante, quiero ver una sección que destaque las características principales de la aplicación para entender sus beneficios.</td>
+    <td>8.00</td>
+    <td>Allcca Guerrero, Irving Washington</td>
+    <td>Done</td>
+  </tr>
+    <tr>
+    <td>003</td>
+    <td>apartado de la landing</td>
+    <td>028</td>
+    <td>Testimonios de Usuarios</td>
+    <td>Como visitante, quiero leer testimonios de otros usuarios para confiar en la utilidad y efectividad de la aplicación.</td>
+    <td>8.00</td>
+    <td>Dextre Miguel, Kevin Cosner</td>
+    <td>Done</td>
+  </tr>
+   </tr>
+    <tr>
+    <td>004</td>
+    <td>apartado de la landing</td>
+    <td>029</td>
+    <td>Formulario de Contacto</td>
+    <td>Como visitante, quiero tener acceso a un formulario de contacto para poder hacer preguntas o solicitar más información.</td>
+    <td>4.00</td>
+    <td>Sanchez Montero, Carlos</td>
+    <td>Done</td>
+  </tr>
+   </tr>
+   </tr>
+    <tr>
+    <td>005</td>
+    <td>apartado de la landing</td>
+    <td>030</td>
+    <td>Sección de Preguntas Frecuentes</td>
+    <td>Como visitante, quiero ver una sección de preguntas frecuentes para resolver mis dudas rápidamente.</td>
+    <td>6.00</td>
+    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>Done</td>
+  </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>006</td>
+    <td>apartado de la landing</td>
+    <td>031</td>
+    <td>Diseño Responsivo</td>
+    <td>Como visitante, quiero que la landing page se vea y funcione bien en todos mis dispositivos (móvil, tablet, desktop).</td>
+    <td>8.00</td>
+    <td>Allcca Guerrero, Irving Washington</td>
+    <td>Done</td>
+  </tr>
+  </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>007</td>
+    <td>apartado de la landing</td>
+    <td>032</td>
+    <td>Call-to-Action para Registro</td>
+    <td>Como visitante, quiero ver botones claros de llamada a la acción para registrarme o probar la aplicación.</td>
+    <td>4.00</td>
+    <td>Dextre Miguel, Kevin Cosner</td>
+    <td>Done</td>
+  </tr>
+   </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>008</td>
+    <td>apartado de la landing</td>
+    <td>033</td>
+    <td>Integración de Redes Sociales</td>
+    <td>Como visitante, quiero poder acceder fácilmente a las redes sociales de la aplicación desde la landing page..</td>
+    <td>4.00</td>
+    <td>Quispe Roldan, Michael Fred </td>
+    <td>Done</td>
+  </tr>
+  </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>009</td>
+    <td>apartado de la landing</td>
+    <td>034</td>
+    <td>Sección de Casos de Uso</td>
+    <td>Como visitante, quiero ver ejemplos concretos de cómo la aplicación puede ayudarme en mi día a día</td>
+    <td>4.00</td>
+    <td>Sanchez Montero, Carlos</td>
+    <td>Done</td>
+  </tr>
+  </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>0010</td>
+    <td>apartado de la landing</td>
+    <td>035</td>
+    <td>Optimización SEO</td>
+    <td>Como propietario del producto, quiero que la landing page esté optimizada para motores de búsqueda para aumentar la visibilidad online.</td>
+    <td>6.00</td>
+    <td>Quispe Roldan, Michael Fred</td>
+    <td>Done</td>
+  </tr>
+</table>
+
 ### 5.2.1.3. Development Evidence for Sprint Review.
+
+
+Para este entrega  hemos realizado en entre los 2 repositorios Informe y Landing Page hemos Hecho 65 commits varios de ellos sobre el informe, landing page y correcciones aca dejo los mas importante:
+
+
+
+| Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
+| -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
+| Food-Facts/Informe   | main   | id1       | fix:                             | imge url                                     | 6/09/2024        |
+| Food-Facts/Informe   | main   | id2       | docs(Informe):                   | Added Product Backlog                        | 6/09/2024        |
+| Food-Facts/Informe   | main   | id3       | docs(informe):                   | Update Startup description                   | 5/09/2024        |
+| Food-Facts/Informe   | main   | id4       | fix:                             | update sprint planning 1                     | 5/09/2024        |
+| Food-Facts/Informe   | main   | id5       | docs(informe):                   | Add software deployment configuration        | 5/09/2024        |
+| Food-Facts/Informe   | main   | id6       | docs(Informe):                   | added mocks and wireframes Web               | 4/09/2024        |
+| Food-Facts/Informe   | main   | id7       | docs(informe):                   | Update General Style Guidelines              | 5/09/2024        |
+| Food-Facts/Landing Page  | main   | id8       | landing page design:             | improvement                                  | 5/09/2024        |
+| Food-Facts/Landing Page | main   | id9       | add:                             | somos.html & somos.css                       | 4/09/2024        |
+| Food-Facts/Landing Page   | main   | id10      | update:                          | preguntas.html                               | 4/09/2024        |
+| Food-Facts/Landing Page   | main   | id11      | update:                          | preguntas.css                                | 3/09/2024        |
+|Food-Facts/Landing Page  | main   | id12      | update:                          | index.html                                   | 2/09/2024        |
+| Food-Facts/Informe   | main   | id13      | docs(Informe):                   | Add Melina's name                            | 4/09/2024        |
+| Food-Facts/Informe   | main   | id14      | docs(informe):                   | Add sprint planning 1                        | 3/09/2024        |
+| Food-Facts/Informe   | main   | id15      | docs(Informe):                   | Add Wireframes                               | 3/09/2024        |
+| Food-Facts/Informe   | main   | id16      | docs(informe):                   | Added user flow and wireframes diagram       | 2/09/2024        |
+| Food-Facts/Informe   | main   | id17      | docs(informe):                   | Add software deployment configuration        | 2/09/2024        |
+| Food-Facts/Informe   | main   | id18      | fix:                             | corrected error in an image                  | 1/09/2024        |
+| Food-Facts/Informe   | main   | id19      | docs(Informe):                   | Product backlog corrected                    | 1/09/2024        |
+| Food-Facts/Informe   | main   | id20      | docs(Informe):                   | Added interviews and missing points          | 1/09/2024        |
+| Food-Facts/Informe   | main   | id21      | docs(Informe):                   | I made continuous improvement to the report  | 1/09/2024        |
+
+Para ver todos los commits con mas detalle revisar el repositorio
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+En esta seccion implementamos el funcionamiento del obejtivo principal que seria la landing Page Atravez del testing en este caso no tenemos conomiento tecnico si no coceptual y usaremos los criterios de aceptacion
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on Date |
+| ---------- | ------ | ---------- | --------------- | -------------------- | ----------------- |
+|testing | feature | 1 | Added | feature's Diseño de Hero Section| 09/06/2024 |
+|testing|feature|2| Added | feature's Sección de Características Principales | 06/09/2024
+|testing|featuret|3| Added | feature's  Testimonios de Usuarios| 06/09/2024
+|testing|feature|4| Added | feature's Formulario de Contacto | 06/09/2024
+|testing|feature|5| Added | feature's Mostrar formulario de contacto | 06/09/2024
+|testing|feature|6| Added | feature's  Sección de Preguntas Frecuentes| 06/09/2024
+|testing|feature|7| Added | feature's Diseño Responsivo| 06/09/2024
+|testing|feature|8| Added | feature's Call-to-Action para Registro| 06/09/2024
+|testing|feature|9| Added | feature's Integración de Redes Sociales| 06/09/2024
+|testing|feature|9| Added | feature's Sección de Casos de Uso| 06/09/2024
+|testing|feature|9| Added | feature's Optimización de SEO en la landing page| 06/09/2024
+
+```feature
+Feature: Diseño de Hero Section
+  Como visitante, quiero ver una sección principal atractiva en la landing page que me muestre rápidamente el propósito y valor de la aplicación.
+
+  Scenario: Mostrar Hero Section con propósito y valor claro
+    Given soy un visitante en la landing page
+    When la página carga
+    Then debería ver una sección principal con un título y subtítulo claros
+    And la sección debe comunicar el propósito y valor de la aplicación
+    And debe ser visualmente atractiva con imágenes o gráficos relevantes
+
+Feature: Sección de Características Principales
+  Como visitante, quiero ver una sección que destaque las características principales de la aplicación para entender sus beneficios.
+
+  Scenario: Mostrar sección de características principales
+    Given soy un visitante en la landing page
+    When la página carga
+    Then debería ver una sección con al menos 3 características principales de la aplicación
+    And cada característica debe tener un título, una descripción breve, y un icono o imagen
+
+
+    Feature: Testimonios de Usuarios
+  Como visitante, quiero leer testimonios de otros usuarios para confiar en la utilidad y efectividad de la aplicación.
+
+  Scenario: Mostrar sección de testimonios de usuarios
+    Given soy un visitante en la landing page
+    When la página carga
+    Then debería ver una sección con al menos 3 testimonios de usuarios
+    And cada testimonio debe incluir el nombre del usuario y una breve opinión sobre la aplicación
+
+
+Feature: Formulario de Contacto
+  Como visitante, quiero tener acceso a un formulario de contacto para poder hacer preguntas o solicitar más información.
+
+  Scenario: Mostrar formulario de contacto
+    Given soy un visitante en la landing page
+    When hago scroll hacia el final de la página
+    Then debería ver un formulario de contacto con campos para nombre, correo electrónico, y mensaje
+    And debería haber un botón para enviar el formulario
+
+
+Feature: Sección de Preguntas Frecuentes
+  Como visitante, quiero ver una sección de preguntas frecuentes para resolver mis dudas rápidamente.
+
+  Scenario: Mostrar sección de preguntas frecuentes
+    Given soy un visitante en la landing page
+    When hago scroll hacia la sección de preguntas frecuentes
+    Then debería ver al menos 5 preguntas frecuentes con sus respectivas respuestas
+
+Feature: Diseño Responsivo
+  Como visitante, quiero que la landing page se vea y funcione bien en todos mis dispositivos (móvil, tablet, desktop).
+
+  Scenario: Ver diseño responsivo en varios dispositivos
+    Given soy un visitante en la landing page
+    When accedo desde un dispositivo móvil, tablet o desktop
+    Then la página debe ajustarse correctamente al tamaño de la pantalla
+    And todos los elementos deben ser visibles y funcionales en cualquier dispositivo
+
+Feature: Call-to-Action para Registro
+  Como visitante, quiero ver botones claros de llamada a la acción para registrarme o probar la aplicación.
+
+  Scenario: Mostrar botones de llamada a la acción
+    Given soy un visitante en la landing page
+    When hago scroll en la página
+    Then debería ver al menos un botón claro de "Registrarse" o "Probar la aplicación"
+    And el botón debe ser llamativo y funcional
+
+
+Feature: Integración de Redes Sociales
+  Como visitante, quiero poder acceder fácilmente a las redes sociales de la aplicación desde la landing page.
+
+  Scenario: Mostrar íconos de redes sociales
+    Given soy un visitante en la landing page
+    When hago scroll hacia el pie de página
+    Then debería ver íconos de redes sociales como Facebook, Twitter, e Instagram
+    And al hacer clic en cualquier ícono, debería redirigirme a la página de la red social correspondiente
+
+
+Feature: Sección de Casos de Uso
+  Como visitante, quiero ver ejemplos concretos de cómo la aplicación puede ayudarme en mi día a día.
+
+  Scenario: Mostrar sección de casos de uso
+    Given soy un visitante en la landing page
+    When hago scroll hacia la sección de casos de uso
+    Then debería ver al menos 2 ejemplos de cómo la aplicación puede ser utilizada en situaciones cotidianas
+
+Feature: Optimización SEO
+  Como propietario del producto, quiero que la landing page esté optimizada para motores de búsqueda para aumentar la visibilidad online.
+
+  Scenario: Optimización de SEO en la landing page
+    Given la landing page está en producción
+    When el contenido de la página es indexado por motores de búsqueda
+    Then debería estar optimizado con meta tags, descripciones, y palabras clave relevantes
+    And la página debería cargarse rápidamente para mejorar el posicionamiento SEO
+
+```
+
 ### 5.2.1.5. Execution Evidence for Sprint Review.
+
+En resumen hemos logrado implementar todos las historias de usuario de la landing page al igual que  todo el web application junto con su testing
+ 
+ Landing page Evidence:
+ <div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup1.png?alt=media&token=66295e34-726b-42bb-8137-40fbdebf7c62" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup2.png?alt=media&token=f7712ff2-b0fb-4536-b28b-0f4b70836d70" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup3.jpg?alt=media&token=3e9d68ea-0d54-447f-b0e9-234f8369e27c" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+
+Sprint: Sprint 1
+Fecha: 06/09/2024
+FooFacts
+
+1. Resumen
+El objetivo de este sprint fue diseñar e implementar secciones clave de la landing page, centrándonos en la interfaz de usuario (UI) y la experiencia de usuario (UX) para proporcionar una experiencia visual atractiva y fluida para los visitantes. Las siguientes secciones fueron trabajadas durante este sprint:
+
+- Hero Section (Sección Principal)<br>
+- Sección de Características<br>
+- Testimonios<br>
+- Formulario de Contacto<br>
+- Sección de Preguntas Frecuentes (FAQ)<br>
+- Diseño Responsivo<br>
+- Botones de Llamada a la Acción (CTA)<br>
+
+2. Trabajo Realizado
+<br><br>
+- 2.1 Hero Section
+Implementamos una sección principal visualmente atractiva con un mensaje claro que muestra la propuesta de valor de la aplicación.
+Se incluyó una imagen de fondo de alta calidad relacionada con el servicio.
+Agregamos un título y un subtítulo concisos que comunican rápidamente el propósito de la aplicación.<br><br>
+- 2.2 Sección de Características
+Diseñamos una sección que destaca las 3 características principales de la aplicación.
+Cada característica incluye una breve descripción, un ícono y visuales de apoyo.
+<br><br>
+- 2.3 Testimonios
+Añadimos una sección de testimonios para generar confianza entre los visitantes. Esta sección incluye comentarios reales de usuarios sobre la aplicación.
+Los testimonios incluyen el nombre de los usuarios y, opcionalmente, sus fotos.
+<br><br>
+- 2.4 Formulario de Contacto
+Desarrollamos un formulario de contacto sencillo y funcional en la parte inferior de la página.
+El formulario captura los datos básicos del usuario como nombre, correo electrónico y mensaje.
+Se muestra un mensaje de éxito tras el envío del formulario.
+<br><br>
+- 2.5 Sección de Preguntas Frecuentes (FAQ)
+Creamos una sección de preguntas frecuentes con 5 preguntas clave que abordan las inquietudes comunes de los usuarios.
+Cada pregunta es colapsable, mejorando la legibilidad.
+<br><br>
+- 2.6 Diseño Responsivo
+Aseguramos que toda la landing page sea completamente responsiva en diferentes dispositivos (móvil, tablet, escritorio).
+Probamos la página en varios tamaños de pantalla para garantizar una experiencia óptima.
+<br><br>
+- 2.7 Botones de Llamada a la Acción (CTA)
+Incorporamos botones de llamada a la acción estratégicamente ubicados, como los botones "Registrarse" y "Probar la Aplicación".
+Los botones están diseñados para ser visualmente atractivos y altamente clicables.
+
+3. Hallazgos y Desafíos
+Diseño Responsivo: Asegurar que la landing page se vea atractiva en todos los dispositivos fue un reto, especialmente con el escalado de imágenes en la Hero Section.
+Validación del Formulario: Se implementó validación básica para el formulario de contacto, pero se necesita más trabajo para manejar casos como correos electrónicos inválidos.
+Optimización SEO: Será necesario trabajar más en sprints futuros para mejorar el SEO mediante meta descripciones, textos alternativos para imágenes y palabras clave.
+
+4. Próximos Pasos
+Continuar optimizando la landing page para mejorar el rendimiento SEO.
+Implementar seguimiento en los botones de llamada a la acción para monitorear interacciones de los usuarios.
+Mejorar la validación del formulario y añadir la integración con backend para los envíos del formulario.
+Realizar pruebas adicionales con usuarios para recoger feedback sobre el diseño actual.
+
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Como lo explicamos anteriormente vamos usar githubPages como sistema de despliegue.
+
+Configuramos GitHub Pages
+
+- Vamos a la página de tu repositorio en GitHub.
+- Hazemos  clic en "Settings" en la barra superior.
+- En el menú lateral izquierdo, selecionamos  en "Pages".
+- En "Source", seleccionamod "main" como rama y "/" (root) como carpeta.
+Haz clic en "Save".
+
+
+Accedemos a la lading:
+
+GitHub nos proposciona una URL
+
+Esperamos unos minutos y se hizo el despliegue en  GitHub despliega tu sitio.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fdesplieguelandingfoodfacts.PNG?alt=media&token=683cfb0a-584e-4823-9156-37f429834850" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+Landing page desplegado: https://neon-trifle-2e0392.netlify.app/ 
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
-## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
-## 5.4. Video About-the-Product.
+
+En este Aparto veremos colaboracion real entre todos los integrantes de FooDFacts en la implementacion de la landing Page
+
+Team collaboration de la Organizacion:
+
+Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas que otros pero es aplicando mejora continua entre compañeros.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FTeam-insight-Informe.PNG?alt=media&token=8bf57737-e207-4004-841c-4822fa7a7056" alt="W5" style="width: auto; height: auto;">
+</div>
 
 ## Conclusiones
-##  Conclusiones y recomendaciones.
-##  Video About-the-Team.
-##  Bibliografía
-##  Anexos
+
+
+- Una landing page sobre los riesgos de los alimentos procesados es una herramienta educativa crucial. <br><br> Puede influir significativamente en la conciencia pública sobre la salud alimentaria.
+<br><br>
+- El diseño atractivo y la usabilidad son fundamentales. Una estructura clara ayuda a los usuarios a encontrar información rápidamente, mejorando la efectividad del mensaje.
+<br><br>
+- El contenido debe ser científicamente preciso y actualizado. Esto aumenta la credibilidad y el valor informativo de la página.
+
+
+## Bibliografia 
+
+
+## Anexos
+
+
+link del figma: https://www.figma.com/design/jlQyN71VRygji3P5ALdaCW/WebSite?node-id=0-1&node-type=CANVAS&t=jMjJGt81TCCz2t9P-0
+
+link del repositorio: https://github.com/FoodFacts2
+
+link del la landing desplegada: https://neon-trifle-2e0392.netlify.app/
+
+link del video de Exposicion: 
