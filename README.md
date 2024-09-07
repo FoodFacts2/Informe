@@ -671,15 +671,15 @@ En esta sección, presentamos las fichas de User Persona, que representan arquet
 Las User Personas no solo nos ayudan a visualizar a nuestros usuarios, sino que también guían nuestras decisiones de diseño y desarrollo, asegurando que cada función de Food-Facts esté alineada con las expectativas y necesidades reales del mercado.
 
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/F7fU9Ro.png" alt="user1" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fuser1.png?alt=media&token=cc0ab3b9-7ac5-4488-823d-3644f58e70ba" alt="user1" style="width: auto; height: auto;">
 </div>
 
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/DAvsgkl.png" alt="user2" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fuser2.png?alt=media&token=1dbb5f4e-31d0-4b95-b2b4-1c14dca30f79" alt="user2" style="width: auto; height: auto;">
 </div>
 
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/dksoplu.png" alt="user3" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fuser3.png?alt=media&token=eceb5bb7-067e-4b8d-82d0-bb2098563309" alt="user3" style="width: auto; height: auto;">
 </div>
 
 ### 2.3.2. User Task Matrix.
@@ -831,41 +831,27 @@ Las User Personas no solo nos ayudan a visualizar a nuestros usuarios, sino que 
 </table>
 
 ### 2.3.3. User Journey Mapping.
+
 **Persona 1: "Jose luis, el Profesional Activo y Consciente"**
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/XRLmCVM.png" alt="jmp1" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FE1.png?alt=media&token=a1648f95-387a-4936-9f99-d79a00dde3a8" alt="empathy1" style="width: auto; height: auto;">
 </div>
 
 **Persona 2: "María, la Mamá Preocupada por la Salud"**
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/JBd3Vyj.png" alt="jmp2" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FE2.png?alt=media&token=5ff8fb83-bbb9-40ff-9b8c-7234ef7d2dbd" alt="empathy2" style="width: auto; height: auto;">
 </div>
 
 **Persona 3: "Ana, la Estudiante Universitaria con Restricciones Alimenticias"**
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/AwWbNS1.png" alt="jmp3" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FE3.png?alt=media&token=c05e373e-27f1-4211-b381-04a2b87eb752" alt="empathy3" style="width: auto; height: auto;">
 </div>
 
-### 2.3.4. Empathy Mapping.
-**Persona 1: "Jose luis, el Profesional Activo y Consciente"**
-<div style="text-align: center;">
-    <img src="http://imgfz.com/i/pd2Pjco.png" alt="empathy1" style="width: auto; height: auto;">
-</div>
-
-**Persona 2: "María, la Mamá Preocupada por la Salud"**
-<div style="text-align: center;">
-    <img src="http://imgfz.com/i/hwy2M0P.png" alt="empathy2" style="width: auto; height: auto;">
-</div>
-
-**Persona 3: "Ana, la Estudiante Universitaria con Restricciones Alimenticias"**
-<div style="text-align: center;">
-    <img src="http://imgfz.com/i/uMnEUz7.png" alt="empathy3" style="width: auto; height: auto;">
-</div>
 
 ### 2.3.5. As-is Scenario Mapping.
 Escenario en el que una persona va a comprar productos procesados sin usar Food-Facts
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/S7KrpwJ.jpeg" alt="asis" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FAS-IS-foodfacts.png?alt=media&token=5680e4a2-898e-4b6a-8cbf-8fd938908238" alt="asis" style="width: auto; height: auto;">
 </div>
 
 ## 2.4. Ubiquitous Language.
@@ -911,7 +897,7 @@ Este glosario servirá como referencia para todos los integrantes de Food-Facts,
 ## 3.1. To-Be Scenario Mapping.
 Escenario en el que una persona va a comprar productos procesados usando Food-Facts
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/bkaqgnP.jpeg" alt="tobe" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FTO-BE-foodfacts.png?alt=media&token=867d3aaa-2fa9-4cc4-b85c-8df37a30ae9c" alt="tobe" style="width: auto; height: auto;">
 </div>
 
 ## 3.2. User Stories.
@@ -1106,210 +1092,131 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
     <td>Resumen claro<br>Dado que selecciono un producto, cuando consulto su información de seguridad, entonces debe mostrarse un resumen claro y detallado de riesgos y precauciones.</td>
     <td>EP-020</td>
   </tr>
+    <tr>
+    <td>US-026</td>
+    <td>Diseño de Hero Section</td>
+    <td>Como visitante, quiero ver una sección principal atractiva en la landing page que me muestre rápidamente el propósito y valor de la aplicación.</td>
+    <td>Hero Section correctamente diseñada<br>Dado que soy un visitante de la página, cuando accedo a la landing page, entonces debo visualizar una sección principal (Hero Section) con diseño atractivo, mensajes claros y una llamada a la acción visible que explique el valor de la aplicación.</td>
+    <td>EP-020</td>
+</tr>
+<tr>
+    <td>US-027</td>
+    <td>Sección de Características Principales</td>
+    <td>Como visitante, quiero ver una sección que destaque las características principales de la aplicación para entender sus beneficios.</td>
+    <td>Sección de características completa<br>Dado que soy un visitante de la página, cuando accedo a la landing page, entonces debo ver una sección que resuma claramente las principales características de la aplicación y cómo estas pueden beneficiar al usuario.</td>
+    <td>EP-021</td>
+</tr>
+<tr>
+    <td>US-028</td>
+    <td>Testimonios de Usuarios</td>
+    <td>Como visitante, quiero leer testimonios de otros usuarios para confiar en la utilidad y efectividad de la aplicación.</td>
+    <td>Testimonios mostrados correctamente<br>Dado que soy un visitante buscando reseñas, cuando accedo a la sección de testimonios, entonces debo ver comentarios auténticos y verificables de usuarios que compartan su experiencia con la aplicación.</td>
+    <td>EP-021</td>
+</tr>
+<tr>
+    <td>US-029</td>
+    <td>Formulario de Contacto</td>
+    <td>Como visitante, quiero tener acceso a un formulario de contacto para poder hacer preguntas o solicitar más información.</td>
+    <td>Formulario de contacto funcional<br>Dado que soy un visitante interesado, cuando accedo al formulario de contacto en la landing page, entonces debo poder ingresar mis datos y enviar consultas exitosamente, recibiendo una confirmación de envío.</td>
+    <td>EP-021</td>
+</tr>
+<tr>
+    <td>US-030</td>
+    <td>Sección de Preguntas Frecuentes</td>
+    <td>Como visitante, quiero ver una sección de preguntas frecuentes para resolver mis dudas rápidamente.</td>
+    <td>Preguntas frecuentes visibles y claras<br>Dado que soy un visitante con dudas, cuando accedo a la sección de preguntas frecuentes, entonces debo encontrar respuestas concisas y útiles a las preguntas más comunes.</td>
+    <td>EP-022</td>
+</tr>
+<tr>
+    <td>US-031</td>
+    <td>Diseño Responsivo</td>
+    <td>Como visitante, quiero que la landing page se vea y funcione bien en todos mis dispositivos (móvil, tablet, desktop).</td>
+    <td>Diseño responsivo en todos los dispositivos<br>Dado que soy un visitante accediendo a la landing page desde cualquier dispositivo, cuando interactúo con la página, entonces esta debe adaptarse correctamente a mi pantalla, mostrando todo el contenido de manera legible y navegable.</td>
+    <td>EP-022</td>
+</tr>
+<tr>
+    <td>US-032</td>
+    <td>Call-to-Action para Registro</td>
+    <td>Como visitante, quiero ver botones claros de llamada a la acción para registrarme o probar la aplicación.</td>
+    <td>Botón de registro claro y visible<br>Dado que soy un visitante de la landing page, cuando navego por la página, entonces debo ver botones de "Regístrate" o "Prueba la aplicación" claramente visibles y funcionales.</td>
+    <td>EP-023</td>
+</tr>
+<tr>
+    <td>US-033</td>
+    <td>Integración de Redes Sociales</td>
+    <td>Como visitante, quiero poder acceder fácilmente a las redes sociales de la aplicación desde la landing page.</td>
+    <td>Enlaces de redes sociales visibles<br>Dado que soy un visitante interesado en seguir la aplicación, cuando accedo a la landing page, entonces debo ver iconos claros y funcionales que me dirijan a las redes sociales oficiales de la aplicación.</td>
+    <td>EP-023</td>
+</tr>
+<tr>
+    <td>US-034</td>
+    <td>Sección de Casos de Uso</td>
+    <td>Como visitante, quiero ver ejemplos concretos de cómo la aplicación puede ayudarme en mi día a día.</td>
+    <td>Casos de uso claramente explicados<br>Dado que soy un visitante interesado en la funcionalidad de la aplicación, cuando accedo a la sección de casos de uso, entonces debo ver ejemplos claros y reales de cómo la aplicación puede ser útil en diferentes situaciones.</td>
+    <td>EP-024</td>
+</tr>
+<tr>
+    <td>US-035</td>
+    <td>Optimización SEO</td>
+    <td>Como propietario del producto, quiero que la landing page esté optimizada para motores de búsqueda para aumentar la visibilidad online.</td>
+    <td>SEO optimizado correctamente<br>Dado que soy el propietario del producto, cuando la página es publicada, entonces debe estar optimizada con prácticas SEO (títulos, meta descripciones, keywords, enlaces internos) para mejorar su ranking en motores de búsqueda.</td>
+    <td>EP-024</td>
+</tr>
+
 </table>
 
 ## 3.3. Impact Mapping.
 <div style="text-align: center;">
-    <img src="http://imgfz.com/i/bkaqgnP.jpeg" alt="impac" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fimpac1.png?alt=media&token=8ea5a6c0-fc57-41b3-b4af-0a3c02a868ce" alt="impac1" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fimpac2.png?alt=media&token=a919cb5d-b132-4b9c-8a1c-e6cb3cb2f249" alt="impac2" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fimpac3.png?alt=media&token=50cff0f0-b41f-413b-bd5f-db065ca5f188" alt="impac3" style="width: auto; height: auto;">
 </div>
 
 ## 3.4. Product Backlog.
-<table border="1" cellpadding="5" cellspacing="0">
-  <thead>
-    <tr>
-      <th># Orden</th>
-      <th>User Story Id</th>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Story Points (1 / 2 / 3 / 5 / 8)</th>
-    </tr>
-  </thead>
-  <tbody>
-  </tr>
-  <tr>
-    <td>US-001</td>
-    <td>Visualizar información nutricional detallada</td>
-    <td>Como usuario, quiero poder ver la información nutricional detallada de los productos alimenticios procesados para tomar decisiones informadas sobre mi salud.</td>
-    <td>Visualización exitosa<br>Dado que un usuario busca un producto alimenticio procesado, cuando selecciona el producto de la lista de resultados, entonces se muestra una página con la información nutricional detallada del producto, incluyendo calorías, grasas, proteínas, carbohidratos, y otros valores relevantes.</td>
-    <td>EP-001</td>
-  </tr>
-  <tr>
-    <td>US-001</td>
-    <td>Visualizar información nutricional detallada</td>
-    <td>Como usuario, quiero poder ver la información nutricional detallada de los productos alimenticios procesados para tomar decisiones informadas sobre mi salud.</td>
-    <td>Visualización exitosa<br>Dado que un usuario busca un producto alimenticio procesado, cuando selecciona el producto de la lista de resultados, entonces se muestra una página con la información nutricional detallada del producto, incluyendo calorías, grasas, proteínas, carbohidratos, y otros valores relevantes.</td>
-    <td>EP-001</td>
-  </tr>
-  <tr>
-    <td>US-002</td>
-    <td>Buscar productos por nombre o categoría</td>
-    <td>Como usuario, quiero buscar productos alimenticios por su nombre o categoría para encontrar rápidamente información nutricional específica.</td>
-    <td>Búsqueda por nombre exitosa<br>Dado que un usuario quiere encontrar un producto específico, cuando ingresa el nombre del producto en la barra de búsqueda y presiona "Buscar", entonces el sistema muestra una lista de productos relevantes con su información nutricional detallada.</td>
-    <td>EP-001</td>
-  </tr>
-  <tr>
-    <td>US-003</td>
-    <td>Personalización de alertas de salud</td>
-    <td>Como usuario, quiero personalizar alertas de salud basadas en mis condiciones médicas (por ejemplo, diabetes, hipertensión) para evitar productos que puedan ser perjudiciales para mi salud.</td>
-    <td>Configuración de alertas basada en condiciones de salud<br>Dado que un usuario tiene una condición de salud específica (por ejemplo, diabetes), cuando ingresa esta información en su perfil, entonces el sistema genera alertas personalizadas al buscar productos que puedan ser perjudiciales.</td>
-    <td>EP-002</td>
-  </tr>
-  <tr>
-    <td>US-004</td>
-    <td>Comparar productos similares</td>
-    <td>Como usuario, quiero comparar varios productos procesados similares para elegir la opción más saludable según la información nutricional proporcionada.</td>
-    <td>Comparación de dos productos<br>Dado que un usuario desea comparar dos productos procesados, cuando selecciona ambos productos para comparación, entonces el sistema muestra una tabla lado a lado con los valores nutricionales y alertas de salud de cada producto.</td>
-    <td>EP-003</td>
-  </tr>
-  <tr>
-    <td>US-005</td>
-    <td>Valor nutricional real</td>
-    <td>Como usuario, quiero ver el valor nutricional real de los productos para tomar decisiones informadas sobre mi alimentación.</td>
-    <td>Visualización de valores nutricionales<br>Dado que selecciono un producto, cuando visualizo su información nutricional, entonces deben mostrarse detalles como calorías, grasas, proteínas y otros nutrientes.</td>
-    <td>EP-003</td>
-  </tr>
-  <tr>
-    <td>US-006</td>
-    <td>Registro de usuarios</td>
-    <td>Como nuevo usuario, quiero registrarme en la plataforma para acceder a la información y alertas personalizadas.</td>
-    <td>Registro exitoso<br>Dado que un nuevo usuario ingresa sus datos, cuando presiona "Registrarse", entonces su cuenta se crea exitosamente.</td>
-    <td>EP-004</td>
-  </tr>
-  <tr>
-    <td>US-007</td>
-    <td>Inicio de sesión de usuarios</td>
-    <td>Como usuario registrado, quiero iniciar sesión en la plataforma para acceder a mis alertas y configuraciones personalizadas.</td>
-    <td>Inicio de sesión exitoso<br>Dado que un usuario registrado ingresa sus credenciales, cuando presiona "Iniciar sesión", entonces puede acceder a su cuenta.</td>
-    <td>EP-004</td>
-  </tr>
-  <tr>
-    <td>US-008</td>
-    <td>Recuperar contraseña</td>
-    <td>Como usuario, quiero poder recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta.</td>
-    <td>Recuperación de contraseña<br>Dado que un usuario olvidó su contraseña, cuando solicita recuperación, entonces recibe un enlace para restablecerla.</td>
-    <td>EP-005</td>
-  </tr>
-  <tr>
-    <td>US-009</td>
-    <td>Actualizar perfil de usuario</td>
-    <td>Como usuario, quiero poder actualizar mi perfil (información personal y preferencias) para mantener mis datos al día y recibir alertas relevantes.</td>
-    <td>Actualización exitosa<br>Dado que un usuario desea actualizar su perfil, cuando guarda los cambios, entonces la información se actualiza correctamente.</td>
-    <td>EP-006</td>
-  </tr>
-  <tr>
-    <td>US-010</td>
-    <td>Visualizar historial de búsquedas</td>
-    <td>Como usuario, quiero poder ver mi historial de búsquedas previas para acceder rápidamente a la información que ya he consultado.</td>
-    <td>Visualización del historial<br>Dado que un usuario accede a su cuenta, cuando selecciona "Historial", entonces puede ver todas sus búsquedas anteriores.</td>
-    <td>EP-007</td>
-  </tr>
-  <tr>
-    <td>US-011</td>
-    <td>Configuración de notificaciones</td>
-    <td>Como usuario, quiero configurar mis preferencias de notificaciones para recibir alertas sobre productos y noticias relevantes.</td>
-    <td>Configuración de notificaciones<br>Dado que un usuario desea configurar notificaciones, cuando selecciona las opciones deseadas, entonces recibe alertas según sus preferencias.</td>
-    <td>EP-008</td>
-  </tr>
-  <tr>
-    <td>US-012</td>
-    <td>Obtener reportes personalizados</td>
-    <td>Como usuario, quiero generar reportes personalizados sobre la seguridad y valor nutricional de productos específicos para revisarlos o compartirlos.</td>
-    <td>Generación de reporte<br>Dado que un usuario quiere un reporte, cuando selecciona los productos y genera el reporte, entonces puede visualizarlo o descargarlo.</td>
-    <td>EP-009</td>
-  </tr>
-  <tr>
-    <td>US-013</td>
-    <td>Explorar categorías de productos</td>
-    <td>Como usuario, quiero explorar categorías de productos para descubrir nuevos alimentos y conocer su valor nutricional.</td>
-    <td>Exploración de categorías<br>Dado que un usuario accede al menú de categorías, cuando selecciona una categoría, entonces puede ver la lista de productos relacionados.</td>
-    <td>EP-010</td>
-  </tr>
-  <tr>
-    <td>US-014</td>
-    <td>Ver alertas de productos no saludables</td>
-    <td>Como usuario, quiero recibir alertas sobre productos no saludables que estoy considerando comprar para evitar riesgos a mi salud.</td>
-    <td>Recepción de alertas<br>Dado que un usuario busca un producto, cuando el producto tiene riesgos asociados, entonces recibe una alerta con detalles.</td>
-    <td>EP-011</td>
-  </tr>
-  <tr>
-    <td>US-015</td>
-    <td>Identificación de Aditivos Artificiales</td>
-    <td>Como usuario, quiero saber si un producto contiene aditivos artificiales para evitarlos en mi dieta.</td>
-    <td>Marcado de aditivos<br>Dado que selecciono un producto, cuando contiene aditivos artificiales, entonces debe identificarse claramente con una explicación de cada aditivo.</td>
-    <td>EP-012</td>
-  </tr>
-  <tr>
-    <td>US-016</td>
-    <td>Filtrar productos por valor nutricional</td>
-    <td>Como usuario, quiero filtrar productos por su valor nutricional para encontrar aquellos que se ajusten mejor a mis necesidades dietéticas.</td>
-    <td>Aplicación de filtros<br>Dado que un usuario desea filtrar productos, cuando selecciona los filtros deseados, entonces ve una lista de productos que cumplen con los criterios.</td>
-    <td>EP-013</td>
-  </tr>
-  <tr>
-    <td>US-017</td>
-    <td>Recomendaciones de productos saludables</td>
-    <td>Como usuario, quiero recibir recomendaciones de productos saludables basadas en mis preferencias y hábitos para mejorar mi dieta.</td>
-    <td>Recepción de recomendaciones<br>Dado que un usuario tiene un perfil configurado, cuando accede a la plataforma, entonces recibe recomendaciones personalizadas de productos saludables.</td>
-    <td>EP-014</td>
-  </tr>
-  <tr>
-    <td>US-018</td>
-    <td>Guardar productos favoritos</td>
-    <td>Como usuario, quiero guardar productos en una lista de favoritos para acceder rápidamente a su información en el futuro.</td>
-    <td>Guardado de favoritos<br>Dado que un usuario encuentra un producto interesante, cuando selecciona "Añadir a favoritos", entonces el producto se guarda en su lista personal.</td>
-    <td>EP-015</td>
-  </tr>
-  <tr>
-    <td>US-019</td>
-    <td>Eliminar productos de favoritos</td>
-    <td>Como usuario, quiero poder eliminar productos de mi lista de favoritos para mantenerla actualizada con mis preferencias actuales.</td>
-    <td>Eliminación de favoritos<br>Dado que un usuario ya no desea un producto en favoritos, cuando selecciona "Eliminar", entonces el producto se elimina de la lista.</td>
-    <td>EP-015</td>
-  </tr>
-  <tr>
-    <td>US-020</td>
-    <td>Comparación de Productos</td>
-    <td>Como usuario, quiero comparar rápidamente dos productos para elegir la opción más saludable.</td>
-    <td>Comparación de ingredientes<br>Dado que selecciono dos productos, cuando los comparo, entonces el sistema debe mostrar las diferencias clave en ingredientes y valores nutricionales.</td>
-    <td>EP-016</td>
-  </tr>
-  <tr>
-    <td>US-021</td>
-    <td>Informes de Tendencias de Consumo</td>
-    <td>Como usuario, quiero recibir informes periódicos sobre tendencias en mi consumo alimenticio para hacer ajustes si es necesario.</td>
-    <td>Análisis de tendencias<br>Dado que consumo productos regularmente, cuando se genera un informe, entonces debe incluir un análisis de tendencias en el consumo de calorías y nutrientes.</td>
-    <td>EP-016</td>
-  </tr>
-  <tr>
-    <td>US-022</td>
-    <td>Sugerencias para Mejora de Hábitos Alimenticios</td>
-    <td>Como usuario, quiero recibir sugerencias para mejorar mis hábitos alimenticios basadas en mi consumo actual.</td>
-    <td>Sugerencias personalizadas<br>Dado que mi historial de consumo está registrado, cuando recibo sugerencias, entonces deben estar basadas en análisis de patrones de consumo.</td>
-    <td>EP-017</td>
-  </tr>
-  <tr>
-    <td>US-023</td>
-    <td>Filtro por Preferencias Alimenticias</td>
-    <td>Como usuario, quiero filtrar productos según mis preferencias alimenticias para encontrar opciones adecuadas a mi dieta.</td>
-    <td>Filtro aplicado correctamente<br>Dado que configuro mis preferencias alimenticias, cuando busco productos, entonces deben mostrarse solo aquellos que cumplen con mis criterios.</td>
-    <td>EP-018</td>
-  </tr>
-  <tr>
-    <td>US-024</td>
-    <td>Gestión de Listas de Productos</td>
-    <td>Como usuario, quiero poder crear y gestionar listas de productos para planificar mis compras o consumo.</td>
-    <td>Gestión de listas<br>Dado que tengo varias listas, cuando necesito gestionarlas, entonces debo poder editar, eliminar o combinar listas según mis necesidades.</td>
-    <td>EP-019</td>
-  </tr>
-  <tr>
-    <td>US-025</td>
-    <td>Consulta de Información sobre Seguridad Alimentaria</td>
-    <td>Como usuario, quiero consultar información sobre la seguridad alimentaria de productos específicos para tomar decisiones informadas.</td>
-    <td>Resumen claro<br>Dado que selecciono un producto, cuando consulto su información de seguridad, entonces debe mostrarse un resumen claro y detallado de riesgos y precauciones.</td>
-    <td>EP-020</td>
-  </tr>
-  </tbody>
-</table>
+| # Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|--------|-------------|-----------------------------------|
+| 1       | US-006        | Registro de usuarios | Como nuevo usuario, quiero registrarme en la plataforma para acceder a información y alertas personalizadas. | 2 |
+| 2       | US-007        | Inicio de sesión de usuarios | Como usuario registrado, quiero iniciar sesión para acceder a mis alertas y configuraciones personalizadas. | 2 |
+| 3       | US-018        | Guardar productos favoritos | Como usuario, quiero guardar productos en una lista de favoritos para acceder rápidamente a su información en el futuro. | 2 |
+| 4       | US-019        | Eliminar productos de favoritos | Como usuario, quiero poder eliminar productos de mi lista de favoritos para mantenerla actualizada con mis preferencias actuales. | 2 |
+| 5       | US-002        | Buscar productos por nombre o categoría | Como usuario, quiero buscar productos alimenticios por su nombre o categoría para encontrar rápidamente información nutricional específica. | 3 |
+| 6       | US-005        | Valor nutricional real | Como usuario, quiero ver el valor nutricional real de los productos para tomar decisiones informadas sobre mi alimentación. | 3 |
+| 7       | US-008        | Recuperar contraseña | Como usuario, quiero recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta. | 3 |
+| 8       | US-009        | Actualizar perfil de usuario | Como usuario, quiero poder actualizar mi perfil para mantener mis datos al día y recibir alertas relevantes. | 3 |
+| 9       | US-010        | Visualizar historial de búsquedas | Como usuario, quiero poder ver mi historial de búsquedas previas para acceder rápidamente a la información que ya he consultado. | 3 |
+| 10      | US-011        | Configuración de notificaciones | Como usuario, quiero configurar mis preferencias de notificaciones para recibir alertas sobre productos y noticias relevantes. | 3 |
+| 11      | US-013        | Explorar categorías de productos | Como usuario, quiero explorar categorías de productos para descubrir nuevos alimentos y conocer su valor nutricional. | 3 |
+| 12      | US-016        | Filtrar productos por valor nutricional | Como usuario, quiero filtrar productos por su valor nutricional para encontrar aquellos que se ajusten mejor a mis necesidades dietéticas. | 3 |
+| 13      | US-001        | Visualizar información nutricional detallada | Como usuario, quiero ver la información nutricional detallada de los productos alimenticios procesados para tomar decisiones informadas sobre mi salud. | 5 |
+| 14      | US-004        | Comparar productos similares | Como usuario, quiero comparar varios productos similares para elegir la opción más saludable según la información nutricional. | 5 |
+| 15      | US-012        | Obtener reportes personalizados | Como usuario, quiero generar reportes personalizados sobre la seguridad y valor nutricional de productos específicos para revisarlos o compartirlos. | 5 |
+| 16      | US-014        | Ver alertas de productos no saludables | Como usuario, quiero recibir alertas sobre productos no saludables para evitar riesgos a mi salud. | 5 |
+| 17      | US-015        | Identificación de Aditivos Artificiales | Como usuario, quiero saber si un producto contiene aditivos artificiales para evitarlos en mi dieta. | 5 |
+| 18      | US-017        | Recomendaciones de productos saludables | Como usuario, quiero recibir recomendaciones de productos saludables basadas en mis preferencias y hábitos para mejorar mi dieta. | 5 |
+| 19      | US-020        | Comparación de Productos | Como usuario, quiero comparar rápidamente dos productos para elegir la opción más saludable. | 5 |
+| 20      | US-022        | Sugerencias para Mejora de Hábitos Alimenticios | Como usuario, quiero recibir sugerencias para mejorar mis hábitos alimenticios basadas en mi consumo actual. | 5 |
+| 21      | US-023        | Filtro por Preferencias Alimenticias | Como usuario, quiero filtrar productos según mis preferencias alimenticias para encontrar opciones adecuadas a mi dieta. | 5 |
+| 22      | US-024        | Gestión de Listas de Productos | Como usuario, quiero poder crear y gestionar listas de productos para planificar mis compras o consumo. | 5 |
+| 23      | US-025        | Consulta de Información sobre Seguridad Alimentaria | Como usuario, quiero consultar información sobre la seguridad alimentaria de productos específicos para tomar decisiones informadas. | 5 |
+| 24      | US-003        | Personalización de alertas de salud | Como usuario, quiero personalizar alertas de salud basadas en mis condiciones médicas (diabetes, hipertensión) para evitar productos perjudiciales. | 8 |
+| 25      | US-021        | Informes de Tendencias de Consumo | Como usuario, quiero recibir informes periódicos sobre tendencias en mi consumo alimenticio para hacer ajustes si es necesario. | 8 |
+| 26      | US-026        | Diseño de Hero Section | Como visitante, quiero ver una sección principal atractiva en la landing page que me muestre rápidamente el propósito y valor de la aplicación. | 3 |
+| 27      | US-027        | Sección de Características Principales | Como visitante, quiero ver una sección que destaque las características principales de la aplicación para entender sus beneficios. | 3 |
+| 28      | US-028        | Testimonios de Usuarios | Como visitante, quiero leer testimonios de otros usuarios para confiar en la utilidad y efectividad de la aplicación. | 2 |
+| 29      | US-029        | Formulario de Contacto | Como visitante, quiero tener acceso a un formulario de contacto para poder hacer preguntas o solicitar más información. | 3 |
+| 30      | US-030        | Sección de Preguntas Frecuentes | Como visitante, quiero ver una sección de preguntas frecuentes para resolver mis dudas rápidamente. | 2 |
+| 31      | US-031        | Diseño Responsivo | Como visitante, quiero que la landing page se vea y funcione bien en todos mis dispositivos (móvil, tablet, desktop). | 5 |
+| 32      | US-032        | Call-to-Action para Registro | Como visitante, quiero ver botones claros de llamada a la acción para registrarme o probar la aplicación. | 2 |
+| 33      | US-033        | Integración de Redes Sociales | Como visitante, quiero poder acceder fácilmente a las redes sociales de la aplicación desde la landing page. | 2 |
+| 34      | US-034        | Sección de Casos de Uso | Como visitante, quiero ver ejemplos concretos de cómo la aplicación puede ayudarme en mi día a día. | 3 |
+| 35      | US-035        | Optimización SEO | Como propietario del producto, quiero que la landing page esté optimizada para motores de búsqueda para aumentar la visibilidad online. | 5 |
+
 
 <h1 style="font-family: 'Roboto' sans-serif;">Capítulo IV: Product Design</h1> 
 
@@ -1454,20 +1361,146 @@ En el sitio web de FoodFacts, los usuarios pueden navegar de manera fluida a tra
     <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FNS.PNG?alt=media&token=bfa29c27-fb63-44f4-bbe2-9cd12d3a312b " alt="N-S" style="width: auto; height: auto;">
 </div>
 
+
 ## 4.3. Landing Page UI Design.
 
 En esta seccion Diseñaremos con los fundamentos obtenidos en el UX la landing Page y el Website que seria toda la parte visible por parte del cliente.
 
 ### 4.3.1. Landing Page Wireframe.
 
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FWebSite_removed-1.png?alt=media&token=3f12c6f6-5b53-4da0-8b78-e0c88ce9d72d" alt="W1" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FWebSite_removed-3.png?alt=media&token=bc247e12-521c-4c63-9a0d-fb16205beaa9" alt="W3" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWireFrames-Food-Facts%2FWebSite_removed-5.png?alt=media&token=95d0dbee-dd4b-443b-9f82-ee5c8dea0ddb" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
 ### 4.3.2. Landing Page Mock-up.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup1.png?alt=media&token=66295e34-726b-42bb-8137-40fbdebf7c62" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup2.png?alt=media&token=f7712ff2-b0fb-4536-b28b-0f4b70836d70" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup3.jpg?alt=media&token=3e9d68ea-0d54-447f-b0e9-234f8369e27c" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup4.png?alt=media&token=c23bf888-7e8b-4416-9de8-2d7d0ae5e52d" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FMockup5.png?alt=media&token=dc43d040-35b4-41f4-8990-54ae1e32682e" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+
 ## 4.4. Web Applications UX/UI Design.
+
 ### 4.4.1. Web Applications Wireframes.
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-1.png?alt=media&token=7c79d376-82dd-4e67-8647-e3fda100a686" alt="Ww1" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-2.png?alt=media&token=e6d6945b-a0ca-4b07-87d1-52ccbdcbafce" alt="Ww2" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-3.png?alt=media&token=f5e84087-bcea-44f9-8a32-c8f8d7f60277" alt="Ww3" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-4.png?alt=media&token=371ce36e-4e8c-427b-81f7-264ff9f51eff" alt="Ww4" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-5.png?alt=media&token=22dbf229-1856-40e1-b6da-ce5693e2443e" alt="Ww5" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-6.png?alt=media&token=276ec28b-71b3-4926-bc77-983aba1111a3" alt="Ww6" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fwebwireframesfoodfacts%2FWebSite%20(1)_removed-7.png?alt=media&token=e8371a4c-82d3-46ad-b32c-ded792deb907" alt="Ww7" style="width: auto; height: auto;">
+</div>
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FwireframesDiagram.png?alt=media&token=2d0fb32d-2378-47f1-96e5-9408dccb0fe7" alt="5" style="width: auto; height: auto;">
+</div>
+
 ### 4.4.2. Web Applications Mock-ups.
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM1.PNG?alt=media&token=94e1ba1f-979f-4c6a-be64-354fa9cba8a9" alt="Wm1" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM2.PNG?alt=media&token=1c3c83b9-488f-4abc-b2d6-0a72870dd01a" alt="Wm2" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM3.PNG?alt=media&token=2a53345d-ceb0-42a5-9dbf-203fd8d5a3e9" alt="Wm3" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM4.PNG?alt=media&token=751dad94-9014-4a41-b141-26f7dc2daac4" alt="Wm4" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM5.PNG?alt=media&token=582ccf38-a07c-4b7d-81a7-e0a998f4073f" alt="Wm5" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM6.PNG?alt=media&token=901d0283-43fb-4b6b-9b06-7e947a912398" alt="Wm6" style="width: auto; height: auto;">
+</div>
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FWMfoodfacts%2FWM7.PNG?alt=media&token=2d5d94c9-5370-4d4a-8d3d-081c1caebbba" alt="Wm7" style="width: auto; height: auto;">
+</div>
+
 ### 4.4.3. Web Applications User Flow Diagrams.
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fuserflowdiagrams.png?alt=media&token=e859d8ae-f7e2-475b-9bbe-6db1cbb26762" alt="5" style="width: auto; height: auto;">
+</div>
+
 ## 4.5. Web Applications Prototyping.
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fprot1.png?alt=media&token=990c6d82-5cae-457a-9e75-0e84d030ceb8" alt="5" style="width: auto; height: auto;">
+</div>
+
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2Fprot2.png?alt=media&token=fee68dbf-2903-4437-b6a4-88dac544e9e7" alt="5" style="width: auto; height: auto;">
+</div>
+
 ## 4.6. Domain-Driven Software Architecture.
+En esta seccion abordaremos el tema de la arquitectura de nuestro proyecto utilizando los concpetos de digramas de clase UML y c4 model structurizr
+
 ### 4.6.1. Software Architecture Context Diagram.
 
 <img src="assets/Software Architecture Context Diagram.png">
