@@ -566,7 +566,9 @@ Preguntas para la Entrevista:
 
 **Ocupación:** Estudiante de Nutrición
 
-**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/ETPfd3eSXt5KplgbqAmxc8MB02P1b1xGGjd4FvxSkhv0cw?e=sCF3ct&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<img src="assets/Entrevista Alessandra Yap.png">
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/ETTUvipnlFZDoMk8XMYb5sgBNreoT5Z4CgYKXRQXVR_Bkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TfoHSV
 
 **Resumen de la Entrevista:** Se entrevistó a Alessandra Yap, una estudiante de Nutricion de la Universidad San Ignacio de Loyola, ella nos cuenta que consume alimentos procesados con una frecuencia de 2 a 3 veces por semana, además indica que le preocupa bastante el impacto de estos alimentos procesados en su salud, tambien señala que es muy importante limitar su consumo. 
 
@@ -584,7 +586,9 @@ Nos indica que le gustaría que nuestra aplicación le avisara si algún aliment
 
 **Ocupación:** Estudiante de Medicina
 
-**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EUjXnCeMMOpHk6cq5vhRb4IB3-IPuR5Wb-R3ZlAkqbBuTg?e=PsATUc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<img src="assets/Entrevista Danae Pacheco.png">
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EY0Xs8C25udHjgea40pbQR4Buosc8QwdGLCHeIE35ogJEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=efSNC1
 
 **Resumen de la Entrevista:** Se entrevistó a Danae Pacheco, una estudiante de Medicina que siempre ha tenido interés en los alimentos que ella consume, además va al gimnasio desde hace dos años lo que hace que se vuelva casi una prioridad las sustancias que contienen dichos alimentos.
 
@@ -641,6 +645,27 @@ Prefiere recibir información clara sobre los alimentos sin sentirse juzgada, y 
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c027_upc_edu_pe/Ef5Tyw2tbv1Pvq7ZEhr9JhoBEK4VwlPVpc-4Fm4WOXrQCw?e=f7gdg7 
 
 **Resumen de la Entrevista:** En la entrevista realizada, Elvis nos comenta que consume con poca frecuencia alimentos procesados. Sin embargo, considera que es muy importante cuidar nuestra salud; por ello le parece interesante que una aplicación web pueda brindar información nutricional sobre los productos y también alertar los posibles riesgos que conlleva al consumir de forma seguida. Por otra parte menciona que serìa importante que la aplicación web recomiende los productos que deben ser consumidos de forma natural en lugar de los procesados.
+
+
+**Entrevista 6:**
+
+**Nombres y Apellidos:** Mateo Vilchez Ramos
+
+**Edad:** 19 años
+
+**Lugar de Residencia:** Santiago de Surco
+
+**Ocupación:** Estudiante 
+
+<img src="assets/Entrevista Mateo Vilchez.png">
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EUK2b-nQPbJAouKLJ9AxW9cBjwXX5H2wDG_tIvJHQSBqTA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Ewm0Y
+
+**Resumen de la Entrevista:** Mateo empieca comentándonos que el raramente consume alimentos procesados dado que estos suponen un exceso calórico, lo cual lo perjudica en su etapa de déficit calórico, además el nos dice que si suele revisar las etiquetas de los alimentos que consume, sobretodo el apartado de macronutrientes.
+
+Mateo nos comenta que a el le gustaría visualizar los macronutrientes y los micronutrientes al momento de registrar los productos alimenticios que el consume. El nos dice que le sería de bastante ayuda tener un reporte personalizado de su dieta 
+
+Mateo nos dice que a el le gustaría que FoodFacts tuviera una lista con los alimentos más económicos y con mejores macronutrientes en su ciudad. Lamentablemente nos dice que el no estaría dispuesto a pagar por una aplicación como FoodFacts. Por último el opina que en una escala del 1 al 10, FoodFacts es un 7 de importancia en cuanto a ayudar a las personas en el tema de la salud
 
 ### 2.2.3. Análisis de entrevistas.
 
