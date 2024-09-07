@@ -31,11 +31,11 @@
         <tbody>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">Allcca Guerrero, Irving Washington</td>
-                <td style="border: 1px solid #ddd; padding: 8px;">u202213241</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">U202213241</td>
             </tr>
              <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">Dextre Miguel, Kevin Cosner</td>
-                <td style="border: 1px solid #ddd; padding: 8px;">u20211c027</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">U20211c027</td>
             </tr>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">Quispe Roldan Michael Fred</td>
@@ -43,7 +43,7 @@
             </tr>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">Ramos Calagua, Sebastian Alexander</td>
-                <td style="border: 1px solid #ddd; padding: 8px;">u202222846</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">U202222846</td>
             </tr>
             <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">Sanchez Montero Carlos</td>
@@ -2444,6 +2444,6 @@ link del figma: https://www.figma.com/design/jlQyN71VRygji3P5ALdaCW/WebSite?node
 
 link del repositorio: https://github.com/FoodFacts2
 
-link del la landing desplegada: https://neon-trifle-2e0392.netlify.app/
+link del la landing desplegada: https://github.com/orgs/Food-Facts/repositories 
 
-link del video de Exposicion: 
+link del video de Exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/ETkiGjAoAgtHgSXI7nKeS9kBB4WCzMHXRyaArvbzlviVjA?e=UFtcQh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
