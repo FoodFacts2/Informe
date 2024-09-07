@@ -2421,7 +2421,7 @@ Team collaboration de la Organizacion:
 Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas que otros pero es aplicando mejora continua entre compañeros.
 
 <div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCommits.png?alt=media&token=4e71b20e-1c8f-4886-ae49-098865966ced" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCommits.png?alt=media&token=ea76d427-b6a0-44bd-adc9-9983def147f5" style="width: auto; height: auto;">
 </div>
 
 ## Conclusiones
