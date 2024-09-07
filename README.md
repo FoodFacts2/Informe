@@ -227,7 +227,11 @@ __Dextre Miguel kevin Cosner - 20211c027__
 </div>
 Soy un apasionado por la Tecnología, es por ello que elegí estudiar Ingeniería de Sistemas de Información. Me considero una persona responsable con los deberes que se me encomiendan. Por otro lado, también me gusta apoyar y enseñar cuando tengo un dominio de un tema.
 
-
+__Allcca Guerrero Irving - U2022213241__
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/foto.png?alt=media&token=29af2985-d051-4d97-9a83-a332c2df6b31" alt="Irving" style="width: 15%; height: auto;">
+</div>
+Soy un estudiante que actualmente curso el 5to ciclo de la carrera de ingeniería de software. Me considero alguien colaborativo y empático.
 
 <div style="margin-top:20px;  text-align: center; ">
   <p style="font-weight:bold; text-align:left">Sanchez Montero, Carlos - 202015274</p>
@@ -666,6 +670,21 @@ Prefiere recibir información clara sobre los alimentos sin sentirse juzgada, y 
 Mateo nos comenta que a el le gustaría visualizar los macronutrientes y los micronutrientes al momento de registrar los productos alimenticios que el consume. El nos dice que le sería de bastante ayuda tener un reporte personalizado de su dieta 
 
 Mateo nos dice que a el le gustaría que FoodFacts tuviera una lista con los alimentos más económicos y con mejores macronutrientes en su ciudad. Lamentablemente nos dice que el no estaría dispuesto a pagar por una aplicación como FoodFacts. Por último el opina que en una escala del 1 al 10, FoodFacts es un 7 de importancia en cuanto a ayudar a las personas en el tema de la salud
+
+**Entrevista 7:**
+
+**Nombres y Apellidos:**  Fabrizio Morales
+
+**Edad:** 20 años
+
+**Lugar de Residencia:** San Borja
+
+**Ocupación:** Estudiante 
+
+**URL:** https://upcedupe-my.sharepoint.com/personal/u202213241_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202213241%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo3768844864%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb6ebff82%2D337a%2D4582%2D8e6a%2D536362b82575
+
+**Resumen de la Entrevista:** En la entrevista realizada, Fabrizio comenta que generalmente consume productos procesados, puesto que generalmente anda anda muy ajustado con su horario y pues por ello recurre a este tipo de alimentos como para saciar su hambre, también menciona que padece de diabetes y que le seria muy util una app que le muestre la información de una manera sencilla en la que se le facilite entender.
+
 
 ### 2.2.3. Análisis de entrevistas.
 
@@ -1248,10 +1267,21 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
+Logo: El logo, con la combinación de una manzana y un corazón, y los tonos de verde, busca transmitir una identidad amigable y saludable. Es ideal para proyectos relacionados con la cocina, la nutrición y el bienestar, reflejando un compromiso con una alimentación saludable y consciente.
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/logo.jpg?alt=media&token=76dc3d08-3d07-4cfc-9ff8-420ce58a8bf0" alt="Logo" style="width: 50%; height: auto;">
+</div>
+
 Typography: Para nuestra fuente haremos uso de dos tipografías, ambas en sus variantes de peso Regular, Medium, Semi Bold y Bold. Merriweather Sans, principalmente usado para los títulos, subtítulos y encabezados de artículos. Roboto, empleado para contenido como párrafos, texto informativo, etc. Elaboramos unas reglas para un estilo uniforme en los contenidos de la Landing Page y Aplicación Web. Cabe recalcar que el sistema varía con el principio de Responsive Design.
 
 <div style="text-align: center;">
     <img src="http://imgfz.com/i/k3FNMJY.png" alt="Tipografia" style="width: 50%; height: auto;">
+</div>
+
+Spacings System: Para el sistema de espaciado se ha decidido que se usará una cantidad de medida múltiple de 4px para mantener una continuidad en todos los elementos y sus distancias entre ellos.
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/spacing.png?alt=media&token=ae7fd067-b7eb-4679-8e80-d8c5254be648" alt="Spacings" style="width: 50%; height: auto;">
 </div>
 
 ### 4.1.2. Web Style Guidelines.
@@ -1380,12 +1410,12 @@ __Sugerencias de Búsqueda__
 - Recetas: Sugerir recetas que incluyan el alimento buscado.
 
 ### 4.2.5. Navigation Systems.
-En el sitio web de FoodFacts, los usuarios pueden navegar de manera fluida a través de un menú de navegación principal ubicado en la parte izquierda de la pantalla.
+Para la landing page, la navegación estará ubicada en el header, con enlaces que, al hacer clic, llevarán al usuario directamente a la sección correspondiente.
+En la aplicación web, se implementará un sidebar que proporcionará una navegación práctica e intuitiva, permitiendo al usuario acceder fácilmente a las funcionalidades principales de la aplicación.
 
 <div style="text-align: center;">
     <img src="https://firebasestorage.googleapis.com/v0/b/bicibreeze.appspot.com/o/imagenes-Food-Facts%2FNS.PNG?alt=media&token=bfa29c27-fb63-44f4-bbe2-9cd12d3a312b " alt="N-S" style="width: auto; height: auto;">
 </div>
-
 
 ## 4.3. Landing Page UI Design.
 
