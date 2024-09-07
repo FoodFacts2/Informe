@@ -2444,6 +2444,6 @@ link del figma: https://www.figma.com/design/jlQyN71VRygji3P5ALdaCW/WebSite?node
 
 link del repositorio: https://github.com/FoodFacts2
 
-link del la landing desplegada: https://github.com/orgs/Food-Facts/repositories 
+link del la landing desplegada: https://neon-trifle-2e0392.netlify.app/ 
 
 link del video de Exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/ETkiGjAoAgtHgSXI7nKeS9kBB4WCzMHXRyaArvbzlviVjA?e=UFtcQh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
