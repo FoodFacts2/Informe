@@ -14,7 +14,7 @@
     <p>Ingeniería de Software</p>
     <p>SI729 - Aplicaciones Web</p>
     <p>Docente: Juan Carlos Tinoco Licas</p>
-    <p>Startup: FoodFacts.inc.</p>
+    <p>Startup: NutritionSolutions</p>
     <p>Producto: FoodFacts</p>
 </div>
 
@@ -691,10 +691,27 @@ Fabricio recurre a este tipo de comidas como para saciar su hambre. Por lo tanto
 
 Tambien menciona que padece de diabetes y que le seria muy util una app que le muestre la información de una manera sencilla en la que se le facilite entender y conocer que tipo y cual es el riesgo de los alimentos que este consume.
 
+**Entrevista 8:**
+
+**Nombres y Apellidos:**  Esther Sánchez Gracia 
+
+**Edad:** 31 años
+
+**Lugar de Residencia:** San Miguel
+
+**Ocupación:** Estudiante de Nutrición y Dietética
+
+<img src="https://i.postimg.cc/xTgDBz2y/Imagen-de-Whats-App-2024-09-07-a-las-16-27-17-02d45fb1.jpg">
+
+**URL:** https://upcedupe-my.sharepoint.com/personal/u202222846_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202222846%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%204%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E91278b45%2D6054%2D478b%2D94e8%2Db57a99a22584 
+
+**Resumen de la Entrevista:** Esther intenta evitar los alimentos procesados, aunque los consume ocasionalmente cuando no dispone de tiempo para preparar comidas frescas. Está preocupado por el impacto de estos productos en su salud debido a los altos niveles de azúcares, sodio y aditivos que contienen. A pesar de no tener una condición médica grave, su historial familiar de diabetes y colesterol alto lo hace más cuidadoso con su dieta.
+
+Revisa regularmente las etiquetas nutricionales, prestando atención a las calorías, grasas, azúcares añadidos, sodio y la lista de ingredientes, evitando aquellos con conservantes o aditivos innecesarios. Al registrar un producto alimenticio, le gustaría recibir un desglose claro de ingredientes y una evaluación del impacto en la salud.
+
+Considera muy útil recibir alertas sobre riesgos de salud asociados con ciertos alimentos y cree que los reportes personalizados de su dieta serían una gran herramienta para mejorar su bienestar. Le gustaría que una aplicación como Food-Facts incluyera recomendaciones personalizadas, alternativas saludables y recetas. Estaría dispuesto a pagar entre 10 y 15 dólares al mes por una aplicación que ofrezca un análisis detallado y personalizado de los alimentos. La aplicación sería muy útil en su vida diaria para tomar decisiones alimenticias más saludables.
 
 ### 2.2.3. Análisis de entrevistas.
-
-**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
 
 **Segmento Objetivo: Personas con problemas alimenticios**
 
@@ -703,6 +720,14 @@ Tambien menciona que padece de diabetes y que le seria muy util una app que le m
 **Analisis de la Entrevista:** Fabrizio tiene una relación compleja con la comida, marcada por la ansiedad y la culpa, lo que afecta tanto sus hábitos alimenticios como su bienestar emocional. Aunque es consciente de los riesgos de los alimentos procesados y se preocupa por su salud, la dificultad para mantener una dieta equilibrada la lleva a recurrir a estos productos. La fluctuación entre obsesionarse con las etiquetas y evitarlas refleja una lucha interna por controlar su alimentación sin aumentar su ansiedad.
 
 El enfoque de esta persona hacia una aplicación como Food-Facts refleja la necesidad de una herramienta que le brinde apoyo emocional y funcional. No solo requiere información nutricional clara, sino también un enfoque que no la haga sentir juzgada o que aumente su ansiedad. La inclusión de herramientas para gestionar el estrés y la relación emocional con la comida sería clave para que esta aplicación sea útil para ella. Si Food-Facts puede ofrecer un enfoque de bienestar integral, que equilibre lo emocional y lo físico, podría tener un impacto positivo en personas con dificultades similares.
+
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Entrevista 8:**
+
+**Analisis de la Entrevista:** Esther intenta evitar los alimentos procesados, aunque los consume ocasionalmente cuando no dispone de tiempo para preparar comidas frescas. Está preocupado por el impacto de estos productos en su salud debido a los altos niveles de azúcares, sodio y aditivos que contienen. A pesar de no tener una condición médica grave, su historial familiar de diabetes y colesterol alto lo hace más cuidadoso con su dieta.
+
+Considera muy útil recibir alertas sobre riesgos de salud asociados con ciertos alimentos y cree que los reportes personalizados de su dieta serían una gran herramienta para mejorar su bienestar. Le gustaría que una aplicación como Food-Facts incluyera recomendaciones personalizadas, alternativas saludables y recetas. La aplicación sería muy útil en su vida diaria para tomar decisiones alimenticias más saludables.
 
 ## 2.3. Needfinding.
 Desde la creación de Food-Facts, hemos llevado a cabo varias actividades clave para identificar las necesidades de nuestros usuarios:
