@@ -1752,7 +1752,7 @@ En esta sección detallaremos el esquema de organización que utilizaremos para 
 
 Haremos uso de la plataforma GitHub para crear nuestros repositorios remotos. Estos repositorios serán de gran utilidad ya que nos sirven para almacenar y gestionar nuestro código fuente y la documentación. Así mismo, nos facilita la colaboración entre todos los integrantes del grupo y permite tener un control de versiones de nuestro proyecto.
 
-Link de nuestro repositorio: https://github.com/FoodFacts2/Landing-pag 
+Link de nuestro repositorio: https://github.com/FoodFacts2/Landing-page 
 
 Conventional Commits
 
@@ -2410,7 +2410,7 @@ Esperamos unos minutos y se hizo el despliegue en  GitHub despliega tu sitio.
 </div>
 
 
-Landing page desplegado:  https://github.com/orgs/Food-Facts/repositories 
+Landing page desplegado: https://food-facts.github.io/LandingPage/
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -2444,6 +2444,6 @@ link del figma: https://www.figma.com/design/jlQyN71VRygji3P5ALdaCW/WebSite?node
 
 link del repositorio: https://github.com/FoodFacts2
 
-link del la landing desplegada: https://neon-trifle-2e0392.netlify.app/ 
+link del la landing desplegada: https://food-facts.github.io/LandingPage/
 
 link del video de Exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/ETkiGjAoAgtHgSXI7nKeS9kBB4WCzMHXRyaArvbzlviVjA?e=UFtcQh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
