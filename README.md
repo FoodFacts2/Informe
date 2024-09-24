@@ -2424,6 +2424,335 @@ Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas qu
     <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCommits.png?alt=media&token=ea76d427-b6a0-44bd-adc9-9983def147f5" style="width: auto; height: auto;">
 </div>
 
+### 5.2.2. Sprint 2
+
+Durante el Sprint 2, nuestro enfoque estuvo en el diseño del frontend de nuestro producto. Trabajamos arduamente para conceptualizar y dar forma a la primera impresión que tendrán nuestros usuarios. Este sprint fue fundamental para establecer la estética y la estructura inicial de nuestra plataforma, sentando así las bases para futuras iteraciones.
+
+### 5.2.2.1. Sprint Planning 1.
+
+
+Acontinuacion  mostraremos la tabla:
+
+| Sprint 2 | Sprint 2 |
+|----------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2024/09/25 |
+| **Time** | 10:00 PM |
+| **Location** | Reunión por Discord |
+| **Prepared By** | Michael Quispe |
+| **Attendees (to planning meeting)** | Allcca Guerrero, Irving Washington <br> Dextre Miguel, Kevin Cosner<br> Ramos Calagua, Sebastian Alexander<br> Sanchez Montero, Carlos |
+| **Sprint n 1 Review Summary** | Nos hemos reunido para repartir el frontend, es decir que coordinamos quien iba relaizar los puntos del frontend|
+| **Sprint n – 1 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
+| **Sprint Planning Background** | |
+| **Sprint 2 Goal** | Completar el desarrollo de la landing page |
+| **Sprint 2 Velocity** | **Story US-008**: Recuperar contraseña (3 Story Points) <br><br> **Story US-009**: Actualizar perfil de usuario (3 Story Points) <br><br> **Story US-010**: Visualizar historial de búsquedas (3 Story Points) <br><br> **Story US-011**: Configuración de notificaciones (3 Story Points) <br><br> **Story US-013**: Explorar categorías de productos (3 Story Points) <br><br> **Story US-016**: Filtrar productos por valor nutricional (3 Story Points) |
+| **Sum of Story Points** | Suma de Story Points: 3 + 3 + 3 + 3 + 3 + 3 = **18 Story Points** |
+
+
+
+### 5.2.2.2. Sprint Backlog 1.
+
+<table>
+  <tr>
+    <th>Sprint 2</th>
+    <th colspan="7">Sprint 2</th>
+  </tr>
+  <tr>
+    <th colspan="2"> User Story</th>
+    <th colspan="7">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <td>001</td>
+    <td>apartado de la landing</td>
+    <td>026</td>
+    <td>Diseño De Hero Section</td>
+    <td>Como visitante, quiero ver una sección principal atractiva en la landing page que me muestre rápidamente el propósito y valor de la aplicación.</td>
+    <td>6.00</td>
+    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>Done</td>
+  </tr>
+   <tr>
+    <td>002</td>
+    <td>apartado de la landing</td>
+    <td>027</td>
+    <td>Sección de Características Principales</td>
+    <td>Como visitante, quiero ver una sección que destaque las características principales de la aplicación para entender sus beneficios.</td>
+    <td>8.00</td>
+    <td>Allcca Guerrero, Irving Washington</td>
+    <td>Done</td>
+  </tr>
+    <tr>
+    <td>003</td>
+    <td>apartado de la landing</td>
+    <td>028</td>
+    <td>Testimonios de Usuarios</td>
+    <td>Como visitante, quiero leer testimonios de otros usuarios para confiar en la utilidad y efectividad de la aplicación.</td>
+    <td>8.00</td>
+    <td>Dextre Miguel, Kevin Cosner</td>
+    <td>Done</td>
+  </tr>
+   </tr>
+    <tr>
+    <td>004</td>
+    <td>apartado de la landing</td>
+    <td>029</td>
+    <td>Formulario de Contacto</td>
+    <td>Como visitante, quiero tener acceso a un formulario de contacto para poder hacer preguntas o solicitar más información.</td>
+    <td>4.00</td>
+    <td>Sanchez Montero, Carlos</td>
+    <td>Done</td>
+  </tr>
+   </tr>
+   </tr>
+    <tr>
+    <td>005</td>
+    <td>apartado de la landing</td>
+    <td>030</td>
+    <td>Sección de Preguntas Frecuentes</td>
+    <td>Como visitante, quiero ver una sección de preguntas frecuentes para resolver mis dudas rápidamente.</td>
+    <td>6.00</td>
+    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>Done</td>
+  </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>006</td>
+    <td>apartado de la landing</td>
+    <td>031</td>
+    <td>Diseño Responsivo</td>
+    <td>Como visitante, quiero que la landing page se vea y funcione bien en todos mis dispositivos (móvil, tablet, desktop).</td>
+    <td>8.00</td>
+    <td>Allcca Guerrero, Irving Washington</td>
+    <td>Done</td>
+  </tr>
+  </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>007</td>
+    <td>apartado de la landing</td>
+    <td>032</td>
+    <td>Call-to-Action para Registro</td>
+    <td>Como visitante, quiero ver botones claros de llamada a la acción para registrarme o probar la aplicación.</td>
+    <td>4.00</td>
+    <td>Dextre Miguel, Kevin Cosner</td>
+    <td>Done</td>
+  </tr>
+   </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>008</td>
+    <td>apartado de la landing</td>
+    <td>033</td>
+    <td>Integración de Redes Sociales</td>
+    <td>Como visitante, quiero poder acceder fácilmente a las redes sociales de la aplicación desde la landing page..</td>
+    <td>4.00</td>
+    <td>Quispe Roldan, Michael Fred </td>
+    <td>Done</td>
+  </tr>
+  </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>009</td>
+    <td>apartado de la landing</td>
+    <td>034</td>
+    <td>Sección de Casos de Uso</td>
+    <td>Como visitante, quiero ver ejemplos concretos de cómo la aplicación puede ayudarme en mi día a día</td>
+    <td>4.00</td>
+    <td>Sanchez Montero, Carlos</td>
+    <td>Done</td>
+  </tr>
+  </tr>
+    </tr>
+   </tr>
+    <tr>
+    <td>0010</td>
+    <td>apartado de la landing</td>
+    <td>035</td>
+    <td>Optimización SEO</td>
+    <td>Como propietario del producto, quiero que la landing page esté optimizada para motores de búsqueda para aumentar la visibilidad online.</td>
+    <td>6.00</td>
+    <td>Quispe Roldan, Michael Fred</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+### 5.2.2.3. Development Evidence for Sprint Review.
+
+
+Para este entrega  hemos realizado en entre los 2 repositorios Informe y Landing Page hemos Hecho 65 commits varios de ellos sobre el informe, landing page y correcciones aca dejo los mas importante:
+
+
+
+| Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
+| -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
+| Food-Facts/Informe   | main   | id1       | fix:                             | imge url                                     | 6/09/2024        |
+| Food-Facts/Informe   | main   | id2       | docs(Informe):                   | Added Product Backlog                        | 6/09/2024        |
+| Food-Facts/Informe   | main   | id3       | docs(informe):                   | Update Startup description                   | 5/09/2024        |
+| Food-Facts/Informe   | main   | id4       | fix:                             | update sprint planning 1                     | 5/09/2024        |
+| Food-Facts/Informe   | main   | id5       | docs(informe):                   | Add software deployment configuration        | 5/09/2024        |
+| Food-Facts/Informe   | main   | id6       | docs(Informe):                   | added mocks and wireframes Web               | 4/09/2024        |
+| Food-Facts/Informe   | main   | id7       | docs(informe):                   | Update General Style Guidelines              | 5/09/2024        |
+| Food-Facts/Landing Page  | main   | id8       | landing page design:             | improvement                                  | 5/09/2024        |
+| Food-Facts/Landing Page | main   | id9       | add:                             | somos.html & somos.css                       | 4/09/2024        |
+| Food-Facts/Landing Page   | main   | id10      | update:                          | preguntas.html                               | 4/09/2024        |
+| Food-Facts/Landing Page   | main   | id11      | update:                          | preguntas.css                                | 3/09/2024        |
+|Food-Facts/Landing Page  | main   | id12      | update:                          | index.html                                   | 2/09/2024        |
+| Food-Facts/Informe   | main   | id13      | docs(Informe):                   | Add Melina's name                            | 4/09/2024        |
+| Food-Facts/Informe   | main   | id14      | docs(informe):                   | Add sprint planning 1                        | 3/09/2024        |
+| Food-Facts/Informe   | main   | id15      | docs(Informe):                   | Add Wireframes                               | 3/09/2024        |
+| Food-Facts/Informe   | main   | id16      | docs(informe):                   | Added user flow and wireframes diagram       | 2/09/2024        |
+| Food-Facts/Informe   | main   | id17      | docs(informe):                   | Add software deployment configuration        | 2/09/2024        |
+| Food-Facts/Informe   | main   | id18      | fix:                             | corrected error in an image                  | 1/09/2024        |
+| Food-Facts/Informe   | main   | id19      | docs(Informe):                   | Product backlog corrected                    | 1/09/2024        |
+| Food-Facts/Informe   | main   | id20      | docs(Informe):                   | Added interviews and missing points          | 1/09/2024        |
+| Food-Facts/Informe   | main   | id21      | docs(Informe):                   | I made continuous improvement to the report  | 1/09/2024        |
+
+Para ver todos los commits con mas detalle revisar el repositorio
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+En esta seccion implementamos el funcionamiento del obejtivo principal que seria la landing Page Atravez del testing en este caso no tenemos conomiento tecnico si no coceptual y usaremos los criterios de aceptacion
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on Date |
+| ---------- | ------ | ---------- | --------------- | -------------------- | ----------------- |
+|testing | feature | 1 | Added | feature's Diseño de Hero Section| 09/06/2024 |
+|testing|feature|2| Added | feature's Sección de Características Principales | 06/09/2024
+|testing|featuret|3| Added | feature's  Testimonios de Usuarios| 06/09/2024
+|testing|feature|4| Added | feature's Formulario de Contacto | 06/09/2024
+|testing|feature|5| Added | feature's Mostrar formulario de contacto | 06/09/2024
+|testing|feature|6| Added | feature's  Sección de Preguntas Frecuentes| 06/09/2024
+|testing|feature|7| Added | feature's Diseño Responsivo| 06/09/2024
+|testing|feature|8| Added | feature's Call-to-Action para Registro| 06/09/2024
+|testing|feature|9| Added | feature's Integración de Redes Sociales| 06/09/2024
+|testing|feature|9| Added | feature's Sección de Casos de Uso| 06/09/2024
+|testing|feature|9| Added | feature's Optimización de SEO en la landing page| 06/09/2024
+
+```feature
+Feature: Diseño de Hero Section
+  Como visitante, quiero ver una sección principal atractiva en la landing page que me muestre rápidamente el propósito y valor de la aplicación.
+
+  Scenario: Mostrar Hero Section con propósito y valor claro
+    Given soy un visitante en la landing page
+    When la página carga
+    Then debería ver una sección principal con un título y subtítulo claros
+    And la sección debe comunicar el propósito y valor de la aplicación
+    And debe ser visualmente atractiva con imágenes o gráficos relevantes
+
+Feature: Sección de Características Principales
+  Como visitante, quiero ver una sección que destaque las características principales de la aplicación para entender sus beneficios.
+
+  Scenario: Mostrar sección de características principales
+    Given soy un visitante en la landing page
+    When la página carga
+    Then debería ver una sección con al menos 3 características principales de la aplicación
+    And cada característica debe tener un título, una descripción breve, y un icono o imagen
+
+
+    Feature: Testimonios de Usuarios
+  Como visitante, quiero leer testimonios de otros usuarios para confiar en la utilidad y efectividad de la aplicación.
+
+  Scenario: Mostrar sección de testimonios de usuarios
+    Given soy un visitante en la landing page
+    When la página carga
+    Then debería ver una sección con al menos 3 testimonios de usuarios
+    And cada testimonio debe incluir el nombre del usuario y una breve opinión sobre la aplicación
+
+
+Feature: Formulario de Contacto
+  Como visitante, quiero tener acceso a un formulario de contacto para poder hacer preguntas o solicitar más información.
+
+  Scenario: Mostrar formulario de contacto
+    Given soy un visitante en la landing page
+    When hago scroll hacia el final de la página
+    Then debería ver un formulario de contacto con campos para nombre, correo electrónico, y mensaje
+    And debería haber un botón para enviar el formulario
+
+
+Feature: Sección de Preguntas Frecuentes
+  Como visitante, quiero ver una sección de preguntas frecuentes para resolver mis dudas rápidamente.
+
+  Scenario: Mostrar sección de preguntas frecuentes
+    Given soy un visitante en la landing page
+    When hago scroll hacia la sección de preguntas frecuentes
+    Then debería ver al menos 5 preguntas frecuentes con sus respectivas respuestas
+
+Feature: Diseño Responsivo
+  Como visitante, quiero que la landing page se vea y funcione bien en todos mis dispositivos (móvil, tablet, desktop).
+
+  Scenario: Ver diseño responsivo en varios dispositivos
+    Given soy un visitante en la landing page
+    When accedo desde un dispositivo móvil, tablet o desktop
+    Then la página debe ajustarse correctamente al tamaño de la pantalla
+    And todos los elementos deben ser visibles y funcionales en cualquier dispositivo
+
+Feature: Call-to-Action para Registro
+  Como visitante, quiero ver botones claros de llamada a la acción para registrarme o probar la aplicación.
+
+  Scenario: Mostrar botones de llamada a la acción
+    Given soy un visitante en la landing page
+    When hago scroll en la página
+    Then debería ver al menos un botón claro de "Registrarse" o "Probar la aplicación"
+    And el botón debe ser llamativo y funcional
+
+
+Feature: Integración de Redes Sociales
+  Como visitante, quiero poder acceder fácilmente a las redes sociales de la aplicación desde la landing page.
+
+  Scenario: Mostrar íconos de redes sociales
+    Given soy un visitante en la landing page
+    When hago scroll hacia el pie de página
+    Then debería ver íconos de redes sociales como Facebook, Twitter, e Instagram
+    And al hacer clic en cualquier ícono, debería redirigirme a la página de la red social correspondiente
+
+
+Feature: Sección de Casos de Uso
+  Como visitante, quiero ver ejemplos concretos de cómo la aplicación puede ayudarme en mi día a día.
+
+  Scenario: Mostrar sección de casos de uso
+    Given soy un visitante en la landing page
+    When hago scroll hacia la sección de casos de uso
+    Then debería ver al menos 2 ejemplos de cómo la aplicación puede ser utilizada en situaciones cotidianas
+
+Feature: Optimización SEO
+  Como propietario del producto, quiero que la landing page esté optimizada para motores de búsqueda para aumentar la visibilidad online.
+
+  Scenario: Optimización de SEO en la landing page
+    Given la landing page está en producción
+    When el contenido de la página es indexado por motores de búsqueda
+    Then debería estar optimizado con meta tags, descripciones, y palabras clave relevantes
+    And la página debería cargarse rápidamente para mejorar el posicionamiento SEO
+
+```
+
+### 5.2.2.5. Execution Evidence for Sprint Review.
+
+
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+
+
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+
 ## Conclusiones
 
 
