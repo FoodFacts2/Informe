@@ -2428,7 +2428,7 @@ Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas qu
 
 Durante el Sprint 2, nuestro enfoque estuvo en el diseño del frontend de nuestro producto. Trabajamos arduamente para conceptualizar y dar forma a la primera impresión que tendrán nuestros usuarios. Este sprint fue fundamental para establecer la estética y la estructura inicial de nuestra plataforma, sentando así las bases para futuras iteraciones.
 
-### 5.2.2.1. Sprint Planning 1.
+### 5.2.2.1. Sprint Planning 2.
 
 
 Acontinuacion  mostraremos la tabla:
@@ -2450,7 +2450,7 @@ Acontinuacion  mostraremos la tabla:
 
 
 
-### 5.2.2.2. Sprint Backlog 1.
+### 5.2.2.2. Sprint Backlog 2.
 
 <table>
   <tr>
@@ -2472,128 +2472,72 @@ Acontinuacion  mostraremos la tabla:
     <th>Status (To-do / In-Process / ToReview / Done)</th>
   </tr>
   <tr>
-    <td>001</td>
-    <td>apartado de la landing</td>
-    <td>026</td>
-    <td>Diseño De Hero Section</td>
-    <td>Como visitante, quiero ver una sección principal atractiva en la landing page que me muestre rápidamente el propósito y valor de la aplicación.</td>
-    <td>6.00</td>
-    <td>Ramos Calagua, Sebastian Alexander</td>
-    <td>Done</td>
-  </tr>
-   <tr>
-    <td>002</td>
-    <td>apartado de la landing</td>
-    <td>027</td>
-    <td>Sección de Características Principales</td>
-    <td>Como visitante, quiero ver una sección que destaque las características principales de la aplicación para entender sus beneficios.</td>
-    <td>8.00</td>
-    <td>Allcca Guerrero, Irving Washington</td>
-    <td>Done</td>
-  </tr>
-    <tr>
-    <td>003</td>
-    <td>apartado de la landing</td>
-    <td>028</td>
-    <td>Testimonios de Usuarios</td>
-    <td>Como visitante, quiero leer testimonios de otros usuarios para confiar en la utilidad y efectividad de la aplicación.</td>
-    <td>8.00</td>
-    <td>Dextre Miguel, Kevin Cosner</td>
-    <td>Done</td>
-  </tr>
-   </tr>
-    <tr>
-    <td>004</td>
-    <td>apartado de la landing</td>
-    <td>029</td>
-    <td>Formulario de Contacto</td>
-    <td>Como visitante, quiero tener acceso a un formulario de contacto para poder hacer preguntas o solicitar más información.</td>
-    <td>4.00</td>
-    <td>Sanchez Montero, Carlos</td>
-    <td>Done</td>
-  </tr>
-   </tr>
-   </tr>
-    <tr>
-    <td>005</td>
-    <td>apartado de la landing</td>
-    <td>030</td>
-    <td>Sección de Preguntas Frecuentes</td>
-    <td>Como visitante, quiero ver una sección de preguntas frecuentes para resolver mis dudas rápidamente.</td>
-    <td>6.00</td>
-    <td>Ramos Calagua, Sebastian Alexander</td>
-    <td>Done</td>
-  </tr>
-    </tr>
-   </tr>
-    <tr>
-    <td>006</td>
-    <td>apartado de la landing</td>
-    <td>031</td>
-    <td>Diseño Responsivo</td>
-    <td>Como visitante, quiero que la landing page se vea y funcione bien en todos mis dispositivos (móvil, tablet, desktop).</td>
-    <td>8.00</td>
-    <td>Allcca Guerrero, Irving Washington</td>
-    <td>Done</td>
-  </tr>
-  </tr>
-    </tr>
-   </tr>
-    <tr>
     <td>007</td>
-    <td>apartado de la landing</td>
-    <td>032</td>
-    <td>Call-to-Action para Registro</td>
-    <td>Como visitante, quiero ver botones claros de llamada a la acción para registrarme o probar la aplicación.</td>
+    <td>apartado del perfil de usuario</td>
+    <td>008</td>
+    <td>Recuperar contraseña</td>
+    <td>Como usuario, quiero recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta.</td>
+    <td>5.00</td>
+    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>008</td>
+    <td>apartado del perfil de usuario</td>
+    <td>009</td>
+    <td>Actualizar perfil de usuario</td>
+    <td>Como usuario, quiero poder actualizar mi perfil para mantener mis datos al día y recibir alertas relevantes.</td>
     <td>4.00</td>
+    <td>Allcca Guerrero, Irving Washington</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>009</td>
+    <td>apartado del historial</td>
+    <td>010</td>
+    <td>Visualizar historial de búsquedas</td>
+    <td>Como usuario, quiero poder ver mi historial de búsquedas previas para acceder rápidamente a la información que ya he consultado.</td>
+    <td>6.00</td>
     <td>Dextre Miguel, Kevin Cosner</td>
     <td>Done</td>
   </tr>
-   </tr>
-    </tr>
-   </tr>
-    <tr>
-    <td>008</td>
-    <td>apartado de la landing</td>
-    <td>033</td>
-    <td>Integración de Redes Sociales</td>
-    <td>Como visitante, quiero poder acceder fácilmente a las redes sociales de la aplicación desde la landing page..</td>
-    <td>4.00</td>
-    <td>Quispe Roldan, Michael Fred </td>
-    <td>Done</td>
-  </tr>
-  </tr>
-    </tr>
-   </tr>
-    <tr>
-    <td>009</td>
-    <td>apartado de la landing</td>
-    <td>034</td>
-    <td>Sección de Casos de Uso</td>
-    <td>Como visitante, quiero ver ejemplos concretos de cómo la aplicación puede ayudarme en mi día a día</td>
-    <td>4.00</td>
+  <tr>
+    <td>010</td>
+    <td>apartado de notificaciones</td>
+    <td>011</td>
+    <td>Configuración de notificaciones</td>
+    <td>Como usuario, quiero configurar mis preferencias de notificaciones para recibir alertas sobre productos y noticias relevantes.</td>
+    <td>2.00</td>
     <td>Sanchez Montero, Carlos</td>
     <td>Done</td>
   </tr>
-  </tr>
-    </tr>
-   </tr>
-    <tr>
-    <td>0010</td>
-    <td>apartado de la landing</td>
-    <td>035</td>
-    <td>Optimización SEO</td>
-    <td>Como propietario del producto, quiero que la landing page esté optimizada para motores de búsqueda para aumentar la visibilidad online.</td>
+  <tr>
+    <td>011</td>
+    <td>apartado de categorías</td>
+    <td>013</td>
+    <td>Explorar categorías de productos</td>
+    <td>Como usuario, quiero explorar categorías de productos para descubrir nuevos alimentos y conocer su valor nutricional.</td>
     <td>6.00</td>
+    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>012</td>
+    <td>apartado de filtros</td>
+    <td>016</td>
+    <td>Filtrar productos por valor nutricional</td>
+    <td>Como usuario, quiero filtrar productos por su valor nutricional para encontrar aquellos que se ajusten mejor a mis necesidades dietéticas.</td>
+    <td>5.00</td>
     <td>Quispe Roldan, Michael Fred</td>
     <td>Done</td>
   </tr>
 </table>
 
+
 ### 5.2.2.3. Development Evidence for Sprint Review.
 
 
-Para este entrega  hemos realizado en entre los 2 repositorios Informe y Landing Page hemos Hecho 65 commits varios de ellos sobre el informe, landing page y correcciones aca dejo los mas importante:
+Para este entrega  hemos realizado en entre los  repositorios Informe y front end hemos Hecho 40 commits varios de ellos sobre el informe, frontend y correcciones aca dejo los mas importante:
 
 
 
@@ -2626,115 +2570,65 @@ Para ver todos los commits con mas detalle revisar el repositorio
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
 En esta seccion implementamos el funcionamiento del obejtivo principal que seria la landing Page Atravez del testing en este caso no tenemos conomiento tecnico si no coceptual y usaremos los criterios de aceptacion
-
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on Date |
+ Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on Date |
 | ---------- | ------ | ---------- | --------------- | -------------------- | ----------------- |
-|testing | feature | 1 | Added | feature's Diseño de Hero Section| 09/06/2024 |
-|testing|feature|2| Added | feature's Sección de Características Principales | 06/09/2024
-|testing|featuret|3| Added | feature's  Testimonios de Usuarios| 06/09/2024
-|testing|feature|4| Added | feature's Formulario de Contacto | 06/09/2024
-|testing|feature|5| Added | feature's Mostrar formulario de contacto | 06/09/2024
-|testing|feature|6| Added | feature's  Sección de Preguntas Frecuentes| 06/09/2024
-|testing|feature|7| Added | feature's Diseño Responsivo| 06/09/2024
-|testing|feature|8| Added | feature's Call-to-Action para Registro| 06/09/2024
-|testing|feature|9| Added | feature's Integración de Redes Sociales| 06/09/2024
-|testing|feature|9| Added | feature's Sección de Casos de Uso| 06/09/2024
-|testing|feature|9| Added | feature's Optimización de SEO en la landing page| 06/09/2024
+|testing | feature | 007 | Added | Recuperar contraseña: Como usuario, quiero recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta. | 26/09/2024 |
+|testing | feature | 008 | Added | Actualizar perfil de usuario: Como usuario, quiero poder actualizar mi perfil para mantener mis datos al día y recibir alertas relevantes. | 26/09/2024 |
+|testing | feature | 009 | Added | Visualizar historial de búsquedas: Como usuario, quiero poder ver mi historial de búsquedas previas para acceder rápidamente a la información que ya he consultado. | 26/09/2024 |
+|testing | feature | 010 | Added | Configuración de notificaciones: Como usuario, quiero configurar mis preferencias de notificaciones para recibir alertas sobre productos y noticias relevantes. | 26/09/2024 |
+|testing | feature | 011 | Added | Explorar categorías de productos: Como usuario, quiero explorar categorías de productos para descubrir nuevos alimentos y conocer su valor nutricional. | 26/09/2024 |
+|testing | feature | 012 | Added | Filtrar productos por valor nutricional: Como usuario, quiero filtrar productos por su valor nutricional para encontrar aquellos que se ajusten mejor a mis necesidades dietéticas. | 26/09/2024 |
+
 
 ```feature
-Feature: Diseño de Hero Section
-  Como visitante, quiero ver una sección principal atractiva en la landing page que me muestre rápidamente el propósito y valor de la aplicación.
+Feature: Recuperar contraseña
+Como usuario, quiero recuperar mi contraseña en caso de que la olvide para poder acceder nuevamente a mi cuenta.
 
-  Scenario: Mostrar Hero Section con propósito y valor claro
-    Given soy un visitante en la landing page
-    When la página carga
-    Then debería ver una sección principal con un título y subtítulo claros
-    And la sección debe comunicar el propósito y valor de la aplicación
-    And debe ser visualmente atractiva con imágenes o gráficos relevantes
+Scenario: Solicitar recuperación de contraseña
+Given soy un usuario que ha olvidado su contraseña
+When intento iniciar sesión y selecciono "Olvidé mi contraseña"
+Then debería recibir un enlace de recuperación en mi correo electrónico
+And debería poder restablecer mi contraseña a través del enlace
+Feature: Actualizar perfil de usuario
+Como usuario, quiero poder actualizar mi perfil para mantener mis datos al día y recibir alertas relevantes.
 
-Feature: Sección de Características Principales
-  Como visitante, quiero ver una sección que destaque las características principales de la aplicación para entender sus beneficios.
+Scenario: Actualizar información del perfil
+Given soy un usuario autenticado en mi cuenta
+When navego a la sección de "Editar Perfil"
+Then debería poder modificar mis datos como nombre, correo electrónico, y preferencias
+And los cambios deberían guardarse correctamente
+Feature: Visualizar historial de búsquedas
+Como usuario, quiero poder ver mi historial de búsquedas previas para acceder rápidamente a la información que ya he consultado.
 
-  Scenario: Mostrar sección de características principales
-    Given soy un visitante en la landing page
-    When la página carga
-    Then debería ver una sección con al menos 3 características principales de la aplicación
-    And cada característica debe tener un título, una descripción breve, y un icono o imagen
+Scenario: Mostrar historial de búsquedas
+Given soy un usuario autenticado
+When accedo a la sección de historial de búsquedas
+Then debería ver una lista de las búsquedas recientes que he realizado
+And debería poder hacer clic en cualquier búsqueda para ver los resultados nuevamente
+Feature: Configuración de notificaciones
+Como usuario, quiero configurar mis preferencias de notificaciones para recibir alertas sobre productos y noticias relevantes.
 
+Scenario: Modificar preferencias de notificaciones
+Given soy un usuario autenticado
+When accedo a la configuración de notificaciones
+Then debería poder activar o desactivar diferentes tipos de notificaciones
+And los cambios deberían reflejarse en mis alertas
+Feature: Explorar categorías de productos
+Como usuario, quiero explorar categorías de productos para descubrir nuevos alimentos y conocer su valor nutricional.
 
-    Feature: Testimonios de Usuarios
-  Como visitante, quiero leer testimonios de otros usuarios para confiar en la utilidad y efectividad de la aplicación.
+Scenario: Navegar por categorías de productos
+Given soy un usuario interesado en productos
+When navego a la sección de categorías de productos
+Then debería poder ver diferentes categorías de alimentos y productos
+And debería poder filtrar los productos según mi interés
+Feature: Filtrar productos por valor nutricional
+Como usuario, quiero filtrar productos por su valor nutricional para encontrar aquellos que se ajusten mejor a mis necesidades dietéticas.
 
-  Scenario: Mostrar sección de testimonios de usuarios
-    Given soy un visitante en la landing page
-    When la página carga
-    Then debería ver una sección con al menos 3 testimonios de usuarios
-    And cada testimonio debe incluir el nombre del usuario y una breve opinión sobre la aplicación
-
-
-Feature: Formulario de Contacto
-  Como visitante, quiero tener acceso a un formulario de contacto para poder hacer preguntas o solicitar más información.
-
-  Scenario: Mostrar formulario de contacto
-    Given soy un visitante en la landing page
-    When hago scroll hacia el final de la página
-    Then debería ver un formulario de contacto con campos para nombre, correo electrónico, y mensaje
-    And debería haber un botón para enviar el formulario
-
-
-Feature: Sección de Preguntas Frecuentes
-  Como visitante, quiero ver una sección de preguntas frecuentes para resolver mis dudas rápidamente.
-
-  Scenario: Mostrar sección de preguntas frecuentes
-    Given soy un visitante en la landing page
-    When hago scroll hacia la sección de preguntas frecuentes
-    Then debería ver al menos 5 preguntas frecuentes con sus respectivas respuestas
-
-Feature: Diseño Responsivo
-  Como visitante, quiero que la landing page se vea y funcione bien en todos mis dispositivos (móvil, tablet, desktop).
-
-  Scenario: Ver diseño responsivo en varios dispositivos
-    Given soy un visitante en la landing page
-    When accedo desde un dispositivo móvil, tablet o desktop
-    Then la página debe ajustarse correctamente al tamaño de la pantalla
-    And todos los elementos deben ser visibles y funcionales en cualquier dispositivo
-
-Feature: Call-to-Action para Registro
-  Como visitante, quiero ver botones claros de llamada a la acción para registrarme o probar la aplicación.
-
-  Scenario: Mostrar botones de llamada a la acción
-    Given soy un visitante en la landing page
-    When hago scroll en la página
-    Then debería ver al menos un botón claro de "Registrarse" o "Probar la aplicación"
-    And el botón debe ser llamativo y funcional
-
-
-Feature: Integración de Redes Sociales
-  Como visitante, quiero poder acceder fácilmente a las redes sociales de la aplicación desde la landing page.
-
-  Scenario: Mostrar íconos de redes sociales
-    Given soy un visitante en la landing page
-    When hago scroll hacia el pie de página
-    Then debería ver íconos de redes sociales como Facebook, Twitter, e Instagram
-    And al hacer clic en cualquier ícono, debería redirigirme a la página de la red social correspondiente
-
-
-Feature: Sección de Casos de Uso
-  Como visitante, quiero ver ejemplos concretos de cómo la aplicación puede ayudarme en mi día a día.
-
-  Scenario: Mostrar sección de casos de uso
-    Given soy un visitante en la landing page
-    When hago scroll hacia la sección de casos de uso
-    Then debería ver al menos 2 ejemplos de cómo la aplicación puede ser utilizada en situaciones cotidianas
-
-Feature: Optimización SEO
-  Como propietario del producto, quiero que la landing page esté optimizada para motores de búsqueda para aumentar la visibilidad online.
-
-  Scenario: Optimización de SEO en la landing page
-    Given la landing page está en producción
-    When el contenido de la página es indexado por motores de búsqueda
-    Then debería estar optimizado con meta tags, descripciones, y palabras clave relevantes
-    And la página debería cargarse rápidamente para mejorar el posicionamiento SEO
+Scenario: Filtrar productos según valor nutricional
+Given soy un usuario que busca productos con características nutricionales específicas
+When utilizo los filtros de valor nutricional
+Then debería poder ver productos que cumplen con los valores que he seleccionado
+And debería poder ajustar los filtros para cambiar los resultados
 
 ```
 
