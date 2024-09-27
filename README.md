@@ -2634,7 +2634,26 @@ And debería poder ajustar los filtros para cambiar los resultados
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 
-
+Para esta entrega, la aplicación web se encuentran en lanzamiento y de acceso abierto para todos los ususarios:
+1.Home
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/IMG-20240926-WA0010.jpg?alt=media&token=1a044814-7c0a-46cf-97ca-c05330e66a77" alt="W5" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/IMG-20240926-WA0007.jpg?alt=media&token=749eef02-5f06-408e-85f5-dfd54d41a071" alt="W5" style="width: auto; height: auto;">
+</div>
+2.Products
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/IMG-20240926-WA0003.jpg?alt=media&token=f128a175-b02b-4759-ac11-6ebc839490b8" alt="W5" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/IMG-20240926-WA0006.jpg?alt=media&token=dd5a7a28-74bc-4b76-81a0-ec239637242f" alt="W5" style="width: auto; height: auto;">
+  </div>
+3.Nutritionist
+4.Log-in
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/IMG-20240926-WA0009.jpg?alt=media&token=df769d0c-5636-455d-b23d-2440b198bca3" alt="W5" style="width: auto; height: auto;">
+</div>
+5.Sign-in
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/IMG-20240926-WA0011.jpg?alt=media&token=1c5f02fb-e834-4507-a919-974c0c7a88f2" alt="W5" style="width: auto; height: auto;">
+</div>
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
@@ -2671,7 +2690,10 @@ Implementamos un sistema de filtros que permite a los usuarios buscar productos 
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
-
+En este Aparto veremos colaboracion real entre todos los integrantes de FooDFacts en la implementacion de la aplicacion
+<div style="text-align: center;">
+   <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/comit.png?alt=media&token=763a4e0e-78b3-48c2-ab6f-dc5dfb451fad" alt="W5" style="width: auto; height: auto;">
+</div>
 ## Conclusiones
 
 
@@ -2694,4 +2716,4 @@ link del repositorio: https://github.com/FoodFacts2
 
 link del la landing desplegada: https://food-facts.github.io/LandingPage/
 
-link del video de Exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/ETkiGjAoAgtHgSXI7nKeS9kBB4WCzMHXRyaArvbzlviVjA?e=UFtcQh&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+link del video de Exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EW00cSs0EdFGgjLdVYGSUPMB0TIGNhQ2Aq6LecZ3YPlGYA?e=1gppIC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
