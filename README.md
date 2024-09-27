@@ -2638,6 +2638,31 @@ And debería poder ajustar los filtros para cambiar los resultados
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+Sprint: Sprint 2 Fecha: 23/09/2024 FoodFacts
+1. Resumen
+El objetivo de este sprint fue implementar funcionalidades clave relacionadas con la experiencia del usuario, incluyendo la gestión de perfiles, recuperación de contraseñas, historial de búsquedas, notificaciones y exploración de productos. Se enfocó en mejorar la interacción del usuario con la aplicación y proporcionar herramientas para una experiencia más personalizada.
+2. Trabajo Realizado
+2.1 Recuperación de Contraseña
+Implementamos un sistema de recuperación de contraseña para que los usuarios puedan acceder nuevamente a sus cuentas en caso de olvidar sus credenciales. Esta funcionalidad mejora la seguridad y la accesibilidad de la aplicación.
+2.2 Actualización de Perfil de Usuario
+Desarrollamos la capacidad para que los usuarios actualicen su perfil, permitiéndoles mantener sus datos actualizados y recibir alertas relevantes basadas en su información personal.
+2.3 Visualización del Historial de Búsquedas
+Creamos una funcionalidad que permite a los usuarios ver su historial de búsquedas previas, facilitando el acceso rápido a la información que ya han consultado anteriormente.
+2.4 Configuración de Notificaciones
+Implementamos un sistema de configuración de notificaciones, permitiendo a los usuarios personalizar sus preferencias para recibir alertas sobre productos y noticias relevantes.
+2.5 Exploración de Categorías de Productos
+Desarrollamos una función para que los usuarios puedan explorar diferentes categorías de productos, facilitando el descubrimiento de nuevos alimentos y el acceso a su información nutricional.
+2.6 Filtrado de Productos por Valor Nutricional
+Implementamos un sistema de filtros que permite a los usuarios buscar productos específicos basados en su valor nutricional, ayudándoles a encontrar alimentos que se ajusten mejor a sus necesidades dietéticas.
+3. Hallazgos y Desafíos
+•	Integración de sistemas: La implementación del sistema de recuperación de contraseña requirió una cuidadosa integración con los sistemas de autenticación existentes.
+•	Rendimiento: La visualización del historial de búsquedas planteó desafíos de rendimiento, especialmente para usuarios con un historial extenso.
+•	Diseño de UX: Crear una interfaz intuitiva para la configuración de notificaciones y el filtrado de productos requirió varias iteraciones de diseño.
+4. Próximos Pasos
+•	Realizar pruebas de usabilidad para las nuevas funcionalidades implementadas.
+•	Optimizar el rendimiento del historial de búsquedas para grandes volúmenes de datos.
+•	Expandir las opciones de filtrado de productos basadas en el feedback de los usuarios.
+•	Mejorar la personalización de las notificaciones basadas en el comportamiento del usuario.
 
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review.
