@@ -2686,7 +2686,12 @@ Implementamos un sistema de filtros que permite a los usuarios buscar productos 
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+Para el segundo sprint, optamos por utilizar la plataforma Firebase para desplegar el frontend. En primer lugar, instalamos Firebase Tools y luego procedimos a iniciar sesión con Firebase login. Posteriormente, ejecutamos el comando "npm firebase init" en la terminal y seleccionamos el servicio de hosting. Una vez seleccionado, configuramos los parámetros necesarios, como el directorio de compilación, las rutas y el proyecto asociado. Finalmente, empleamos el comando "firebase deploy --only hosting" para implementar nuestra aplicación exclusivamente para el servicio de hosting.
 
+<div style="text-align: center;">
+   <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/appwb.jpg?alt=media&token=bdac552d-4a3f-421b-a02f-68b31d230dbf" alt="W5" style="width: auto; height: auto;">
+</div>
+ link:https://foodfacts-7ee9f.web.app/ 
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -2715,5 +2720,7 @@ link del figma: https://www.figma.com/design/jlQyN71VRygji3P5ALdaCW/WebSite?node
 link del repositorio: https://github.com/FoodFacts2
 
 link del la landing desplegada: https://food-facts.github.io/LandingPage/
+
+link de la aplicación web: https://foodfacts-7ee9f.web.app/
 
 link del video de Exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EW00cSs0EdFGgjLdVYGSUPMB0TIGNhQ2Aq6LecZ3YPlGYA?e=1gppIC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
