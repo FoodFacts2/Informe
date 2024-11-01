@@ -2441,10 +2441,10 @@ Acontinuacion  mostraremos la tabla:
 | **Location** | Reunión por Discord |
 | **Prepared By** | Michael Quispe |
 | **Attendees (to planning meeting)** | Allcca Guerrero, Irving Washington <br> Dextre Miguel, Kevin Cosner<br> Ramos Calagua, Sebastian Alexander<br> Sanchez Montero, Carlos |
-| **Sprint n 1 Review Summary** | Nos hemos reunido para repartir el frontend, es decir que coordinamos quien iba relaizar los puntos del frontend|
-| **Sprint n – 1 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
+| **Sprint 2 Review Summary** | Nos hemos reunido para repartir el frontend, es decir que coordinamos quien iba relaizar los puntos del frontend|
+| **Sprint 2 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
 | **Sprint Planning Background** | |
-| **Sprint 2 Goal** | Completar el desarrollo de la landing page |
+| **Sprint 2 Goal** | Completar el desarrollo del front end|
 | **Sprint 2 Velocity** | **Story US-008**: Recuperar contraseña (3 Story Points) <br><br> **Story US-009**: Actualizar perfil de usuario (3 Story Points) <br><br> **Story US-010**: Visualizar historial de búsquedas (3 Story Points) <br><br> **Story US-011**: Configuración de notificaciones (3 Story Points) <br><br> **Story US-013**: Explorar categorías de productos (3 Story Points) <br><br> **Story US-016**: Filtrar productos por valor nutricional (3 Story Points) |
 | **Sum of Story Points** | Suma de Story Points: 3 + 3 + 3 + 3 + 3 + 3 = **18 Story Points** |
 
@@ -2699,6 +2699,161 @@ En este Aparto veremos colaboracion real entre todos los integrantes de FooDFact
 <div style="text-align: center;">
    <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/comit.png?alt=media&token=763a4e0e-78b3-48c2-ab6f-dc5dfb451fad" alt="W5" style="width: auto; height: auto;">
 </div>
+
+### 5.2.3. Sprint 3
+
+Durante el Sprint 3, nuestro enfoque se centró en el desarrollo del web service de nuestra plataforma. Trabajamos arduamente en la implementación de la arquitectura y la estructura inicial que sustentará la interacción entre el frontend y el backend. Este sprint fue fundamental para establecer la funcionalidad y la comunicación de los servicios, sentando así las bases para futuras iteraciones y optimizaciones que asegurarán una experiencia de usuario fluida y eficiente..
+
+### 5.2.3.1. Sprint Planning 3.
+
+
+Acontinuacion  mostraremos la tabla:
+
+| Sprint 3 | Sprint 3 |
+|----------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2024/10/26 |
+| **Time** | 10:00 PM |
+| **Location** | Reunión por Discord |
+| **Prepared By** | Michael Quispe |
+| **Attendees (to planning meeting)** | Allcca Guerrero, Irving Washington <br> Dextre Miguel, Kevin Cosner<br> Ramos Calagua, Sebastian Alexander<br> Sanchez Montero, Carlos |
+| **Sprint 3 Review Summary** | Nos hemos reunido para repartir el back end, es decir que coordinamos quien iba realizar los puntos del back end|
+| **Sprint 3 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
+| **Sprint Planning Background** | |
+| **Sprint 3 Goal** | Completar el desarrollo del backend |
+| **Sprint 3 Velocity** | **Story US-001**: Visualizar información nutricional detallada (3 Story Points) <br><br> **Story US-003**: Personalización de alertas de salud (3 Story Points) <br><br> **Story US-004**: Comparar productos similares (3 Story Points) <br><br> **Story US-014**:  Ver alertas de productos no saludables (3 Story Points) <br><br> **Story US-015**: Identificación de aditivos artificiales (3 Story Points) <br><br> **Story US-025**: Consulta de información sobre seguridad alimentaria (3 Story Points) |
+| **Sum of Story Points** | Suma de Story Points: 3 + 3 + 3 + 3 + 3 + 3 = **18 Story Points** |
+
+
+
+### 5.2.3.2. Sprint Backlog 3.
+
+<table>
+  <tr>
+    <th>Sprint 3</th>
+    <th colspan="7">Sprint 3</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="7">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <td>001</td>
+    <td>Visualizar información nutricional detallada</td>
+    <td>020</td>
+    <td>Desarrollar endpoint de visualización nutricional</td>
+    <td>Como usuario, quiero ver información nutricional detallada para evaluar la calidad de los alimentos.</td>
+    <td>5.00</td>
+    <td>Michael Quispe</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>003</td>
+    <td>Personalización de alertas de salud</td>
+    <td>021</td>
+    <td>Configurar alertas de salud personalizadas</td>
+    <td>Como usuario, quiero personalizar alertas de salud para recibir información relevante a mis necesidades.</td>
+    <td>4.00</td>
+    <td>Allcca Guerrero, Irving Washington</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>004</td>
+    <td>Comparar productos similares</td>
+    <td>022</td>
+    <td>Crear comparación de productos</td>
+    <td>Como usuario, quiero comparar productos similares para elegir el más saludable.</td>
+    <td>6.00</td>
+    <td>Dextre Miguel, Kevin Cosner</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>014</td>
+    <td>Ver alertas de productos no saludables</td>
+    <td>023</td>
+    <td>Generar alertas para productos no saludables</td>
+    <td>Como usuario, quiero recibir alertas de productos poco saludables para evitarlos en mi dieta.</td>
+    <td>3.00</td>
+    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>015</td>
+    <td>Identificación de aditivos artificiales</td>
+    <td>024</td>
+    <td>Implementar identificador de aditivos</td>
+    <td>Como usuario, quiero identificar aditivos artificiales para evitar alimentos procesados.</td>
+    <td>4.00</td>
+    <td>Sanchez Montero, Carlos</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>025</td>
+    <td>Consulta de información sobre seguridad alimentaria</td>
+    <td>025</td>
+    <td>Desarrollar consultas de seguridad alimentaria</td>
+    <td>Como usuario, quiero consultar sobre seguridad alimentaria para tomar decisiones informadas.</td>
+    <td>6.00</td>
+    <td>Michael Quispe</td>
+    <td>To-do</td>
+  </tr>
+</table>
+
+
+
+### 5.2.3.3. Development Evidence for Sprint Review.
+
+
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+
+### 5.2.3.5. Execution Evidence for Sprint Review.
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+
+
+### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+Food-Facts es una plataforma diseñada para proporcionar un análisis detallado y personalizado de la composición nutricional de alimentos procesados, enfocándose en la identificación de riesgos para la salud y la educación nutricional. Food-Facts permite a los usuarios registrar productos, obtener información detallada sobre los ingredientes y recibir reportes personalizados basados en sus condiciones de salud, ayudándoles a tomar decisiones alimenticias más seguras y saludables.
+
+Preguntas para la Entrevista:
+
+* ¿Qué opinas sobre la barra lateral que incluye opciones como "Home", "Products", "Nutritionist", "Profile", y "Help"? ¿Es intuitiva para ti?
+* ¿Cómo te parece el diseño y funcionalidad del cuadro de "Quick Search" para buscar reportes? ¿Es fácil de usar?
+* ¿Te parece útil la sección de "Your Activity" que muestra la cantidad de reportes creados y la última fecha de acceso? ¿Agregarías algo más a esta sección?
+* ¿La sección de "Featured Reports" te resulta atractiva y clara para explorar información como suplementos de proteínas o vitamina D? ¿Cómo mejorarías su presentación?
+* ¿Consideras que los colores y contrastes del diseño son agradables y facilitan la lectura o navegación?
+* ¿Te parece fácil identificar los botones interactivos como el de "Read Report" o "Search"? ¿Son lo suficientemente claros?
+* ¿Qué tan útil te resulta la sección de "Upcoming Nutrition Conference"? ¿Te gustaría recibir recordatorios o notificaciones sobre eventos?
+* ¿Cómo te sentirías si hubiera más detalles gráficos, como íconos o imágenes de alimentos, para representar los reportes de nutrición?
+* ¿Qué tan clara te parece la navegación en la parte superior derecha, con los íconos de búsqueda, notificaciones y compartir? ¿Es fácil acceder a esas opciones?
+* ¿Hay alguna funcionalidad que crees que falta en esta página principal que mejoraría tu experiencia como usuario interesado en la alimentación saludable?
+
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.
+
+
 ## Conclusiones
 
 
