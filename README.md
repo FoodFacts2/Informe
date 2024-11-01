@@ -2864,6 +2864,124 @@ Preguntas para la Entrevista:
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+## UX Heuristics & Principles Evaluation
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA**: Ingeniería de Software  
+**CURSO**: Aplicaciones Web  
+**SECCIÓN**: SI729 
+**PROFESORES**: Todos  
+**AUDITOR**: Quispe Roldan Michael Fred 
+**CLIENTE(S)**:  Allcca Guerrero, Irving Washington <br> Dextre Miguel, Kevin Cosner<br> Ramos Calagua, Sebastian Alexander<br> Sanchez Montero, Carlos
+
+
+---
+
+## Site o app a evaluar:
+**Nombre de App**
+
+## Tareas avaluar:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Registro de usuarios
+2. Inicio de sesión de usuarios
+3. Guardar productos favoritos
+4. Eliminar productos de favoritos
+5. Buscar productos por nombre o categoría
+6. Valor nutricional real
+7. Recuperar contraseña
+8. Actualizar perfil de usuario
+9. Explorar categorías de productos
+10. Explorar categorías de productos
+11. Visualizar información nutricional detallada
+12. Comparar productos similares
+13. Ver alertas de productos no saludables
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Actualizar perfil de usuario
+2. Visualizar historial de búsqueda
+3. Configuración de notificaciones
+4. Filtrar productos por valor nutricional
+5. Personalización de alertas de salud
+6. Identificación de aditivos artificiales
+7. Consulta de información sobre seguridad alimentaria
+
+---
+
+## Escala de severidad:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+## Tabla resumen:
+
+| #  | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|----|----------|----------------------|---------------------------------|
+| 1  | Falta de validación clara en el formulario de registro de usuarios | 3 | Usability: Visibilidad del estado del sistema |
+| 2  | Mensajes de error poco descriptivos al fallar el inicio de sesión | 2 | Usability: Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de los errores |
+| 3  | No se guarda correctamente el producto en la lista de favoritos en ciertas ocasiones | 3 | Usability: Confiabilidad y consistencia |
+| 4  | No hay confirmación visual al eliminar productos de favoritos | 2 | Usability: Proporcionar feedback claro |
+| 5  | La barra de búsqueda no sugiere términos relacionados al escribir | 2 | Usability: Flexibilidad y eficiencia de uso |
+| 6  | Información del valor nutricional no se muestra en formato accesible para usuarios con dificultades visuales | 4 | Inclusive Design: Proporciona experiencias comparables |
+| 7  | El enlace para recuperar la contraseña es difícil de encontrar en la página de inicio de sesión | 2 | Usability: Visibilidad y accesibilidad |
+| 8  | Al actualizar el perfil, algunos cambios no se reflejan de inmediato | 3 | Usability: Visibilidad del estado del sistema |
+| 9  | La navegación entre categorías de productos no es intuitiva | 3 | Usability: Consistencia y estándares |
+| 10 | Problemas de diseño repetido en la exploración de categorías | 2 | Usability: Minimizar la carga de memoria del usuario |
+| 11 | La visualización de la información nutricional detallada es confusa por exceso de datos sin priorización | 3 | Information Architecture: Is it clear? |
+| 12 | No se pueden comparar productos de manera clara, lo que genera confusión | 3 | Usability: Ayuda al usuario a realizar tareas sin esfuerzo excesivo |
+| 13 | Las alertas de productos no saludables no se destacan lo suficiente | 2 | Usability: Visibilidad del estado del sistema |
+
+---
+
+## Descripcion de problemas:
+
+### PROBLEMA #2: Mensajes de error poco descriptivos al fallar el inicio de sesión
+**Severidad**: 2  
+**Heurística violada**: Usabilidad - Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de los errores
+
+**Problema**:  
+Cuando un usuario intenta iniciar sesión y falla (por ejemplo, por una contraseña incorrecta), los mensajes de error que aparecen son vagos, como "Error al iniciar sesión". Esto no permite al usuario identificar cuál es la causa específica del problema, haciendo que la experiencia sea frustrante.
+
+**Recomendación**:  
+Implementar mensajes de error más descriptivos, como "La contraseña ingresada es incorrecta" o "El correo electrónico no está registrado".
+
+### PROBLEMA #5: La barra de búsqueda no sugiere términos relacionados al escribir
+**Severidad**: 2  
+**Heurística violada**: Usabilidad - Flexibilidad y eficiencia de uso
+
+**Problema**:  
+La barra de búsqueda no proporciona sugerencias automáticas mientras el usuario escribe, lo que dificulta encontrar productos si no se conoce el nombre exacto o se cometen errores de escritura.
+
+**Recomendación**:  
+Incorporar una función de autocompletado que ofrezca sugerencias basadas en términos populares o relacionados.
+
+### PROBLEMA #8: Al actualizar el perfil, algunos cambios no se reflejan de inmediato
+**Severidad**: 3  
+**Heurística violada**: Usabilidad - Visibilidad del estado del sistema
+
+**Problema**:  
+Cuando un usuario actualiza su perfil, ciertos cambios, como la foto de perfil o la información de contacto, no se reflejan de inmediato. Esto puede llevar al usuario a pensar que los cambios no se han guardado correctamente.
+
+**Recomendación**:  
+Mostrar un mensaje claro de confirmación al guardar los cambios e implementar una actualización automática de la página o elementos específicos.
+
+### PROBLEMA #13: Las alertas de productos no saludables no se destacan lo suficiente
+**Severidad**: 2  
+**Heurística violada**: Usabilidad - Visibilidad del estado del sistema
+
+**Problema**:  
+Las alertas sobre productos con altos niveles de azúcar, sal u otros componentes perjudiciales no son lo suficientemente visibles. Esto puede llevar a los usuarios a pasar por alto información relevante para su salud.
+
+**Recomendación**:  
+Aumentar el contraste o el tamaño de las alertas y considerar el uso de íconos o colores llamativos para destacarlas mejor.
+
+
 ## 5.4. Video About-the-Product.
 
 
