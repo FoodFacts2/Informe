@@ -2862,6 +2862,20 @@ Preguntas para la Entrevista:
 
 **Resumen de la Entrevista:** Fabrizio considera que la página de inicio de FoodFacts es visualmente atractiva y se relaciona bien con el tema de la nutrición, destacando la imagen de ingredientes frescos como un punto positivo. Sin embargo, menciona que el botón de 'Descargar', aunque visible, debería ser más llamativo para captar mejor la atención. La descripción de la plataforma le parece clara, pero sugiere incluir más detalles para explicar mejor sus funciones y motivar a los usuarios a explorarla. Sobre la paleta de colores, aunque los tonos verde y blanco son agradables, propone agregar más contraste para resaltar botones y textos importantes. Fabrizio encuentra la navegación intuitiva y funcional, pero sugiere incluir una sección de blog o noticias y hacer los elementos más interactivos, como un subrayado al pasar el ratón. Considera que sería útil presentar un resumen de las características principales en la página de inicio para informar mejor a los usuarios antes de descargar la aplicación. Los botones de 'Login' y 'Register' están bien ubicados, pero sugiere destacar más el botón de registro para hacerlo más visible. La página transmite confianza, aunque Fabrizio cree que añadir testimonios o certificaciones de expertos ayudaría a reforzar la credibilidad.
 
+**Segmento Objetivo: Personas del rubro nutrición **
+
+**Nombres y Apellidos:** Irene Escudero Neyra
+
+**Edad:** 24 años
+
+**Lugar de Residencia:** San Borja
+
+**Ocupación:** Nutricionista
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202222846_upc_edu_pe/EWYE0pePJotBhGT0GWx_O4wBxRrCY06ePzYd1ROpWdtKZA?e=XwtbSm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Resumen de la Entrevista:** Irene considera que la barra lateral de Food-Facts es intuitiva y bien estructurada, aunque sugiere agregar descripciones emergentes para mejorar la comprensión de cada sección. Encuentra útil el cuadro de "Quick Search" y sugiere que incluya sugerencias rápidas al escribir. Valora la sección "Your Activity" para hacer seguimiento, y recomienda añadir un gráfico de actividad. La sección "Featured Reports" le parece atractiva, aunque sugiere mejorarla con imágenes o íconos relacionados con cada reporte. Los colores y contrastes le resultan agradables, pero enfatiza la importancia de un buen contraste en textos clave. Aunque los botones son fáciles de identificar, propone resaltar más el botón de "Read Report". La sección "Upcoming Nutrition Conference" le parece útil y prefiere recibir notificaciones de eventos. Muestra interés en ver íconos o imágenes de alimentos en los reportes para hacerlos más visuales. La navegación en la parte superior derecha le resulta funcional, pero sugiere agrupar o mejorar la visibilidad de los íconos. Finalmente, recomienda añadir opciones de personalización en los reportes según condiciones de salud o intereses específicos, como deficiencia de vitaminas, para mejorar la experiencia del usuario.
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 ## UX Heuristics & Principles Evaluation
