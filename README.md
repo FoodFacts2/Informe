@@ -3036,6 +3036,21 @@ Preguntas para la Entrevista:
 
 **Resumen de la Entrevista:** Fabrizio considera que la página de inicio de FoodFacts es visualmente atractiva y se relaciona bien con el tema de la nutrición, destacando la imagen de ingredientes frescos como un punto positivo. Sin embargo, menciona que el botón de 'Descargar', aunque visible, debería ser más llamativo para captar mejor la atención. La descripción de la plataforma le parece clara, pero sugiere incluir más detalles para explicar mejor sus funciones y motivar a los usuarios a explorarla. Sobre la paleta de colores, aunque los tonos verde y blanco son agradables, propone agregar más contraste para resaltar botones y textos importantes. Fabrizio encuentra la navegación intuitiva y funcional, pero sugiere incluir una sección de blog o noticias y hacer los elementos más interactivos, como un subrayado al pasar el ratón. Considera que sería útil presentar un resumen de las características principales en la página de inicio para informar mejor a los usuarios antes de descargar la aplicación. Los botones de 'Login' y 'Register' están bien ubicados, pero sugiere destacar más el botón de registro para hacerlo más visible. La página transmite confianza, aunque Fabrizio cree que añadir testimonios o certificaciones de expertos ayudaría a reforzar la credibilidad.
 
+**Segmento Objetivo: Personas interesadas en el contenido de los productos que consumen **
+
+**Nombres y Apellidos:** Fabrizio Morales
+
+**Edad:** 20 años
+
+**Lugar de Residencia:** Surco
+
+**Ocupación:** Estudiante
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213241_upc_edu_pe/EdVirIKdzF5KgksRPd_jU78BEP2--pO2HyThPQpjgtiD9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xcdggw
+
+**Resumen de la Entrevista:** Según Fabrizio, La página de inicio de FoodFacts destaca por su diseño visual relacionado con la nutrición, especialmente por sus imágenes de ingredientes frescos. Aunque la navegación es intuitiva y los colores verde y blanco son apropiados, se sugieren varias mejoras: hacer más llamativo el botón de descarga, agregar más contraste en elementos importantes, incluir más detalles sobre las funciones de la plataforma, incorporar una sección de blog y elementos interactivos, destacar mejor el botón de registro y añadir testimonios o certificaciones de expertos para aumentar la credibilidad del sitio.
+
+
 **Segmento Objetivo: Personas del rubro nutrición **
 
 **Nombres y Apellidos:** Irene Escudero Neyra
