@@ -262,7 +262,7 @@ Soy un estudiante que actualmente curso el 5to ciclo de la carrera de ingenierí
 __Ramos Calagua Sebastian Alexander - 202222846__
 
 <div style="text-align: center;">
-    <img src="https://i.postimg.cc/4NB27nzr/Sebastian-Ramos-foto-perfil.jpg" alt="SebasPerfil" style="width: 15%; height: auto;">
+    <img src="https://i.postimg.cc/vHksZbw6/Sebastian-Ramos-foto-perfil.jpg" alt="SebasPerfil" style="width: 15%; height: auto;">
 </div>
 Estudiante de la carrera de Ingeniería de Software. Me gusta todo lo relacionado a la tecnología y al desarrollo web. Espero ansioso poder aprender más del curso a medida que se desarrolle este proyecto.
 
