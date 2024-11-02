@@ -12,7 +12,7 @@
  
  <div style="text-align: center; font-family: 'Roboto', sans-serif;">
     <p>Ingeniería de Software</p>
-    <p>SI730 - Aplicaciones Web</p>
+    <p>SI729 - Aplicaciones Web</p>
     <p>Docente: Juan Carlos Tinoco Licas</p>
     <p>Startup: NutritionSolutions</p>
     <p>Producto: FoodFacts</p>
@@ -2809,25 +2809,199 @@ Acontinuacion  mostraremos la tabla:
   </tr>
 </table>
 
+### 5.2.2.3. Development Evidence for Sprint Review.
 
 
-### 5.2.3.3. Development Evidence for Sprint Review.
-
-
-
-### 5.2.3.4. Testing Suite Evidence for Sprint Review.
-
-
-### 5.2.3.5. Execution Evidence for Sprint Review.
-
-### 5.2.3.6. Services Documentation Evidence for Sprint Review.
-
-
-### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+Para este entrega  hemos realizado en entre los  repositorios Informe y front end hemos Hecho 40 commits varios de ellos sobre el informe, frontend y correcciones aca dejo los mas importante:
 
 
 
-### 5.2.3.8. Team Collaboration Insights during Sprint.
+| Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
+| -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
+| Food-Facts/Informe   | main   | id1       | fix:                             | imge url                                     | 6/09/2024        |
+| Food-Facts/Informe   | main   | id2       | docs(Informe):                   | Added Product Backlog                        | 6/09/2024        |
+| Food-Facts/Informe   | main   | id3       | docs(informe):                   | Update Startup description                   | 5/09/2024        |
+| Food-Facts/Informe   | main   | id4       | fix:                             | update sprint planning 1                     | 5/09/2024        |
+| Food-Facts/Informe   | main   | id5       | docs(informe):                   | Add software deployment configuration        | 5/09/2024        |
+| Food-Facts/Informe   | main   | id6       | docs(Informe):                   | added mocks and wireframes Web               | 4/09/2024        |
+| Food-Facts/Informe   | main   | id7       | docs(informe):                   | Update General Style Guidelines              | 5/09/2024        |
+| Food-Facts/Landing Page  | main   | id8       | landing page design:             | improvement                                  | 5/09/2024        |
+| Food-Facts/Landing Page | main   | id9       | add:                             | somos.html & somos.css                       | 4/09/2024        |
+| Food-Facts/Landing Page   | main   | id10      | update:                          | preguntas.html                               | 4/09/2024        |
+| Food-Facts/Landing Page   | main   | id11      | update:                          | preguntas.css                                | 3/09/2024        |
+|Food-Facts/Landing Page  | main   | id12      | update:                          | index.html                                   | 2/09/2024        |
+| Food-Facts/Informe   | main   | id13      | docs(Informe):                   | Add Melina's name                            | 4/09/2024        |
+| Food-Facts/Informe   | main   | id14      | docs(informe):                   | Add sprint planning 1                        | 3/09/2024        |
+| Food-Facts/Informe   | main   | id15      | docs(Informe):                   | Add Wireframes                               | 3/09/2024        |
+| Food-Facts/Informe   | main   | id16      | docs(informe):                   | Added user flow and wireframes diagram       | 2/09/2024        |
+| Food-Facts/Informe   | main   | id17      | docs(informe):                   | Add software deployment configuration        | 2/09/2024        |
+| Food-Facts/Informe   | main   | id18      | fix:                             | corrected error in an image                  | 1/09/2024        |
+| Food-Facts/Informe   | main   | id19      | docs(Informe):                   | Product backlog corrected                    | 1/09/2024        |
+| Food-Facts/Informe   | main   | id20      | docs(Informe):                   | Added interviews and missing points          | 1/09/2024        |
+| Food-Facts/Informe   | main   | id21      | docs(Informe):                   | I made continuous improvement to the report  | 1/09/2024        |
+
+Para ver todos los commits con mas detalle revisar el repositorio
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+En esta seccion implementamos el funcionamiento del obejtivo principal que seria la landing Page Atravez del testing en este caso no tenemos conomiento tecnico si no coceptual y usaremos los criterios de aceptacion
+
+| Repository | Branch   | Commit Id | Commit Message | Commit Message Body | Commited on Date |
+|------------|----------|-----------|-----------------|----------------------|-------------------|
+| testing    | feature  | 018       | Added           | Visualizar información nutricional detallada: Como usuario, quiero visualizar la información nutricional detallada de los productos para entender mejor sus beneficios y limitaciones. | 29/10/2024 |
+| testing    | feature  | 021       | Added           | Personalización de alertas de salud: Como usuario, quiero personalizar las alertas de salud para recibir notificaciones relevantes a mis necesidades y preferencias. | 29/10/2024 |
+| testing    | feature  | 017       | Added           | Comparar productos similares: Como usuario, quiero comparar productos similares para elegir el más adecuado para mí en términos de valor nutricional y otros criterios. | 29/10/2024 |
+| testing    | feature  | 016       | Added           | Ver alertas de productos no saludables: Como usuario, quiero recibir alertas sobre productos no saludables para tomar decisiones informadas sobre mi alimentación. | 29/10/2024  |
+| testing    | feature  | 019       | Added           | Identificación de aditivos artificiales: Como usuario, quiero identificar aditivos artificiales en los productos para evitar aquellos que no sean compatibles con mis preferencias alimenticias. | 29/10/2024  |
+| testing    | feature  | 020       | Added           | Consulta de información sobre seguridad alimentaria: Como usuario, quiero consultar información sobre la seguridad alimentaria de los productos para garantizar su calidad y seguridad. | 29/10/2024  |
+
+
+
+```feature
+
+Feature: Visualizar información nutricional
+Scenario: Mostrar detalles nutricionales de un producto
+Given soy un usuario autenticado
+When selecciono un producto de la lista
+Then debería poder ver la información nutricional completa
+And debería visualizar detalles como calorías, grasas, proteínas, y vitaminas.
+
+
+Feature: Configuración de alertas de salud
+Scenario: Modificar preferencias de alertas
+Given soy un usuario autenticado
+When accedo a la configuración de alertas de salud
+Then debería poder activar o desactivar alertas personalizadas
+And los cambios deberían reflejarse en mis notificaciones.
+
+
+Feature: Comparar productos
+Scenario: Comparación de productos seleccionados
+Given soy un usuario interesado en comparar productos
+When selecciono dos o más productos de la lista
+Then debería ver una tabla comparativa de sus características nutricionales
+And debería poder identificar las diferencias en los valores nutricionales.
+
+
+Feature: Alerta de productos no saludables
+Scenario: Recibir alerta de producto no saludable
+Given soy un usuario que navega por productos
+When accedo a un producto considerado no saludable
+Then debería recibir una alerta visual indicando el riesgo
+And debería ver detalles sobre los componentes que lo hacen no saludable.
+
+
+Feature: Identificar aditivos
+Scenario: Mostrar aditivos artificiales en productos
+Given soy un usuario autenticado que revisa un producto
+When veo los detalles de un producto
+Then debería poder ver una lista de aditivos artificiales presentes
+And debería obtener información sobre el posible impacto en la salud de estos aditivos.
+
+
+Feature: Seguridad alimentaria
+Scenario: Consultar información de seguridad
+Given soy un usuario interesado en la seguridad alimentaria
+When accedo a la sección de información de seguridad
+Then debería poder ver datos sobre alertas sanitarias, riesgos, y recomendaciones
+And debería recibir actualizaciones si algún producto es retirado del mercado.
+
+```
+
+### 5.2.2.5. Execution Evidence for Sprint Review.
+
+Para esta entrega, la aplicación web se encuentran en lanzamiento y de acceso abierto para todos los usuarios:
+1.Home
+<div style="text-align: center;">
+    <img src="" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+Sprint: Sprint 3 Fecha: 29/10/2024 FoodFacts
+
+1. Resumen
+El objetivo de este sprint fue implementar funcionalidades clave relacionadas con la experiencia del usuario, enfocadas en proporcionar información nutricional detallada, personalización de alertas de salud, comparación de productos, y funcionalidades de seguridad alimentaria. Se buscó mejorar la interacción del usuario y ofrecer herramientas para una experiencia más informada y personalizada.
+
+2. Trabajo Realizado
+
+2.1 Visualización de Información Nutricional Detallada
+Story US-001: Desarrollamos la funcionalidad para que los usuarios puedan visualizar información nutricional completa de los productos, incluyendo detalles como calorías, grasas, proteínas y vitaminas.
+Scenario: Mostrar detalles nutricionales de un producto
+Given soy un usuario autenticado
+When selecciono un producto de la lista
+Then debería poder ver la información nutricional completa
+And debería visualizar detalles como calorías, grasas, proteínas, y vitaminas.
+
+2.2 Personalización de Alertas de Salud
+Story US-003: Implementamos la opción para que los usuarios personalicen sus alertas de salud, permitiéndoles activar o desactivar notificaciones basadas en sus preferencias.
+Scenario: Modificar preferencias de alertas
+Given soy un usuario autenticado
+When accedo a la configuración de alertas de salud
+Then debería poder activar o desactivar alertas personalizadas
+And los cambios deberían reflejarse en mis notificaciones.
+
+2.3 Comparar Productos Similares
+Story US-004: Creamos la funcionalidad que permite a los usuarios comparar productos similares en una tabla comparativa, destacando sus características nutricionales y diferencias clave.
+Scenario: Comparación de productos seleccionados
+Given soy un usuario interesado en comparar productos
+When selecciono dos o más productos de la lista
+Then debería ver una tabla comparativa de sus características nutricionales
+And debería poder identificar las diferencias en los valores nutricionales.
+
+2.4 Ver Alertas de Productos No Saludables
+Story US-014: Implementamos un sistema de alertas que avisa a los usuarios cuando están viendo productos considerados no saludables, junto con detalles de los componentes de riesgo.
+Scenario: Recibir alerta de producto no saludable
+Given soy un usuario que navega por productos
+When accedo a un producto considerado no saludable
+Then debería recibir una alerta visual indicando el riesgo
+And debería ver detalles sobre los componentes que lo hacen no saludable.
+
+2.5 Identificación de Aditivos Artificiales
+Story US-015: Desarrollamos una funcionalidad que muestra a los usuarios los aditivos artificiales presentes en los productos, junto con información sobre sus posibles impactos en la salud.
+Scenario: Mostrar aditivos artificiales en productos
+Given soy un usuario autenticado que revisa un producto
+When veo los detalles de un producto
+Then debería poder ver una lista de aditivos artificiales presentes
+And debería obtener información sobre el posible impacto en la salud de estos aditivos.
+
+2.6 Consulta de Información sobre Seguridad Alimentaria
+Story US-025: Implementamos una sección donde los usuarios pueden consultar información sobre seguridad alimentaria, incluyendo alertas sanitarias y recomendaciones.
+Scenario: Consultar información de seguridad
+Given soy un usuario interesado en la seguridad alimentaria
+When accedo a la sección de información de seguridad
+Then debería poder ver datos sobre alertas sanitarias, riesgos, y recomendaciones
+And debería recibir actualizaciones si algún producto es retirado del mercado.
+
+3. Hallazgos y Desafíos
+
+* Integración de sistemas: La implementación de la visualización de información detallada y las alertas de salud requirió una integración cuidadosa con los sistemas de datos existentes.
+* Rendimiento: Las funcionalidades de comparación de productos y visualización de aditivos exigieron optimización para mantener la rapidez de la aplicación.
+* Diseño de UX: Diseñar una interfaz intuitiva para la consulta de información de seguridad alimentaria y el manejo de alertas personalizadas llevó varias iteraciones.
+4. Próximos Pasos
+
+* Realizar pruebas de usabilidad para las nuevas funcionalidades implementadas.
+* Optimizar el rendimiento de las consultas de información nutricional y alertas de productos no saludables.
+* Recoger feedback de los usuarios para mejorar la personalización de alertas y la visualización de detalles nutricionales.
+* Añadir nuevas categorías de aditivos y sus impactos en la salud basadas en la retroalimentación de expertos en nutrición.
+
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para el segundo sprint, optamos por utilizar la plataforma Firebase para desplegar el frontend. En primer lugar, instalamos Firebase Tools y luego procedimos a iniciar sesión con Firebase login. Posteriormente, ejecutamos el comando "npm firebase init" en la terminal y seleccionamos el servicio de hosting. Una vez seleccionado, configuramos los parámetros necesarios, como el directorio de compilación, las rutas y el proyecto asociado. Finalmente, empleamos el comando "firebase deploy --only hosting" para implementar nuestra aplicación exclusivamente para el servicio de hosting.
+
+<div style="text-align: center;">
+   <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/appwb.jpg?alt=media&token=bdac552d-4a3f-421b-a02f-68b31d230dbf" alt="W5" style="width: auto; height: auto;">
+</div>
+ link:https://foodfacts-7ee9f.web.app/ 
+
+### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+En este Aparto veremos colaboracion real entre todos los integrantes de FooDFacts en la implementacion de la aplicacion
+<div style="text-align: center;">
+   <img src="">
+</div>
 
 ## 5.3. Validation Interviews.
 
@@ -2884,15 +3058,15 @@ Preguntas para la Entrevista:
 **CARRERA**: Ingeniería de Software  
 **CURSO**: Aplicaciones Web  
 **SECCIÓN**: SI729 
-**PROFESORES**: Todos  
+**PROFESORES**: Juan Carlos Tinoco Licas  
 **AUDITOR**: Quispe Roldan Michael Fred 
 **CLIENTE(S)**:  Allcca Guerrero, Irving Washington <br> Dextre Miguel, Kevin Cosner<br> Ramos Calagua, Sebastian Alexander<br> Sanchez Montero, Carlos
 
 
 ---
 
-## Site o app a evaluar:
-**Nombre de App**
+## Site o app a evaluar: Food Facts
+**Nombre de App** Food Facts
 
 ## Tareas avaluar:
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
