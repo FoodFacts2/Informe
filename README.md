@@ -2910,10 +2910,10 @@ And debería recibir actualizaciones si algún producto es retirado del mercado.
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 
-Para esta entrega, la aplicación web se encuentran en lanzamiento y de acceso abierto para todos los usuarios:
-1.Home
+Para esta entrega, el backend se visualiza 
+
 <div style="text-align: center;">
-    <img src="" alt="W5" style="width: auto; height: auto;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FBackend.png?alt=media&token=a6fbeab3-0950-4b66-b6af-75531e57f4f0" alt="W5" style="width: auto; height: auto;">
 </div>
 
 
@@ -3000,7 +3000,7 @@ Para el segundo sprint, optamos por utilizar la plataforma Firebase para despleg
 
 En este Aparto veremos colaboracion real entre todos los integrantes de FooDFacts en la implementacion de la aplicacion
 <div style="text-align: center;">
-   <img src="">
+   <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCommits.png?alt=media&token=9f93ae23-fddc-4a30-be0f-db48a62a6194">
 </div>
 
 ## 5.3. Validation Interviews.
@@ -3228,4 +3228,4 @@ link del la landing desplegada: https://food-facts.github.io/LandingPage/
 
 link de la aplicación web: https://foodfacts-7ee9f.web.app/
 
-link del video de Exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EW00cSs0EdFGgjLdVYGSUPMB0TIGNhQ2Aq6LecZ3YPlGYA?e=1gppIC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+link del video de Exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EeXJJoiwoJ9OoMFefJEfKEUBs_uYEmlfqjViHVWa0AtTng?e=JJY9kJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
