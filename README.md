@@ -12,7 +12,7 @@
  
  <div style="text-align: center; font-family: 'Roboto', sans-serif;">
     <p>Ingeniería de Software</p>
-    <p>SI729 - Aplicaciones Web</p>
+    <p>SI730 - Aplicaciones Web</p>
     <p>Docente: Juan Carlos Tinoco Licas</p>
     <p>Startup: NutritionSolutions</p>
     <p>Producto: FoodFacts</p>
@@ -3086,7 +3086,7 @@ Preguntas para la Entrevista:
 
 **CARRERA**: Ingeniería de Software  
 **CURSO**: Aplicaciones Web  
-**SECCIÓN**: SI729 
+**SECCIÓN**: SI730 
 **PROFESORES**: Juan Carlos Tinoco Licas  
 **AUDITOR**: Quispe Roldan Michael Fred 
 **CLIENTE(S)**:  Allcca Guerrero, Irving Washington <br> Dextre Miguel, Kevin Cosner<br> Ramos Calagua, Sebastian Alexander<br> Sanchez Montero, Carlos
