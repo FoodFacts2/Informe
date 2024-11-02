@@ -3024,6 +3024,20 @@ Preguntas para la Entrevista:
 ### 5.3.2. Registro de Entrevistas.
 **Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
 
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Nombres y Apellidos:** Danae Pacheco Santa Cruz
+
+**Edad:** 21 años
+
+**Lugar de Residencia:** La Molina
+
+**Ocupación:** Estudiante de Nutricion
+
+**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/ERVj_RPRA3VKvTp-4y7i7hEBV-mf_wIwOAFZQmKys61kTA?e=nf6ajs
+
+**Resumen de la Entrevista:** Danae indica que las pestañas en la parte superior de las paginas son muy intuitivas lo cual le ayuda a la hora de navegar entre las diferentes páginas, además nos indica que no está del todo satisfecha con la elección de los colores. Ella menciona que le parecería mucho mejor si hubieran una especie de gráficos o imagenes con alimentos para tener una interfaz más llamativa.  
+
 **Nombres y Apellidos:** Fabrizio Sanchez Zamora
 
 **Edad:** 21 años
