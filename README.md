@@ -224,7 +224,7 @@
 
 ### 1.1.1. Descripción de la Startup
 
-Nombre de la startup: FoodFacts
+Nombre de la startup: NutritionSolutions
 
 Nuesta Startup proporciona un análisis detallado de la composición nutricional de alimentos procesados y producidos industrialmente. El sistema recopila y procesa datos de etiquetas de productos, bases de datos nutricionales y estudios científicos para ofrecer:
 
@@ -324,6 +324,8 @@ Hemos detectados un factor critico que podria afectar la experiencia del usuario
 
 ## 1.3. Segmentos objetivo.
 Nuestra startup esta dirigida a aquellas personas que quieren estar mejor informados al comprar productos procesados, es asi que mediante Food-Facts pueden estar mas informados y tambien podran cuidar su salud.
+
+
 **Descripción:** Esta seccion esta compuesta por personas que priorizan una alimentación saludable y buscan activamente información sobre los productos que consumen. Estos consumidores están preocupados por la calidad de los alimentos procesados y desean comprender mejor las etiquetas nutricionales para tomar decisiones informadas.
 
 **Características Demográficas:**
@@ -369,14 +371,11 @@ Debilidades: Su análisis puede ser visto como simplista y no ofrece reportes pe
     <td colspan="4">Identificar oportunidades y amenazas en el mercado, entender las fortalezas y debilidades de los competidores, y definir estrategias para diferenciar a Food-Facts en un mercado competitivo.</td>
   </tr>
   <tr>
-    <td colspan="5"></td>
-  </tr>
-  <tr>
-    <th>(En la cabecera colocar por cada competidor nombre y logo)</th>
+    <th>Nombre</th>
     <th>Food-Facts</th>
-    <th>Competidor 1 MyFitnessPal</th>
-    <th>Competidor 2 Yuka</th>
-    <th>Competidor 3 Fooducate</th>
+    <th>Competidor 1: MyFitnessPal</th>
+    <th>Competidor 2: Yuka</th>
+    <th>Competidor 3: Fooducate</th>
   </tr>
   <tr>
     <th colspan="5" style="text-align: center;"><strong>Perfil</strong></th>
@@ -600,11 +599,6 @@ Preguntas para la Entrevista:
 
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/ETTUvipnlFZDoMk8XMYb5sgBNreoT5Z4CgYKXRQXVR_Bkw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TfoHSV
 
-**Resumen de la Entrevista:** Se entrevistó a Alessandra Yap, una estudiante de Nutricion de la Universidad San Ignacio de Loyola, ella nos cuenta que consume alimentos procesados con una frecuencia de 2 a 3 veces por semana, además indica que le preocupa bastante el impacto de estos alimentos procesados en su salud, tambien señala que es muy importante limitar su consumo. 
-
-Ella comenta que a menudo revisa las etiquetas nutricionales de los productos que consume. Para ella le sería de bastante utilidad el tener a la mano una aplicación que le permita saber los riesgos de estos alimentos procesados. 
-
-Nos indica que le gustaría que nuestra aplicación le avisara si algún alimento es muy dañino para su salud, además de recomiendaciones de comida que a ella le guste. Por último a ella estaría dispuesta a pagar entre 5 a 10 dólares al mes.
 
 **Entrevista 2:**
 
@@ -620,14 +614,6 @@ Nos indica que le gustaría que nuestra aplicación le avisara si algún aliment
 
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EY0Xs8C25udHjgea40pbQR4Buosc8QwdGLCHeIE35ogJEg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=efSNC1
 
-**Resumen de la Entrevista:** Se entrevistó a Danae Pacheco, una estudiante de Medicina que siempre ha tenido interés en los alimentos que ella consume, además va al gimnasio desde hace dos años lo que hace que se vuelva casi una prioridad las sustancias que contienen dichos alimentos.
-
-Ella nos cuenta que últimamente ha tratado de reducir su consumo de alimentos procesados; sin embargo ella consume dichos alimentos varias veces a la semana, por lo que si le preocupa bastante el impacto que pueden llegar a tener estos alimentos en su salud.
-
-Danae comenta que siempre revisa las etiquetas de los productos que ella compra, centrándose principalmente en si estos tienen algun tipo de aditivos, las calorías y sobretodo la cantidad de proteina, por lo que ella piensa que el recibir reportes personalizados sobre su dieta le ayudaría a mejorar su salud.
-
-Ella opina que deberíamos considerar incluir recomendaciones de comida en base a los gustos de cada persona, además de la cantidad de calorías que tienen estas comidas. Por último nos indica que ella estaría dispuesta a pagar 5 soles mensuales por nuestra aplicación.
-
 **Entrevista 3:**
 
 **Nombres y Apellidos:** Jennifer Quispe Roldan
@@ -636,13 +622,10 @@ Ella opina que deberíamos considerar incluir recomendaciones de comida en base 
 
 **Lugar de Residencia:** Surco
 
-**Ocupación:** Estudiante de ingwnieria ambiental
+**Ocupación:** Estudiante de Ingenieria Ambiental
 
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EaME9ht66e9IkB9ADvm6ZFABMuihNvmulPWkdYo0Po7U_w?e=fnkBxW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**Resumen de la Entrevista:** Jennifer trata de evitar los alimentos procesados, pero los consume ocasionalmente por falta de tiempo o alternativas más saludables. Está preocupada por los efectos de estos productos en su salud a largo plazo debido a los ingredientes dañinos que suelen contener. Aunque no tiene una condición médica específica, se esfuerza por mantener una dieta equilibrada. Revisa siempre las etiquetas nutricionales de los productos, prestando especial atención a azúcares, grasas y sodio, además de evitar aditivos innecesarios.
-
-Le gustaría que al registrar un producto alimenticio, se proporcionara un desglose claro de los nutrientes e ingredientes, además de alertas sobre aditivos dañinos. Encuentra útil que una aplicación le advierta sobre riesgos de salud relacionados con ciertos alimentos y cree que reportes personalizados sobre su dieta la ayudarían a mejorar su salud. Le gustaría que una aplicación como Food-Facts ofreciera recomendaciones basadas en sus preferencias y necesidades, y la capacidad de escanear productos en tiendas para obtener información rápidamente. Está dispuesta a pagar entre $5 y $10 mensuales si la aplicación es de valor. Considera que esta herramienta sería útil para tomar decisiones más saludables en su vida diaria.
 
 **Segmento Objetivo: Personas con problemas alimenticios**
 
@@ -654,7 +637,7 @@ Le gustaría que al registrar un producto alimenticio, se proporcionara un desgl
 
 **Lugar de Residencia:** Chorrillos
 
-**Ocupación:** Estudiante de ingenieria de software
+**Ocupación:** Estudiante de Ingeniería de Software
 
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EToONiw4RfdOlQFT358iV1QBlRVFleQk-XJ-0Ue570GPbw?e=dfE1NJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -674,8 +657,6 @@ Prefiere recibir información clara sobre los alimentos sin sentirse juzgada, y 
 
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c027_upc_edu_pe/Ef5Tyw2tbv1Pvq7ZEhr9JhoBEK4VwlPVpc-4Fm4WOXrQCw?e=f7gdg7 
 
-**Resumen de la Entrevista:** En la entrevista realizada, Elvis nos comenta que consume con poca frecuencia alimentos procesados. Sin embargo, considera que es muy importante cuidar nuestra salud; por ello le parece interesante que una aplicación web pueda brindar información nutricional sobre los productos y también alertar los posibles riesgos que conlleva al consumir de forma seguida. Por otra parte menciona que serìa importante que la aplicación web recomiende los productos que deben ser consumidos de forma natural en lugar de los procesados.
-
 
 **Entrevista 6:**
 
@@ -685,17 +666,12 @@ Prefiere recibir información clara sobre los alimentos sin sentirse juzgada, y 
 
 **Lugar de Residencia:** Santiago de Surco
 
-**Ocupación:** Estudiante 
+**Ocupación:** Estudiante de Ingeniería de Software
 
 <img src="assets/Entrevista Mateo Vilchez.png">
 
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/EUK2b-nQPbJAouKLJ9AxW9cBjwXX5H2wDG_tIvJHQSBqTA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4Ewm0Y
 
-**Resumen de la Entrevista:** Mateo empieca comentándonos que el raramente consume alimentos procesados dado que estos suponen un exceso calórico, lo cual lo perjudica en su etapa de déficit calórico, además el nos dice que si suele revisar las etiquetas de los alimentos que consume, sobretodo el apartado de macronutrientes.
-
-Mateo nos comenta que a el le gustaría visualizar los macronutrientes y los micronutrientes al momento de registrar los productos alimenticios que el consume. El nos dice que le sería de bastante ayuda tener un reporte personalizado de su dieta 
-
-Mateo nos dice que a el le gustaría que FoodFacts tuviera una lista con los alimentos más económicos y con mejores macronutrientes en su ciudad. Lamentablemente nos dice que el no estaría dispuesto a pagar por una aplicación como FoodFacts. Por último el opina que en una escala del 1 al 10, FoodFacts es un 7 de importancia en cuanto a ayudar a las personas en el tema de la salud
 
 **Entrevista 7:**
 
@@ -711,11 +687,6 @@ Mateo nos dice que a el le gustaría que FoodFacts tuviera una lista con los ali
 
 **URL:** https://upcedupe-my.sharepoint.com/personal/u202213241_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202213241%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo3768844864%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb6ebff82%2D337a%2D4582%2D8e6a%2D536362b82575
 
-**Resumen de la Entrevista:** En la entrevista realizada, Fabrizio comenta que generalmente consume productos procesados, puesto que generalmente anda anda muy ajustado con su horario.
-
-Fabricio recurre a este tipo de comidas como para saciar su hambre. Por lo tanto, asegura que le sería de mucha ayuda el tener una aplicación así.
-
-Tambien menciona que padece de diabetes y que le seria muy util una app que le muestre la información de una manera sencilla en la que se le facilite entender y conocer que tipo y cual es el riesgo de los alimentos que este consume.
 
 **Entrevista 8:**
 
@@ -731,38 +702,81 @@ Tambien menciona que padece de diabetes y que le seria muy util una app que le m
 
 **URL:** https://upcedupe-my.sharepoint.com/personal/u202222846_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202222846%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%204%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E91278b45%2D6054%2D478b%2D94e8%2Db57a99a22584 
 
-**Resumen de la Entrevista:** Esther intenta evitar los alimentos procesados, aunque los consume ocasionalmente cuando no dispone de tiempo para preparar comidas frescas. Está preocupado por el impacto de estos productos en su salud debido a los altos niveles de azúcares, sodio y aditivos que contienen. A pesar de no tener una condición médica grave, su historial familiar de diabetes y colesterol alto lo hace más cuidadoso con su dieta.
-
-Revisa regularmente las etiquetas nutricionales, prestando atención a las calorías, grasas, azúcares añadidos, sodio y la lista de ingredientes, evitando aquellos con conservantes o aditivos innecesarios. Al registrar un producto alimenticio, le gustaría recibir un desglose claro de ingredientes y una evaluación del impacto en la salud.
-
-Considera muy útil recibir alertas sobre riesgos de salud asociados con ciertos alimentos y cree que los reportes personalizados de su dieta serían una gran herramienta para mejorar su bienestar. Le gustaría que una aplicación como Food-Facts incluyera recomendaciones personalizadas, alternativas saludables y recetas. Estaría dispuesto a pagar entre 10 y 15 dólares al mes por una aplicación que ofrezca un análisis detallado y personalizado de los alimentos. La aplicación sería muy útil en su vida diaria para tomar decisiones alimenticias más saludables.
 
 ### 2.2.3. Análisis de entrevistas.
 
+**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+
+**Entrevista 1:** 
+
+**Analisis de la Entrevista:** Se entrevistó a Alessandra Yap, una estudiante de Nutricion de la Universidad San Ignacio de Loyola, ella nos cuenta que consume alimentos procesados con una frecuencia de 2 a 3 veces por semana, además indica que le preocupa bastante el impacto de estos alimentos procesados en su salud, tambien señala que es muy importante limitar su consumo. 
+
+Ella comenta que a menudo revisa las etiquetas nutricionales de los productos que consume. Para ella le sería de bastante utilidad el tener a la mano una aplicación que le permita saber los riesgos de estos alimentos procesados. 
+
+Nos indica que le gustaría que nuestra aplicación le avisara si algún alimento es muy dañino para su salud, además de recomiendaciones de comida que a ella le guste. Por último a ella estaría dispuesta a pagar entre 5 a 10 dólares al mes.
+
+**Entrevista 2:** 
+
+**Analisis de la Entrevista:** Se entrevistó a Danae Pacheco, una estudiante de Medicina que siempre ha tenido interés en los alimentos que ella consume, además va al gimnasio desde hace dos años lo que hace que se vuelva casi una prioridad las sustancias que contienen dichos alimentos.
+
+Ella nos cuenta que últimamente ha tratado de reducir su consumo de alimentos procesados; sin embargo ella consume dichos alimentos varias veces a la semana, por lo que si le preocupa bastante el impacto que pueden llegar a tener estos alimentos en su salud.
+
+Danae comenta que siempre revisa las etiquetas de los productos que ella compra, centrándose principalmente en si estos tienen algun tipo de aditivos, las calorías y sobretodo la cantidad de proteina, por lo que ella piensa que el recibir reportes personalizados sobre su dieta le ayudaría a mejorar su salud.
+
+Ella opina que deberíamos considerar incluir recomendaciones de comida en base a los gustos de cada persona, además de la cantidad de calorías que tienen estas comidas. Por último nos indica que ella estaría dispuesta a pagar 5 soles mensuales por nuestra aplicación.
+
+**Entrevista 3:** 
+
+**Analisis de la Entrevista:** Jennifer trata de evitar los alimentos procesados, pero los consume ocasionalmente por falta de tiempo o alternativas más saludables. Está preocupada por los efectos de estos productos en su salud a largo plazo debido a los ingredientes dañinos que suelen contener. Aunque no tiene una condición médica específica, se esfuerza por mantener una dieta equilibrada. Revisa siempre las etiquetas nutricionales de los productos, prestando especial atención a azúcares, grasas y sodio, además de evitar aditivos innecesarios.
+
+Le gustaría que al registrar un producto alimenticio, se proporcionara un desglose claro de los nutrientes e ingredientes, además de alertas sobre aditivos dañinos. Encuentra útil que una aplicación le advierta sobre riesgos de salud relacionados con ciertos alimentos y cree que reportes personalizados sobre su dieta la ayudarían a mejorar su salud. Le gustaría que una aplicación como Food-Facts ofreciera recomendaciones basadas en sus preferencias y necesidades, y la capacidad de escanear productos en tiendas para obtener información rápidamente. Está dispuesta a pagar entre $5 y $10 mensuales si la aplicación es de valor. Considera que esta herramienta sería útil para tomar decisiones más saludables en su vida diaria.
+
 **Segmento Objetivo: Personas con problemas alimenticios**
 
-**Entrevista 1:**
+**Entrevista 4:**
 
 **Analisis de la Entrevista:** Fabrizio tiene una relación compleja con la comida, marcada por la ansiedad y la culpa, lo que afecta tanto sus hábitos alimenticios como su bienestar emocional. Aunque es consciente de los riesgos de los alimentos procesados y se preocupa por su salud, la dificultad para mantener una dieta equilibrada la lleva a recurrir a estos productos. La fluctuación entre obsesionarse con las etiquetas y evitarlas refleja una lucha interna por controlar su alimentación sin aumentar su ansiedad.
 
 El enfoque de esta persona hacia una aplicación como Food-Facts refleja la necesidad de una herramienta que le brinde apoyo emocional y funcional. No solo requiere información nutricional clara, sino también un enfoque que no la haga sentir juzgada o que aumente su ansiedad. La inclusión de herramientas para gestionar el estrés y la relación emocional con la comida sería clave para que esta aplicación sea útil para ella. Si Food-Facts puede ofrecer un enfoque de bienestar integral, que equilibre lo emocional y lo físico, podría tener un impacto positivo en personas con dificultades similares.
 
-**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
+**Entrevista 5:** 
+
+**Analisis de la Entrevista:** En la entrevista realizada, Elvis nos comenta que consume con poca frecuencia alimentos procesados. Sin embargo, considera que es muy importante cuidar nuestra salud; por ello le parece interesante que una aplicación web pueda brindar información nutricional sobre los productos y también alertar los posibles riesgos que conlleva al consumir de forma seguida. Por otra parte menciona que serìa importante que la aplicación web recomiende los productos que deben ser consumidos de forma natural en lugar de los procesados.
+
+**Entrevista 6:** 
+
+**Analisis de la Entrevista:** Mateo empieca comentándonos que el raramente consume alimentos procesados dado que estos suponen un exceso calórico, lo cual lo perjudica en su etapa de déficit calórico, además el nos dice que si suele revisar las etiquetas de los alimentos que consume, sobretodo el apartado de macronutrientes.
+
+Mateo nos comenta que a el le gustaría visualizar los macronutrientes y los micronutrientes al momento de registrar los productos alimenticios que el consume. El nos dice que le sería de bastante ayuda tener un reporte personalizado de su dieta 
+
+Mateo nos dice que a el le gustaría que FoodFacts tuviera una lista con los alimentos más económicos y con mejores macronutrientes en su ciudad. Lamentablemente nos dice que el no estaría dispuesto a pagar por una aplicación como FoodFacts. Por último el opina que en una escala del 1 al 10, FoodFacts es un 7 de importancia en cuanto a ayudar a las personas en el tema de la salud
+
+**Entrevista 7:** 
+
+**Analisis de la Entrevista:** En la entrevista realizada, Fabrizio comenta que generalmente consume productos procesados, puesto que generalmente anda anda muy ajustado con su horario.
+
+Fabricio recurre a este tipo de comidas como para saciar su hambre. Por lo tanto, asegura que le sería de mucha ayuda el tener una aplicación así.
+
+Tambien menciona que padece de diabetes y que le seria muy util una app que le muestre la información de una manera sencilla en la que se le facilite entender y conocer que tipo y cual es el riesgo de los alimentos que este consume.
+
 
 **Entrevista 8:**
 
 **Analisis de la Entrevista:** Esther intenta evitar los alimentos procesados, aunque los consume ocasionalmente cuando no dispone de tiempo para preparar comidas frescas. Está preocupado por el impacto de estos productos en su salud debido a los altos niveles de azúcares, sodio y aditivos que contienen. A pesar de no tener una condición médica grave, su historial familiar de diabetes y colesterol alto lo hace más cuidadoso con su dieta.
 
-Considera muy útil recibir alertas sobre riesgos de salud asociados con ciertos alimentos y cree que los reportes personalizados de su dieta serían una gran herramienta para mejorar su bienestar. Le gustaría que una aplicación como Food-Facts incluyera recomendaciones personalizadas, alternativas saludables y recetas. La aplicación sería muy útil en su vida diaria para tomar decisiones alimenticias más saludables.
+Revisa regularmente las etiquetas nutricionales, prestando atención a las calorías, grasas, azúcares añadidos, sodio y la lista de ingredientes, evitando aquellos con conservantes o aditivos innecesarios. Al registrar un producto alimenticio, le gustaría recibir un desglose claro de ingredientes y una evaluación del impacto en la salud.
+
+Considera muy útil recibir alertas sobre riesgos de salud asociados con ciertos alimentos y cree que los reportes personalizados de su dieta serían una gran herramienta para mejorar su bienestar. Le gustaría que una aplicación como Food-Facts incluyera recomendaciones personalizadas, alternativas saludables y recetas. Estaría dispuesto a pagar entre 10 y 15 dólares al mes por una aplicación que ofrezca un análisis detallado y personalizado de los alimentos. La aplicación sería muy útil en su vida diaria para tomar decisiones alimenticias más saludables.
+
 
 ## 2.3. Needfinding.
 Desde la creación de Food-Facts, hemos llevado a cabo varias actividades clave para identificar las necesidades de nuestros usuarios:
 
-* Lluvia de Ideas: Comenzamos con una sesión donde propusimos y seleccionamos la idea central de Food-Facts: ofrecer un análisis nutricional profundo y personalizado de alimentos procesados.
-* Startup Profile: Desarrollamos el perfil de la startup, definiendo objetivos y características diferenciadoras para posicionarnos en el mercado.
-* Análisis de Problemática: Investigamos el impacto creciente de los alimentos ultraprocesados en la salud, usando fuentes como Euromonitor y Kantar.
-* 5W2H: Aplicamos esta técnica para entender mejor qué necesitan nuestros usuarios, por qué, y cómo Food-Facts puede satisfacer esas necesidades.
-* Entrevistas: Realizamos entrevistas a consumidores preocupados por la salud, lo que nos ayudó a refinar nuestro enfoque y diferenciarnos de los competidores.
+* **Lluvia de Ideas:** Comenzamos con una sesión donde propusimos y seleccionamos la idea central de Food-Facts: ofrecer un análisis nutricional profundo y personalizado de alimentos procesados.
+* **Startup Profile:** Desarrollamos el perfil de la startup, definiendo objetivos y características diferenciadoras para posicionarnos en el mercado.
+* **Análisis de Problemática:** Investigamos el impacto creciente de los alimentos ultraprocesados en la salud, usando fuentes como Euromonitor y Kantar.
+* **5W2H:** Aplicamos esta técnica para entender mejor qué necesitan nuestros usuarios, por qué, y cómo Food-Facts puede satisfacer esas necesidades.
+* **Entrevistas:** Realizamos entrevistas a consumidores preocupados por la salud, lo que nos ayudó a refinar nuestro enfoque y diferenciarnos de los competidores.
 
 Estas actividades nos permitieron identificar de manera efectiva las necesidades clave de nuestros usuarios y guiar el desarrollo de Food-Facts.
 
@@ -785,7 +799,7 @@ Las User Personas no solo nos ayudan a visualizar a nuestros usuarios, sino que 
 
 ### 2.3.2. User Task Matrix.
 **Persona 1: "María, la Mamá Preocupada por la Salud"**
-<table border="1" cellspacing="0" cellpadding="5">
+<table cellspacing="0" cellpadding="5">
   <tr>
     <th>Tareas</th>
     <th>Frecuencia</th>
@@ -833,8 +847,8 @@ Las User Personas no solo nos ayudan a visualizar a nuestros usuarios, sino que 
   </tr>
 </table>
 
-**Persona 2: "Jose luis, el Profesional Activo y Consciente"**
-<table border="1" cellspacing="0" cellpadding="5">
+**Persona 2: "Jose Luis, el Profesional Activo y Consciente"**
+<table cellspacing="0" cellpadding="5">
   <tr>
     <th>Tareas</th>
     <th>Frecuencia</th>
@@ -883,7 +897,7 @@ Las User Personas no solo nos ayudan a visualizar a nuestros usuarios, sino que 
 </table>
 
 **Persona 3: "Ana, la Estudiante Universitaria con Restricciones Alimenticias"**
-<table border="1" cellspacing="0" cellpadding="5">
+<table cellspacing="0" cellpadding="5">
   <tr>
     <th>Tareas</th>
     <th>Frecuencia</th>
@@ -956,7 +970,7 @@ Escenario en el que una persona va a comprar productos procesados sin usar Food-
 </div>
 
 ## 2.4. Ubiquitous Language.
-En la startup Food-Facts, es esencial establecer un lenguaje común y sin ambigüedades que facilite la comunicación entre todos los miembros del equipo, así como con los stakeholders. A continuación, se presenta un glosario de términos clave en inglés, junto con su equivalente en español y su definición en español.
+En la startup NutritionSolutions, es esencial establecer un lenguaje común y sin ambigüedades que facilite la comunicación entre todos los miembros del equipo, así como con los stakeholders. A continuación, se presenta un glosario de términos clave en inglés, junto con su equivalente en español y su definición en español.
 
 #### Glosario de Términos
 
@@ -1002,7 +1016,7 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 </div>
 
 ## 3.2. User Stories.
-<table border="1" cellspacing="0" cellpadding="5">
+<table cellspacing="0" cellpadding="5">
   <tr>
     <th colspan="5">User Stories</th>
   </tr>
@@ -1324,29 +1338,38 @@ Escenario en el que una persona va a comprar productos procesados usando Food-Fa
 
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
-Logo: El logo, con la combinación de una manzana y un corazón, y los tonos de verde, busca transmitir una identidad amigable y saludable. Es ideal para proyectos relacionados con la cocina, la nutrición y el bienestar, reflejando un compromiso con una alimentación saludable y consciente.
+
+**Logo:** El logo, con la combinación de una manzana y un corazón, y los tonos de verde, busca transmitir una identidad amigable y saludable. Es ideal para proyectos relacionados con la cocina, la nutrición y el bienestar, reflejando un compromiso con una alimentación saludable y consciente.
 
 <div style="text-align: center;">
     <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/logo.jpg?alt=media&token=76dc3d08-3d07-4cfc-9ff8-420ce58a8bf0" alt="Logo" style="width: 50%; height: auto;">
 </div>
 
-Typography: Para nuestra fuente haremos uso de dos tipografías, ambas en sus variantes de peso Regular, Medium, Semi Bold y Bold. Merriweather Sans, principalmente usado para los títulos, subtítulos y encabezados de artículos. Roboto, empleado para contenido como párrafos, texto informativo, etc. Elaboramos unas reglas para un estilo uniforme en los contenidos de la Landing Page y Aplicación Web. Cabe recalcar que el sistema varía con el principio de Responsive Design.
+
+**Typography:** Para nuestra fuente haremos uso de dos tipografías, ambas en sus variantes de peso Regular, Medium, Semi Bold y Bold. Merriweather Sans, principalmente usado para los títulos, subtítulos y encabezados de artículos. Roboto, empleado para contenido como párrafos, texto informativo, etc. Elaboramos unas reglas para un estilo uniforme en los contenidos de la Landing Page y Aplicación Web. Cabe recalcar que el sistema varía con el principio de Responsive Design.
 
 <div style="text-align: center;">
     <img src="http://imgfz.com/i/k3FNMJY.png" alt="Tipografia" style="width: 50%; height: auto;">
 </div>
 
-Spacings System: Para el sistema de espaciado se ha decidido que se usará una cantidad de medida múltiple de 4px para mantener una continuidad en todos los elementos y sus distancias entre ellos.
+
+**Spacings System:** Para el sistema de espaciado se ha decidido que se usará una cantidad de medida múltiple de 4px para mantener una continuidad en todos los elementos y sus distancias entre ellos.
 <div style="text-align: center;">
     <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/spacing.png?alt=media&token=ae7fd067-b7eb-4679-8e80-d8c5254be648" alt="Spacings" style="width: 50%; height: auto;">
 </div>
 
+
 ### 4.1.2. Web Style Guidelines.
 El enfoque principal del estilo para la aplicación web y la landing page se centra en:
-Diseño minimalista y colorido: La aplicación tendrá un enfoque minimalista para evitar abrumar al usuario con demasiada información o elementos en pantalla.
-Imágenes ilustrativas: Se utilizarán ilustraciones en lugar de fotografías, ya que estas se alinean mejor con el estilo minimalista y permiten una mayor personalización visual.
-Elementos de interacción intuitivos: Los elementos de la aplicación serán intuitivos para mejorar la experiencia del usuario, destacándose principalmente con los colores primarios y secundarios.
-Contraste de colores: Se prioriza un adecuado contraste entre los elementos para mejorar la claridad y legibilidad dentro de la aplicación.
+
+**Diseño minimalista y colorido:** La aplicación tendrá un enfoque minimalista para evitar abrumar al usuario con demasiada información o elementos en pantalla.
+
+**Imágenes ilustrativas:** Se utilizarán ilustraciones en lugar de fotografías, ya que estas se alinean mejor con el estilo minimalista y permiten una mayor personalización visual.
+
+**Elementos de interacción intuitivos:** Los elementos de la aplicación serán intuitivos para mejorar la experiencia del usuario, destacándose principalmente con los colores primarios y secundarios.
+
+**Contraste de colores:** Se prioriza un adecuado contraste entre los elementos para mejorar la claridad y legibilidad dentro de la aplicación.
+
 
 ## 4.2. Information Architecture.
 
@@ -1358,47 +1381,61 @@ La estructura de FoodFacts se presenta a través de un diagrama en árbol que de
 </div>
 
 ### 4.2.2. Labeling Systems.
-- Landing Page: Etiqueta para la página de inicio donde se presenta la aplicación y se ofrecen las opciones de iniciar sesión, registrarse o recuperar contraseña.
 
-- Login: Etiqueta para la función que permite a los usuarios autentificarse en la aplicación y acceder a sus funcionalidades.
+- **Landing Page:** Etiqueta para la página de inicio donde se presenta la aplicación y se ofrecen las opciones de iniciar sesión, registrarse o recuperar contraseña.
 
-- Home: Etiqueta para la página principal del usuario, que actúa como punto de partida para navegar por las diferentes secciones de la aplicación.
+- **Login:** Etiqueta para la función que permite a los usuarios autentificarse en la aplicación y acceder a sus funcionalidades.
 
-- Profile: Incluye etiquetas adicionales como:
+- **Home:** Etiqueta para la página principal del usuario, que actúa como punto de partida para navegar por las diferentes secciones de la aplicación.
 
-- Edit Profile: Para modificar la información personal del usuario.
+- **Profile:** Incluye etiquetas adicionales como:
 
-- Settings: Para configurar las preferencias del usuario.
+- **Edit Profile:** Para modificar la información personal del usuario.
 
-- Nutritionist Profile: Para la información específica del perfil de un nutricionista (si aplica).
+- **Settings:** Para configurar las preferencias del usuario.
 
-- User Data: Para visualizar los datos personales del usuario organizados por categorías (ej: país, ciudad, historial de búsqueda).
+- **Nutritionist Profile:** Para la información específica del perfil de un nutricionista (si aplica).
 
-- Nutritionist: Contiene etiquetas como: Patient Management: Para gestionar la información de los pacientes.
+- **User Data:** Para visualizar los datos personales del usuario organizados por categorías (ej: país, ciudad, historial de búsqueda).
 
-- Diet Plans: Para crear y administrar planes de alimentación personalizados.
+- **Nutritionist:** Contiene etiquetas como: Patient Management: Para gestionar la información de los pacientes.
 
-- Research Tools: Para acceder a herramientas de investigación y bases de datos nutricionales.
+- **Diet Plans:** Para crear y administrar planes de alimentación personalizados.
 
-- Educational Resources: Para acceder a materiales educativos y guías de nutrición.
-Products: Incluye etiquetas como:
+- **Research Tools:** Para acceder a herramientas de investigación y bases de datos nutricionales.
 
-- Food Database: Para buscar y consultar información sobre una amplia variedad de alimentos.
-- Nutrition Facts: Para visualizar los valores nutricionales de un producto específico.
-- Ingredients: Para ver la lista de ingredientes de un producto.
-- Allergens: Para identificar alérgenos presentes en un producto.
-- Settings: Incluye etiquetas como:
+- **Educational Resources:** Para acceder a materiales educativos y guías de nutrición.
 
-- General Settings: Para configurar las preferencias generales de la aplicación.
-- Notification Settings: Para personalizar las notificaciones.
-- Account Settings: Para gestionar la información de la cuenta del usuario.
-- Data Privacy: Para configurar las opciones de privacidad de los datos.
-- Sign Out: Etiqueta para cerrar la sesión del usuario.
+Products: 
+Incluye etiquetas como:
 
-- Search: Para la función de búsqueda de alimentos o nutrientes.
-- Favorites: Para guardar alimentos favoritos o búsquedas frecuentes.
-- Shopping List: Para crear listas de compras.
-- Community: Para interactuar con otros usuarios y compartir experiencias.
+- **Food Database:** Para buscar y consultar información sobre una amplia variedad de alimentos.
+
+- **Nutrition Facts:** Para visualizar los valores nutricionales de un producto específico.
+
+- **Ingredients:** Para ver la lista de ingredientes de un producto.
+
+- **Allergens:** Para identificar alérgenos presentes en un producto.
+
+- **Settings:** Incluye etiquetas como:
+
+- **General Settings:** Para configurar las preferencias generales de la aplicación.
+
+- **Notification Settings:** Para personalizar las notificaciones.
+
+- **Account Settings:** Para gestionar la información de la cuenta del usuario.
+
+- **Data Privacy:** Para configurar las opciones de privacidad de los datos.
+
+- **Sign Out:** Etiqueta para cerrar la sesión del usuario.
+
+- **Search:** Para la función de búsqueda de alimentos o nutrientes.
+
+- **Favorites:** Para guardar alimentos favoritos o búsquedas frecuentes.
+
+- **Shopping List:** Para crear listas de compras.
+
+- **Community:** Para interactuar con otros usuarios y compartir experiencias.
 
 ### 4.2.3. SEO Tags and Meta Tags
 Las etiquetas son representativas del contenido de nuestro proyecto, incluyendo tanto el Landing Page como el Sitio Web. Están diseñadas para potenciar la visibilidad de nuestro proyecto en los motores de búsqueda más importantes, lo que facilitará que los usuarios encuentren fácilmente nuestra plataforma de FoodFacts.
@@ -1740,8 +1777,8 @@ Antes de empezar con él còdigo es importante realizar el diseño del producto;
 
 ### Software Development:
 Se utilizò las siguientes herramientas para el desarrollo del proyecto:
-Para frontend se utilizò el framework de Javascript vue.
-Para implementar el backend C# con la plataforma .Net.
+Para frontend se utilizò el framework de JavaScript Vue.
+Para implementar el backend C# con la plataforma ASP.Net.
 
 
 ### 5.1.2. Source Code Management.
@@ -2019,8 +2056,8 @@ Acontinuacion  mostraremos la tabla:
 
 <table>
   <tr>
-    <th>Sprint 3</th>
-    <th colspan="7">Sprint 3</th>
+    <th>Sprint 1</th>
+    <th colspan="7">Sprint 1</th>
   </tr>
   <tr>
     <th colspan="2"> User Story</th>
@@ -2190,21 +2227,21 @@ Para ver todos los commits con mas detalle revisar el repositorio
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-En esta seccion implementamos el funcionamiento del obejtivo principal que seria la landing Page Atravez del testing en este caso no tenemos conomiento tecnico si no coceptual y usaremos los criterios de aceptacion
+En esta seccion implementamos el funcionamiento del obejtivo principal que seria la landing Page a través del testing en este caso no tenemos conomciento técnico si no conceptual y usaremos los criterios de aceptación
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on Date |
 | ---------- | ------ | ---------- | --------------- | -------------------- | ----------------- |
-|testing | feature | 1 | Added | feature's Diseño de Hero Section| 09/06/2024 |
-|testing|feature|2| Added | feature's Sección de Características Principales | 06/09/2024
-|testing|featuret|3| Added | feature's  Testimonios de Usuarios| 06/09/2024
-|testing|feature|4| Added | feature's Formulario de Contacto | 06/09/2024
-|testing|feature|5| Added | feature's Mostrar formulario de contacto | 06/09/2024
-|testing|feature|6| Added | feature's  Sección de Preguntas Frecuentes| 06/09/2024
-|testing|feature|7| Added | feature's Diseño Responsivo| 06/09/2024
-|testing|feature|8| Added | feature's Call-to-Action para Registro| 06/09/2024
-|testing|feature|9| Added | feature's Integración de Redes Sociales| 06/09/2024
-|testing|feature|9| Added | feature's Sección de Casos de Uso| 06/09/2024
-|testing|feature|9| Added | feature's Optimización de SEO en la landing page| 06/09/2024
+|testing | feature | id1 | Added | feature's Diseño de Hero Section| 06/09/2024 |
+|testing|feature|id2| Added | feature's Sección de Características Principales | 06/09/2024
+|testing|featuret|id3| Added | feature's  Testimonios de Usuarios| 06/09/2024
+|testing|feature|id4| Added | feature's Formulario de Contacto | 06/09/2024
+|testing|feature|id5| Added | feature's Mostrar formulario de contacto | 06/09/2024
+|testing|feature|id6| Added | feature's  Sección de Preguntas Frecuentes| 06/09/2024
+|testing|feature|id7| Added | feature's Diseño Responsivo| 06/09/2024
+|testing|feature|id8| Added | feature's Call-to-Action para Registro| 06/09/2024
+|testing|feature|id9| Added | feature's Integración de Redes Sociales| 06/09/2024
+|testing|feature|id9| Added | feature's Sección de Casos de Uso| 06/09/2024
+|testing|feature|id10| Added | feature's Optimización de SEO en la landing page| 06/09/2024
 
 ```feature
 Feature: Diseño de Hero Section
@@ -2333,6 +2370,7 @@ Fecha: 06/09/2024
 FooFacts
 
 1. Resumen
+
 El objetivo de este sprint fue diseñar e implementar secciones clave de la landing page, centrándonos en la interfaz de usuario (UI) y la experiencia de usuario (UX) para proporcionar una experiencia visual atractiva y fluida para los visitantes. Las siguientes secciones fueron trabajadas durante este sprint:
 
 - Hero Section (Sección Principal)<br>
@@ -2343,8 +2381,9 @@ El objetivo de este sprint fue diseñar e implementar secciones clave de la land
 - Diseño Responsivo<br>
 - Botones de Llamada a la Acción (CTA)<br>
 
+
 2. Trabajo Realizado
-<br><br>
+
 - 2.1 Hero Section
 Implementamos una sección principal visualmente atractiva con un mensaje claro que muestra la propuesta de valor de la aplicación.
 Se incluyó una imagen de fondo de alta calidad relacionada con el servicio.
@@ -2373,12 +2412,12 @@ Probamos la página en varios tamaños de pantalla para garantizar una experienc
 - 2.7 Botones de Llamada a la Acción (CTA)
 Incorporamos botones de llamada a la acción estratégicamente ubicados, como los botones "Registrarse" y "Probar la Aplicación".
 Los botones están diseñados para ser visualmente atractivos y altamente clicables.
-
+<br>
 3. Hallazgos y Desafíos
 Diseño Responsivo: Asegurar que la landing page se vea atractiva en todos los dispositivos fue un reto, especialmente con el escalado de imágenes en la Hero Section.
 Validación del Formulario: Se implementó validación básica para el formulario de contacto, pero se necesita más trabajo para manejar casos como correos electrónicos inválidos.
 Optimización SEO: Será necesario trabajar más en sprints futuros para mejorar el SEO mediante meta descripciones, textos alternativos para imágenes y palabras clave.
-
+<br>
 4. Próximos Pasos
 Continuar optimizando la landing page para mejorar el rendimiento SEO.
 Implementar seguimiento en los botones de llamada a la acción para monitorear interacciones de los usuarios.
@@ -2414,9 +2453,9 @@ Landing page desplegado: https://food-facts.github.io/LandingPage/
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-En este Aparto veremos colaboracion real entre todos los integrantes de FooDFacts en la implementacion de la landing Page
+En este apartado veremos colaboracion real entre todos los integrantes de FoodFacts en la implementacion de la landing Page
 
-Team collaboration de la Organizacion:
+Team collaboration de la organización:
 
 Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas que otros pero es aplicando mejora continua entre compañeros.
 
@@ -2426,7 +2465,7 @@ Todos Hemos colaborado en el trabajo como se refleja en la imagen algunos mas qu
 
 ### 5.2.2. Sprint 2
 
-Durante el Sprint 2, nuestro enfoque estuvo en el diseño del frontend de nuestro producto. Trabajamos arduamente para conceptualizar y dar forma a la primera impresión que tendrán nuestros usuarios. Este sprint fue fundamental para establecer la estética y la estructura inicial de nuestra plataforma, sentando así las bases para futuras iteraciones.
+Durante el Sprint 2, nuestro enfoque estuvo en el diseño del Frontend de nuestro producto. Trabajamos arduamente para conceptualizar y dar forma a la primera impresión que tendrán nuestros usuarios. Este sprint fue fundamental para establecer la estética y la estructura inicial de nuestra plataforma, sentando así las bases para futuras iteraciones.
 
 ### 5.2.2.1. Sprint Planning 2.
 
@@ -2441,7 +2480,7 @@ Acontinuacion  mostraremos la tabla:
 | **Location** | Reunión por Discord |
 | **Prepared By** | Michael Quispe |
 | **Attendees (to planning meeting)** | Allcca Guerrero, Irving Washington <br> Dextre Miguel, Kevin Cosner<br> Ramos Calagua, Sebastian Alexander<br> Sanchez Montero, Carlos |
-| **Sprint 2 Review Summary** | Nos hemos reunido para repartir el frontend, es decir que coordinamos quien iba relaizar los puntos del frontend|
+| **Sprint 2 Review Summary** | Nos hemos reunido para repartir el Frontend, es decir que coordinamos quien iba relaizar los puntos del Frontend|
 | **Sprint 2 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
 | **Sprint Planning Background** | |
 | **Sprint 2 Goal** | Completar el desarrollo del front end|
@@ -2543,27 +2582,27 @@ Para este entrega  hemos realizado en entre los  repositorios Informe y front en
 
 | Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
 | -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
-| Food-Facts/Informe   | main   | id1       | fix:                             | imge url                                     | 6/09/2024        |
-| Food-Facts/Informe   | main   | id2       | docs(Informe):                   | Added Product Backlog                        | 6/09/2024        |
-| Food-Facts/Informe   | main   | id3       | docs(informe):                   | Update Startup description                   | 5/09/2024        |
-| Food-Facts/Informe   | main   | id4       | fix:                             | update sprint planning 1                     | 5/09/2024        |
-| Food-Facts/Informe   | main   | id5       | docs(informe):                   | Add software deployment configuration        | 5/09/2024        |
-| Food-Facts/Informe   | main   | id6       | docs(Informe):                   | added mocks and wireframes Web               | 4/09/2024        |
-| Food-Facts/Informe   | main   | id7       | docs(informe):                   | Update General Style Guidelines              | 5/09/2024        |
-| Food-Facts/Landing Page  | main   | id8       | landing page design:             | improvement                                  | 5/09/2024        |
-| Food-Facts/Landing Page | main   | id9       | add:                             | somos.html & somos.css                       | 4/09/2024        |
-| Food-Facts/Landing Page   | main   | id10      | update:                          | preguntas.html                               | 4/09/2024        |
-| Food-Facts/Landing Page   | main   | id11      | update:                          | preguntas.css                                | 3/09/2024        |
-|Food-Facts/Landing Page  | main   | id12      | update:                          | index.html                                   | 2/09/2024        |
-| Food-Facts/Informe   | main   | id13      | docs(Informe):                   | Add Melina's name                            | 4/09/2024        |
-| Food-Facts/Informe   | main   | id14      | docs(informe):                   | Add sprint planning 1                        | 3/09/2024        |
-| Food-Facts/Informe   | main   | id15      | docs(Informe):                   | Add Wireframes                               | 3/09/2024        |
-| Food-Facts/Informe   | main   | id16      | docs(informe):                   | Added user flow and wireframes diagram       | 2/09/2024        |
-| Food-Facts/Informe   | main   | id17      | docs(informe):                   | Add software deployment configuration        | 2/09/2024        |
-| Food-Facts/Informe   | main   | id18      | fix:                             | corrected error in an image                  | 1/09/2024        |
-| Food-Facts/Informe   | main   | id19      | docs(Informe):                   | Product backlog corrected                    | 1/09/2024        |
-| Food-Facts/Informe   | main   | id20      | docs(Informe):                   | Added interviews and missing points          | 1/09/2024        |
-| Food-Facts/Informe   | main   | id21      | docs(Informe):                   | I made continuous improvement to the report  | 1/09/2024        |
+| Food-Facts/Informe   | main   | id1       | fix:                             | imge url                                     | 26/09/2024        |
+| Food-Facts/Informe   | main   | id2       | docs(Informe):                   | Added Product Backlog                        | 26/09/2024        |
+| Food-Facts/Informe   | main   | id3       | docs(informe):                   | Update Startup description                   | 27/09/2024        |
+| Food-Facts/Informe   | main   | id4       | fix:                             | update sprint planning 1                     | 27/09/2024        |
+| Food-Facts/Informe   | main   | id5       | docs(informe):                   | Add software deployment configuration        | 27/09/2024        |
+| Food-Facts/Informe   | main   | id6       | docs(Informe):                   | added mocks and wireframes Web               | 27/09/2024        |
+| Food-Facts/Informe   | main   | id7       | docs(informe):                   | Update General Style Guidelines              | 27/09/2024        |
+| Food-Facts/Landing Page  | main   | id8       | landing page design:             | improvement                                  | 27/09/2024        |
+| Food-Facts/Landing Page | main   | id9       | add:                             | somos.html & somos.css                       | 28/09/2024        |
+| Food-Facts/Landing Page   | main   | id10      | update:                          | preguntas.html                               | 28/09/2024        |
+| Food-Facts/Landing Page   | main   | id11      | update:                          | preguntas.css                                | 28/09/2024        |
+|Food-Facts/Landing Page  | main   | id12      | update:                          | index.html                                   | 28/09/2024        |
+| Food-Facts/Informe   | main   | id13      | docs(Informe):                   | Add Melina's name                            | 28/09/2024        |
+| Food-Facts/Informe   | main   | id14      | docs(informe):                   | Add sprint planning 1                        | 28/09/2024        |
+| Food-Facts/Informe   | main   | id15      | docs(Informe):                   | Add Wireframes                               | 29/09/2024        |
+| Food-Facts/Informe   | main   | id16      | docs(informe):                   | Added user flow and wireframes diagram       | 29/09/2024        |
+| Food-Facts/Informe   | main   | id17      | docs(informe):                   | Add software deployment configuration        | 29/09/2024        |
+| Food-Facts/Informe   | main   | id18      | fix:                             | corrected error in an image                  | 29/09/2024        |
+| Food-Facts/Informe   | main   | id19      | docs(Informe):                   | Product backlog corrected                    | 29/09/2024        |
+| Food-Facts/Informe   | main   | id20      | docs(Informe):                   | Added interviews and missing points          | 29/09/2024        |
+| Food-Facts/Informe   | main   | id21      | docs(Informe):                   | I made continuous improvement to the report  | 29/09/2024        |
 
 Para ver todos los commits con mas detalle revisar el repositorio
 
@@ -2645,7 +2684,10 @@ Para esta entrega, la aplicación web se encuentran en lanzamiento y de acceso a
     <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/IMG-20240926-WA0003.jpg?alt=media&token=f128a175-b02b-4759-ac11-6ebc839490b8" alt="W5" style="width: auto; height: auto;">
     <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/IMG-20240926-WA0006.jpg?alt=media&token=dd5a7a28-74bc-4b76-81a0-ec239637242f" alt="W5" style="width: auto; height: auto;">
   </div>
-3.Nutritionist
+3.Nutritionists
+<div style="text-align: center;">
+    <img src="../Informe/assets/Nutricionistas.png" alt="W5" style="width: auto; height: auto;">
+</div>
 4.Log-in
 <div style="text-align: center;">
     <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/IMG-20240926-WA0009.jpg?alt=media&token=df769d0c-5636-455d-b23d-2440b198bca3" alt="W5" style="width: auto; height: auto;">
@@ -2691,7 +2733,7 @@ Para el segundo sprint, optamos por utilizar la plataforma Firebase para despleg
 <div style="text-align: center;">
    <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/appwb.jpg?alt=media&token=bdac552d-4a3f-421b-a02f-68b31d230dbf" alt="W5" style="width: auto; height: auto;">
 </div>
- link:https://foodfacts-7ee9f.web.app/ 
+ Link: https://food-facts-prgni5vlr-carlos-projects-06776322.vercel.app 
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -2707,7 +2749,7 @@ Durante el Sprint 3, nuestro enfoque se centró en el desarrollo del web service
 ### 5.2.3.1. Sprint Planning 3.
 
 
-Acontinuacion  mostraremos la tabla:
+Ac ontinuación  mostraremos la tabla:
 
 | Sprint 3 | Sprint 3 |
 |----------|----------|
@@ -2818,27 +2860,27 @@ Para este entrega  hemos realizado en entre los  repositorios Informe y front en
 
 | Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
 | -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
-| Food-Facts/Informe   | main   | id1       | fix:                             | imge url                                     | 6/09/2024        |
-| Food-Facts/Informe   | main   | id2       | docs(Informe):                   | Added Product Backlog                        | 6/09/2024        |
-| Food-Facts/Informe   | main   | id3       | docs(informe):                   | Update Startup description                   | 5/09/2024        |
-| Food-Facts/Informe   | main   | id4       | fix:                             | update sprint planning 1                     | 5/09/2024        |
-| Food-Facts/Informe   | main   | id5       | docs(informe):                   | Add software deployment configuration        | 5/09/2024        |
-| Food-Facts/Informe   | main   | id6       | docs(Informe):                   | added mocks and wireframes Web               | 4/09/2024        |
-| Food-Facts/Informe   | main   | id7       | docs(informe):                   | Update General Style Guidelines              | 5/09/2024        |
-| Food-Facts/Landing Page  | main   | id8       | landing page design:             | improvement                                  | 5/09/2024        |
-| Food-Facts/Landing Page | main   | id9       | add:                             | somos.html & somos.css                       | 4/09/2024        |
-| Food-Facts/Landing Page   | main   | id10      | update:                          | preguntas.html                               | 4/09/2024        |
-| Food-Facts/Landing Page   | main   | id11      | update:                          | preguntas.css                                | 3/09/2024        |
-|Food-Facts/Landing Page  | main   | id12      | update:                          | index.html                                   | 2/09/2024        |
-| Food-Facts/Informe   | main   | id13      | docs(Informe):                   | Add Melina's name                            | 4/09/2024        |
-| Food-Facts/Informe   | main   | id14      | docs(informe):                   | Add sprint planning 1                        | 3/09/2024        |
-| Food-Facts/Informe   | main   | id15      | docs(Informe):                   | Add Wireframes                               | 3/09/2024        |
-| Food-Facts/Informe   | main   | id16      | docs(informe):                   | Added user flow and wireframes diagram       | 2/09/2024        |
-| Food-Facts/Informe   | main   | id17      | docs(informe):                   | Add software deployment configuration        | 2/09/2024        |
-| Food-Facts/Informe   | main   | id18      | fix:                             | corrected error in an image                  | 1/09/2024        |
-| Food-Facts/Informe   | main   | id19      | docs(Informe):                   | Product backlog corrected                    | 1/09/2024        |
-| Food-Facts/Informe   | main   | id20      | docs(Informe):                   | Added interviews and missing points          | 1/09/2024        |
-| Food-Facts/Informe   | main   | id21      | docs(Informe):                   | I made continuous improvement to the report  | 1/09/2024        |
+| Food-Facts/Informe   | main   | id1       | fix:                             | imge url                                     | 26/10/2024        |
+| Food-Facts/Informe   | main   | id2       | docs(Informe):                   | Added Product Backlog                        | 26/10/2024         |
+| Food-Facts/Informe   | main   | id3       | docs(informe):                   | Update Startup description                   | 26/10/2024         |
+| Food-Facts/Informe   | main   | id4       | fix:                             | update sprint planning 1                     | 26/10/2024         |
+| Food-Facts/Informe   | main   | id5       | docs(informe):                   | Add software deployment configuration        | 26/10/2024         |
+| Food-Facts/Informe   | main   | id6       | docs(Informe):                   | added mocks and wireframes Web               | 26/10/2024         |
+| Food-Facts/Informe   | main   | id7       | docs(informe):                   | Update General Style Guidelines              | 27/10/2024         |
+| Food-Facts/Landing Page  | main   | id8       | landing page design:             | improvement                                  | 28/10/2024        |
+| Food-Facts/Landing Page | main   | id9       | add:                             | somos.html & somos.css                       | 28/10/2024        |
+| Food-Facts/Landing Page   | main   | id10      | update:                          | preguntas.html                               | 28/10/2024        |
+| Food-Facts/Landing Page   | main   | id11      | update:                          | preguntas.css                                | 28/10/2024        |
+|Food-Facts/Landing Page  | main   | id12      | update:                          | index.html                                   | 28/10/2024        |
+| Food-Facts/Informe   | main   | id13      | docs(Informe):                   | Add Melina's name                            | 28/10/2024        |
+| Food-Facts/Informe   | main   | id14      | docs(informe):                   | Add sprint planning 1                        | 28/10/2024        |
+| Food-Facts/Informe   | main   | id15      | docs(Informe):                   | Add Wireframes                               | 28/10/2024        |
+| Food-Facts/Informe   | main   | id16      | docs(informe):                   | Added user flow and wireframes diagram       | 29/10/2024        |
+| Food-Facts/Informe   | main   | id17      | docs(informe):                   | Add software deployment configuration        | 29/10/2024        |
+| Food-Facts/Informe   | main   | id18      | fix:                             | corrected error in an image                  | 29/10/2024        |
+| Food-Facts/Informe   | main   | id19      | docs(Informe):                   | Product backlog corrected                    | 29/10/2024        |
+| Food-Facts/Informe   | main   | id20      | docs(Informe):                   | Added interviews and missing points          | 29/10/2024        |
+| Food-Facts/Informe   | main   | id21      | docs(Informe):                   | I made continuous improvement to the report  | 30/10/2024        |
 
 Para ver todos los commits con mas detalle revisar el repositorio
 
@@ -3022,7 +3064,6 @@ Preguntas para la Entrevista:
 * ¿Hay alguna funcionalidad que crees que falta en esta página principal que mejoraría tu experiencia como usuario interesado en la alimentación saludable?
 
 ### 5.3.2. Registro de Entrevistas.
-**Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
 
 **Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
 
@@ -3032,7 +3073,7 @@ Preguntas para la Entrevista:
 
 **Lugar de Residencia:** La Molina
 
-**Ocupación:** Estudiante de Nutricion
+**Ocupación:** Estudiante de Nutrición
 
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/ERVj_RPRA3VKvTp-4y7i7hEBV-mf_wIwOAFZQmKys61kTA?e=nf6ajs
 
@@ -3050,7 +3091,6 @@ Preguntas para la Entrevista:
 
 **Resumen de la Entrevista:** Fabrizio considera que la página de inicio de FoodFacts es visualmente atractiva y se relaciona bien con el tema de la nutrición, destacando la imagen de ingredientes frescos como un punto positivo. Sin embargo, menciona que el botón de 'Descargar', aunque visible, debería ser más llamativo para captar mejor la atención. La descripción de la plataforma le parece clara, pero sugiere incluir más detalles para explicar mejor sus funciones y motivar a los usuarios a explorarla. Sobre la paleta de colores, aunque los tonos verde y blanco son agradables, propone agregar más contraste para resaltar botones y textos importantes. Fabrizio encuentra la navegación intuitiva y funcional, pero sugiere incluir una sección de blog o noticias y hacer los elementos más interactivos, como un subrayado al pasar el ratón. Considera que sería útil presentar un resumen de las características principales en la página de inicio para informar mejor a los usuarios antes de descargar la aplicación. Los botones de 'Login' y 'Register' están bien ubicados, pero sugiere destacar más el botón de registro para hacerlo más visible. La página transmite confianza, aunque Fabrizio cree que añadir testimonios o certificaciones de expertos ayudaría a reforzar la credibilidad.
 
-**Segmento Objetivo: Personas interesadas en el contenido de los productos que consumen **
 
 **Nombres y Apellidos:** Fabrizio Morales
 
@@ -3065,7 +3105,7 @@ Preguntas para la Entrevista:
 **Resumen de la Entrevista:** Según Fabrizio, La página de inicio de FoodFacts destaca por su diseño visual relacionado con la nutrición, especialmente por sus imágenes de ingredientes frescos. Aunque la navegación es intuitiva y los colores verde y blanco son apropiados, se sugieren varias mejoras: hacer más llamativo el botón de descarga, agregar más contraste en elementos importantes, incluir más detalles sobre las funciones de la plataforma, incorporar una sección de blog y elementos interactivos, destacar mejor el botón de registro y añadir testimonios o certificaciones de expertos para aumentar la credibilidad del sitio.
 
 
-**Segmento Objetivo: Personas del rubro nutrición **
+**Segmento Objetivo: Personas del rubro nutrición**
 
 **Nombres y Apellidos:** Irene Escudero Neyra
 
@@ -3220,12 +3260,12 @@ Aumentar el contraste o el tamaño de las alertas y considerar el uso de íconos
 ## Anexos
 
 
-link del figma: https://www.figma.com/design/jlQyN71VRygji3P5ALdaCW/WebSite?node-id=0-1&node-type=CANVAS&t=jMjJGt81TCCz2t9P-0
+Link de Figma: https://www.figma.com/design/jlQyN71VRygji3P5ALdaCW/WebSite?node-id=0-1&node-type=CANVAS&t=jMjJGt81TCCz2t9P-0
 
-link del repositorio: https://github.com/FoodFacts2
+Link de Repositorio: https://github.com/FoodFacts2
 
-link del la landing desplegada: https://food-facts.github.io/LandingPage/
+Link Landing Page desplegada: https://food-facts.github.io/LandingPage/
 
-link de la aplicación web: https://foodfacts-7ee9f.web.app/
+Link de la Aplicación Web (Frontend): https://foodfacts-7ee9f.web.app/
 
-link del video de Exposicion: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EeXJJoiwoJ9OoMFefJEfKEUBs_uYEmlfqjViHVWa0AtTng?e=JJY9kJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+Link del Video de Exposición: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EeXJJoiwoJ9OoMFefJEfKEUBs_uYEmlfqjViHVWa0AtTng?e=JJY9kJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
