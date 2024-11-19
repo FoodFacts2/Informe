@@ -3368,6 +3368,8 @@ Preguntas para la Entrevista:
 
 **Segmento Objetivo: Personas Interesadas en el contenido de los productos que consumen**
 
+**Entrevista 1:**
+
 **Nombres y Apellidos:** Danae Pacheco Santa Cruz
 
 **Edad:** 21 años
@@ -3378,7 +3380,9 @@ Preguntas para la Entrevista:
 
 **URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/ERVj_RPRA3VKvTp-4y7i7hEBV-mf_wIwOAFZQmKys61kTA?e=nf6ajs
 
-**Resumen de la Entrevista:** Danae indica que las pestañas en la parte superior de las paginas son muy intuitivas lo cual le ayuda a la hora de navegar entre las diferentes páginas, además nos indica que no está del todo satisfecha con la elección de los colores. Ella menciona que le parecería mucho mejor si hubieran una especie de gráficos o imagenes con alimentos para tener una interfaz más llamativa.  
+**Resumen de la Entrevista:** Danae indica que las pestañas en la parte superior de las paginas son muy intuitivas lo cual le ayuda a la hora de navegar entre las diferentes páginas, además nos indica que no está del todo satisfecha con la elección de los colores. Ella menciona que le parecería mucho mejor si hubieran una especie de gráficos o imagenes con alimentos para tener una interfaz más llamativa. 
+
+**Entrevista 2:**
 
 **Nombres y Apellidos:** Fabrizio Sanchez Zamora
 
@@ -3393,6 +3397,10 @@ Preguntas para la Entrevista:
 **Resumen de la Entrevista:** Fabrizio considera que la página de inicio de FoodFacts es visualmente atractiva y se relaciona bien con el tema de la nutrición, destacando la imagen de ingredientes frescos como un punto positivo. Sin embargo, menciona que el botón de 'Descargar', aunque visible, debería ser más llamativo para captar mejor la atención. La descripción de la plataforma le parece clara, pero sugiere incluir más detalles para explicar mejor sus funciones y motivar a los usuarios a explorarla. Sobre la paleta de colores, aunque los tonos verde y blanco son agradables, propone agregar más contraste para resaltar botones y textos importantes. Fabrizio encuentra la navegación intuitiva y funcional, pero sugiere incluir una sección de blog o noticias y hacer los elementos más interactivos, como un subrayado al pasar el ratón. Considera que sería útil presentar un resumen de las características principales en la página de inicio para informar mejor a los usuarios antes de descargar la aplicación. Los botones de 'Login' y 'Register' están bien ubicados, pero sugiere destacar más el botón de registro para hacerlo más visible. La página transmite confianza, aunque Fabrizio cree que añadir testimonios o certificaciones de expertos ayudaría a reforzar la credibilidad.
 
 
+**Segmento Objetivo: Personas con problemas alimenticios**
+
+**Entrevista 3:**
+
 **Nombres y Apellidos:** Fabrizio Morales
 
 **Edad:** 20 años
@@ -3405,8 +3413,7 @@ Preguntas para la Entrevista:
 
 **Resumen de la Entrevista:** Según Fabrizio, La página de inicio de FoodFacts destaca por su diseño visual relacionado con la nutrición, especialmente por sus imágenes de ingredientes frescos. Aunque la navegación es intuitiva y los colores verde y blanco son apropiados, se sugieren varias mejoras: hacer más llamativo el botón de descarga, agregar más contraste en elementos importantes, incluir más detalles sobre las funciones de la plataforma, incorporar una sección de blog y elementos interactivos, destacar mejor el botón de registro y añadir testimonios o certificaciones de expertos para aumentar la credibilidad del sitio.
 
-
-**Segmento Objetivo: Personas del rubro nutrición**
+**Entrevista 4:**
 
 **Nombres y Apellidos:** Irene Escudero Neyra
 
