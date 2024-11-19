@@ -29,10 +29,6 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <td style="border: 1px solid #ddd; padding: 8px;">Allcca Guerrero, Irving Washington</td>
-                <td style="border: 1px solid #ddd; padding: 8px;">U202213241</td>
-            </tr>
              <tr>
                 <td style="border: 1px solid #ddd; padding: 8px;">Dextre Miguel, Kevin Cosner</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">U20211c027</td>
@@ -98,6 +94,16 @@
                 <td style="border: 1px solid #ddd; padding: 8px;">05/09/2024</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">Dextre Miguel, Kevin Cosner</td>
                 <td style="border: 1px solid #ddd; padding: 8px;">- Se realizo capitulo V </td>
+            </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">6.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">28/10/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Todo el grupo</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se avanzo el documento y se creo el backend </td>
+            </tr>
+                <td style="border: 1px solid #ddd; padding: 8px;">7.0</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">18/11/2024</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">Todo el grupo</td>
+                <td style="border: 1px solid #ddd; padding: 8px;">- Se avanzo el documento y se desplego el backend </td>
             </tr>
         </tbody>
     </table>
@@ -206,13 +212,13 @@
     <tbody>
         <tr>
             <td>Trabaja en equipo para proporcionar<br> liderazgo en forma conjunta</td>
-            <td>Michael Quispe<br>TB1<br>-Tomo el liderazgo del equipo<br>-Planifico todas las reuniones<br>Sebastian Ramos<br>TB1<br>-Estuvo en constante comunicacion<br>-Ayudo al lider con las complicaciones<br>Irving Allcca<br>TB1<br>-Estuvo en constante comunicacion con el lider<br>-Ayudaba a los integrantes si tenian dudas<br>Kevin Dextre<br>-Estuvo en constante comunicacion con el grupo<br>-Le decia al lider del grupo todas sus dudas<br>Carlos Sanchez<br>TB1<br>-Comunicaba al lider si habia culminado su trabajo<br>-Comunicaba al grupo si incovenientes</td>
-            <td>El equipo trabajó de manera colaborativa, distribuyendo el liderazgo y las responsabilidades.<br> Michael Quispe asumió el rol principal de liderazgo, organizando las reuniones y tomando decisiones clave.<br> Los demás integrantes, como Sebastián Ramos, Irving Allcca, Kevin Dextre y Carlos Sánchez,<br> apoyaron activamente al líder manteniendo una comunicación constante, ayudando con las complicaciones y asegurándose<br> de que el trabajo fluyera de manera eficiente. <br>Este trabajo en conjunto fue clave para superar dificultades y completar las tareas asignadas.</td>
+            <td>Michael Quispe<br>TB1<br>-Lideró la creación del proyecto y el landing page<br>-Organizó todas las reuniones<br>TP1<br>-Dirigió la creación y presentación del front-end<br>-Aseguró la coordinación del equipo<br>TB2<br>-Supervisó la creación y presentación del backend<br>-Mantuvo la comunicación constante<br>TF1<br>-Coordinó el despliegue y finalización del backend<br>-Lideró el equipo para cumplir con los objetivos<br><br>Sebastian Ramos<br>TB1<br>-Participó activamente en la creación del landing page<br>-Ayudó en la resolución de problemas<br>TP1<br>-Colaboró en la presentación del front-end<br>-Proporcionó ideas y soluciones<br>TB2<br>-Apoyó en la creación del backend<br>-Mantuvo una comunicación constante con el líder<br>TF1<br>-Ayudó en el despliegue del backend<br>-Aseguró que todas las tareas fueran completadas a tiempo<br><br>Kevin Dextre<br>TB1<br>-Estuvo en constante comunicación durante la creación del landing page<br>-Consultó al líder sobre dudas<br>TP1<br>-Participó en la presentación del front-end<br>-Ofreció sugerencias y soluciones<br>TB2<br>-Colaboró en la creación del backend<br>-Mantuvo una comunicación constante con el equipo<br>TF1<br>-Ayudó en el despliegue del backend<br>-Aseguró que todas las tareas fueran completadas a tiempo<br><br>Carlos Sanchez<br>TB1<br>-Comunicaba al líder sobre el progreso en la creación del landing page<br>-Reportaba cualquier inconveniente<br>TP1<br>-Participó en la presentación del front-end<br>-Aseguró que todas las tareas fueran completadas a tiempo<br>TB2<br>-Colaboró en la creación del backend<br>-Mantuvo una comunicación constante con el equipo<br>TF1<br>-Ayudó en el despliegue del backend<br>-Aseguró que todas las tareas fueran completadas a tiempo</td>
+            <td>El equipo trabajó de manera colaborativa, distribuyendo el liderazgo y las responsabilidades.<br>Michael Quispe asumió el rol principal de liderazgo, organizando las reuniones y tomando decisiones clave.<br>Los demás integrantes, como Sebastián Ramos, Kevin Dextre y Carlos Sánchez, apoyaron activamente al líder manteniendo una comunicación constante, ayudando con las complicaciones y asegurándose de que el trabajo fluyera de manera eficiente.<br>Este trabajo en conjunto fue clave para superar dificultades y completar las tareas asignadas.</td>
         </tr>
         <tr>
             <td>Crea un entorno colaborativo e<br> inclusivo, establece metas,<br> planifica tareas y cumple objetivos.</td>
-            <td>Michael Quispe<br>TB1<br>-Planifico, organizo y creo el trabjo<br>-Propuso como objetivo acabar antes de cierta fecha <br>Sebatian Ramos<br>TB1<br>-Se propuso como meta perfeccionar el landing page<br>-Estaba dispuesto a recibir ayuda<br>Irving Allcca<br>TB1<br>-Cumplio a tiempo con lo pedido<br>-Propuso metas a cumplir <br>Kevin Dextre<br>-Proponia constantemente metas y objetivos<br>-Se reunia con el lider del grupo para resolver sus dudas<br>Carlos Sanchez<br>TB1<br>-Colaboraba con todos los objetivos propuestos<br>-Cumplio con todas las metas propuestas</td>
-            <td> El equipo trabajó de manera efectiva en un entorno colaborativo e inclusivo, estableciendo metas claras y cumpliendo con los objetivos propuestos.<br> Michael Quispe lideró el proceso, planificando y organizando el trabajo, con un enfoque en cumplir antes de los plazos establecidos. <br>Cada miembro del equipo, como Sebastián Ramos, Irving Allcca, Kevin Dextre y Carlos Sánchez, contribuyó activamente proponiendo metas, cumpliendo con sus responsabilidades y apoyándose mutuamente para garantizar el éxito del proyecto. <br>Este esfuerzo conjunto permitió alcanzar los objetivos de manera eficiente.</td>
+            <td>Michael Quispe<br>TB1<br>-Planificó y organizó la creación del proyecto y el landing page<br>-Estableció metas claras<br>TP1<br>-Dirigió la creación y presentación del front-end<br>-Aseguró que se cumplieran los objetivos<br>TB2<br>-Supervisó la creación y presentación del backend<br>-Estableció metas y planificó tareas<br>TF1<br>-Coordinó el despliegue y finalización del backend<br>-Aseguró que todas las metas fueran cumplidas<br><br>Sebastian Ramos<br>TB1<br>-Se propuso como meta perfeccionar el landing page<br>-Estaba dispuesto a recibir ayuda<br>TP1<br>-Colaboró en la presentación del front-end<br>-Proponiendo metas y cumpliendo con sus responsabilidades<br>TB2<br>-Apoyó en la creación del backend<br>-Proponiendo metas y cumpliendo con sus tareas<br>TF1<br>-Ayudó en el despliegue del backend<br>-Asegurando que todas las metas propuestas fueran cumplidas<br><br>Kevin Dextre<br>TB1<br>-Proponía constantemente metas y objetivos durante la creación del landing page<br>TP1<br>-Participó en la presentación del front-end<br>-Proponiendo metas y cumpliendo con sus responsabilidades<br>TB2<br>-Colaboró en la creación del backend<br>-Proponiendo metas y cumpliendo con sus tareas<br>TF1<br>-Ayudó en el despliegue del backend<br>-Asegurando que todas las metas propuestas fueran cumplidas<br><br>Carlos Sanchez<br>TB1<br>-Colaboraba con todos los objetivos propuestos durante la creación del landing page<br>TP1<br>-Participó en la presentación del front-end<br>-Cumpliendo con todas las metas propuestas<br>TB2<br>-Colaboró en la creación del backend<br>-Cumpliendo con todas las metas propuestas<br>TF1<br>-Ayudó en el despliegue del backend<br>-Cumpliendo con todas las metas propuestas</td>
+            <td>El equipo trabajó de manera efectiva en un entorno colaborativo e inclusivo, estableciendo metas claras y cumpliendo con los objetivos propuestos.<br>Michael Quispe lideró el proceso, planificando y organizando el trabajo, con un enfoque en cumplir antes de los plazos establecidos.<br>Cada miembro del equipo, como Sebastián Ramos, Kevin Dextre y Carlos Sánchez, contribuyó activamente proponiendo metas, cumpliendo con sus responsabilidades y apoyándose mutuamente para garantizar el éxito del proyecto.<br>Este esfuerzo conjunto permitió alcanzar los objetivos de manera eficiente.</td>
         </tr>
     </tbody>
 </table>
@@ -2758,7 +2764,7 @@ Ac ontinuación  mostraremos la tabla:
 | **Time** | 10:00 PM |
 | **Location** | Reunión por Discord |
 | **Prepared By** | Michael Quispe |
-| **Attendees (to planning meeting)** | Allcca Guerrero, Irving Washington <br> Dextre Miguel, Kevin Cosner<br> Ramos Calagua, Sebastian Alexander<br> Sanchez Montero, Carlos |
+| **Attendees (to planning meeting)** | Dextre Miguel, Kevin Cosner<br> Ramos Calagua, Sebastian Alexander<br> Sanchez Montero, Carlos |
 | **Sprint 3 Review Summary** | Nos hemos reunido para repartir el back end, es decir que coordinamos quien iba realizar los puntos del back end|
 | **Sprint 3 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
 | **Sprint Planning Background** | |
@@ -2851,7 +2857,7 @@ Ac ontinuación  mostraremos la tabla:
   </tr>
 </table>
 
-### 5.2.2.3. Development Evidence for Sprint Review.
+### 5.2.3.3. Development Evidence for Sprint Review.
 
 
 Para este entrega  hemos realizado en entre los  repositorios Informe y front end hemos Hecho 40 commits varios de ellos sobre el informe, frontend y correcciones aca dejo los mas importante:
@@ -2860,31 +2866,16 @@ Para este entrega  hemos realizado en entre los  repositorios Informe y front en
 
 | Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
 | -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
-| Food-Facts/Informe   | main   | id1       | fix:                             | imge url                                     | 26/10/2024        |
-| Food-Facts/Informe   | main   | id2       | docs(Informe):                   | Added Product Backlog                        | 26/10/2024         |
-| Food-Facts/Informe   | main   | id3       | docs(informe):                   | Update Startup description                   | 26/10/2024         |
-| Food-Facts/Informe   | main   | id4       | fix:                             | update sprint planning 1                     | 26/10/2024         |
-| Food-Facts/Informe   | main   | id5       | docs(informe):                   | Add software deployment configuration        | 26/10/2024         |
-| Food-Facts/Informe   | main   | id6       | docs(Informe):                   | added mocks and wireframes Web               | 26/10/2024         |
-| Food-Facts/Informe   | main   | id7       | docs(informe):                   | Update General Style Guidelines              | 27/10/2024         |
-| Food-Facts/Landing Page  | main   | id8       | landing page design:             | improvement                                  | 28/10/2024        |
-| Food-Facts/Landing Page | main   | id9       | add:                             | somos.html & somos.css                       | 28/10/2024        |
-| Food-Facts/Landing Page   | main   | id10      | update:                          | preguntas.html                               | 28/10/2024        |
-| Food-Facts/Landing Page   | main   | id11      | update:                          | preguntas.css                                | 28/10/2024        |
-|Food-Facts/Landing Page  | main   | id12      | update:                          | index.html                                   | 28/10/2024        |
-| Food-Facts/Informe   | main   | id13      | docs(Informe):                   | Add Melina's name                            | 28/10/2024        |
-| Food-Facts/Informe   | main   | id14      | docs(informe):                   | Add sprint planning 1                        | 28/10/2024        |
-| Food-Facts/Informe   | main   | id15      | docs(Informe):                   | Add Wireframes                               | 28/10/2024        |
-| Food-Facts/Informe   | main   | id16      | docs(informe):                   | Added user flow and wireframes diagram       | 29/10/2024        |
-| Food-Facts/Informe   | main   | id17      | docs(informe):                   | Add software deployment configuration        | 29/10/2024        |
-| Food-Facts/Informe   | main   | id18      | fix:                             | corrected error in an image                  | 29/10/2024        |
-| Food-Facts/Informe   | main   | id19      | docs(Informe):                   | Product backlog corrected                    | 29/10/2024        |
-| Food-Facts/Informe   | main   | id20      | docs(Informe):                   | Added interviews and missing points          | 29/10/2024        |
-| Food-Facts/Informe   | main   | id21      | docs(Informe):                   | I made continuous improvement to the report  | 30/10/2024        |
+| Food-Facts/FoodFacts-Backend   | main  | id1       | Backend: the project is created                             | first commit and project is created                                   | 03/11/2024        |
+| Food-Facts/FoodFacts-Backend   | main    | id2       | added Profile Bounded context                 | second commit                         | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | id3       | Added Users Bounded Context                   | third commit                 | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main   | id4       | Backend: Nutrition values are added                         |  fourth commit                       | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend   | main    | id5       | feat: add Health risks                   |  fifth commit       | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | id6       | fix: product bounden context                | six commit             | 04/11/2024        |
 
 Para ver todos los commits con mas detalle revisar el repositorio
 
-### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
 En esta seccion implementamos el funcionamiento del obejtivo principal que seria la landing Page Atravez del testing en este caso no tenemos conomiento tecnico si no coceptual y usaremos los criterios de aceptacion
 
@@ -2950,16 +2941,23 @@ And debería recibir actualizaciones si algún producto es retirado del mercado.
 
 ```
 
-### 5.2.2.5. Execution Evidence for Sprint Review.
+### 5.2.3.5. Execution Evidence for Sprint Review.
 
 Para esta entrega, el backend se visualiza 
 
-<div style="text-align: center;">
-    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FBackend.png?alt=media&token=a6fbeab3-0950-4b66-b6af-75531e57f4f0" alt="W5" style="width: auto; height: auto;">
+ <div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FBackend1.png?alt=media&token=ad27738e-6c39-4f50-9c62-0e852afacf1f" alt="W5" style="width: auto; height: auto;">
+</div>
+
+ <div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FBackend2.png?alt=media&token=9916e4ac-0130-4bf0-8a16-2fadbc82f74f" alt="W5" style="width: auto; height: auto;">
+</div>
+ <div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FBackend3.png?alt=media&token=5544d430-851d-43e9-bc4f-c658631647a8" alt="W5" style="width: auto; height: auto;">
 </div>
 
 
-### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
 Sprint: Sprint 3 Fecha: 29/10/2024 FoodFacts
 
@@ -3029,7 +3027,7 @@ And debería recibir actualizaciones si algún producto es retirado del mercado.
 * Añadir nuevas categorías de aditivos y sus impactos en la salud basadas en la retroalimentación de expertos en nutrición.
 
 
-### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 Para el segundo sprint, optamos por utilizar la plataforma Firebase para desplegar el frontend. En primer lugar, instalamos Firebase Tools y luego procedimos a iniciar sesión con Firebase login. Posteriormente, ejecutamos el comando "npm firebase init" en la terminal y seleccionamos el servicio de hosting. Una vez seleccionado, configuramos los parámetros necesarios, como el directorio de compilación, las rutas y el proyecto asociado. Finalmente, empleamos el comando "firebase deploy --only hosting" para implementar nuestra aplicación exclusivamente para el servicio de hosting.
 
@@ -3039,6 +3037,309 @@ Para el segundo sprint, optamos por utilizar la plataforma Firebase para despleg
  link:https://foodfacts-7ee9f.web.app/ 
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+En este Aparto veremos colaboracion real entre todos los integrantes de FooDFacts en la implementacion de la aplicacion
+<div style="text-align: center;">
+   <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FCommits.png?alt=media&token=9f93ae23-fddc-4a30-be0f-db48a62a6194">
+</div>
+
+### 5.2.3. Sprint 3
+
+Durante el Sprint 3, nuestro enfoque se centró en el desarrollo del web service de nuestra plataforma. Trabajamos arduamente en la implementación de la arquitectura y la estructura inicial que sustentará la interacción entre el frontend y el backend. Este sprint fue fundamental para establecer la funcionalidad y la comunicación de los servicios, sentando así las bases para futuras iteraciones y optimizaciones que asegurarán una experiencia de usuario fluida y eficiente..
+
+### 5.2.4.1. Sprint Planning 4.
+
+
+Ac ontinuación  mostraremos la tabla:
+
+| Sprint 4 | Sprint 4 |
+|----------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2024/10/26 |
+| **Time** | 10:00 PM |
+| **Location** | Reunión por Discord |
+| **Prepared By** | Michael Quispe |
+| **Attendees (to planning meeting)** | Allcca Guerrero, Irving Washington <br> Dextre Miguel, Kevin Cosner<br> Ramos Calagua, Sebastian Alexander<br> Sanchez Montero, Carlos |
+| **Sprint 3 Review Summary** | Nos hemos reunido para repartir el back end, es decir que coordinamos quien iba realizar los puntos del back end|
+| **Sprint 3 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
+| **Sprint Planning Background** | |
+| **Sprint 3 Goal** | Completar el desarrollo del backend |
+| **Sprint 3 Velocity** | **Story US-001**: Visualizar información nutricional detallada (3 Story Points) <br><br> **Story US-003**: Personalización de alertas de salud (3 Story Points) <br><br> **Story US-004**: Comparar productos similares (3 Story Points) <br><br> **Story US-014**:  Ver alertas de productos no saludables (3 Story Points) <br><br> **Story US-015**: Identificación de aditivos artificiales (3 Story Points) <br><br> **Story US-025**: Consulta de información sobre seguridad alimentaria (3 Story Points) |
+| **Sum of Story Points** | Suma de Story Points: 3 + 3 + 3 + 3 + 3 + 3 = **18 Story Points** |
+
+
+
+### 5.2.4.2. Sprint Backlog 4.
+
+<table>
+  <tr>
+    <th>Sprint 3</th>
+    <th colspan="7">Sprint 3</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="7">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <td>001</td>
+    <td>Visualizar información nutricional detallada</td>
+    <td>020</td>
+    <td>Desarrollar endpoint de visualización nutricional</td>
+    <td>Como usuario, quiero ver información nutricional detallada para evaluar la calidad de los alimentos.</td>
+    <td>5.00</td>
+    <td>Michael Quispe</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>003</td>
+    <td>Personalización de alertas de salud</td>
+    <td>021</td>
+    <td>Configurar alertas de salud personalizadas</td>
+    <td>Como usuario, quiero personalizar alertas de salud para recibir información relevante a mis necesidades.</td>
+    <td>4.00</td>
+    <td>Allcca Guerrero, Irving Washington</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>004</td>
+    <td>Comparar productos similares</td>
+    <td>022</td>
+    <td>Crear comparación de productos</td>
+    <td>Como usuario, quiero comparar productos similares para elegir el más saludable.</td>
+    <td>6.00</td>
+    <td>Dextre Miguel, Kevin Cosner</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>014</td>
+    <td>Ver alertas de productos no saludables</td>
+    <td>023</td>
+    <td>Generar alertas para productos no saludables</td>
+    <td>Como usuario, quiero recibir alertas de productos poco saludables para evitarlos en mi dieta.</td>
+    <td>3.00</td>
+    <td>Ramos Calagua, Sebastian Alexander</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>015</td>
+    <td>Identificación de aditivos artificiales</td>
+    <td>024</td>
+    <td>Implementar identificador de aditivos</td>
+    <td>Como usuario, quiero identificar aditivos artificiales para evitar alimentos procesados.</td>
+    <td>4.00</td>
+    <td>Sanchez Montero, Carlos</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>025</td>
+    <td>Consulta de información sobre seguridad alimentaria</td>
+    <td>025</td>
+    <td>Desarrollar consultas de seguridad alimentaria</td>
+    <td>Como usuario, quiero consultar sobre seguridad alimentaria para tomar decisiones informadas.</td>
+    <td>6.00</td>
+    <td>Michael Quispe</td>
+    <td>To-do</td>
+  </tr>
+</table>
+
+### 5.2.4.3. Development Evidence for Sprint Review.
+
+
+Para este entrega  hemos realizado en entre los  repositorios Informe y front end hemos Hecho 40 commits varios de ellos sobre el informe, frontend y correcciones aca dejo los mas importante:
+
+
+
+| Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
+| -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
+| Food-Facts/Informe   | main   | id1       | fix:                             | imge url                                     | 26/10/2024        |
+| Food-Facts/Informe   | main   | id2       | docs(Informe):                   | Added Product Backlog                        | 26/10/2024         |
+| Food-Facts/Informe   | main   | id3       | docs(informe):                   | Update Startup description                   | 26/10/2024         |
+| Food-Facts/Informe   | main   | id4       | fix:                             | update sprint planning 1                     | 26/10/2024         |
+| Food-Facts/Informe   | main   | id5       | docs(informe):                   | Add software deployment configuration        | 26/10/2024         |
+| Food-Facts/Informe   | main   | id6       | docs(Informe):                   | added mocks and wireframes Web               | 26/10/2024         |
+| Food-Facts/Informe   | main   | id7       | docs(informe):                   | Update General Style Guidelines              | 27/10/2024         |
+| Food-Facts/Landing Page  | main   | id8       | landing page design:             | improvement                                  | 28/10/2024        |
+| Food-Facts/Landing Page | main   | id9       | add:                             | somos.html & somos.css                       | 28/10/2024        |
+| Food-Facts/Landing Page   | main   | id10      | update:                          | preguntas.html                               | 28/10/2024        |
+| Food-Facts/Landing Page   | main   | id11      | update:                          | preguntas.css                                | 28/10/2024        |
+|Food-Facts/Landing Page  | main   | id12      | update:                          | index.html                                   | 28/10/2024        |
+| Food-Facts/Informe   | main   | id13      | docs(Informe):                   | Add Melina's name                            | 28/10/2024        |
+| Food-Facts/Informe   | main   | id14      | docs(informe):                   | Add sprint planning 1                        | 28/10/2024        |
+| Food-Facts/Informe   | main   | id15      | docs(Informe):                   | Add Wireframes                               | 28/10/2024        |
+| Food-Facts/Informe   | main   | id16      | docs(informe):                   | Added user flow and wireframes diagram       | 29/10/2024        |
+| Food-Facts/Informe   | main   | id17      | docs(informe):                   | Add software deployment configuration        | 29/10/2024        |
+| Food-Facts/Informe   | main   | id18      | fix:                             | corrected error in an image                  | 29/10/2024        |
+| Food-Facts/Informe   | main   | id19      | docs(Informe):                   | Product backlog corrected                    | 29/10/2024        |
+| Food-Facts/Informe   | main   | id20      | docs(Informe):                   | Added interviews and missing points          | 29/10/2024        |
+| Food-Facts/Informe   | main   | id21      | docs(Informe):                   | I made continuous improvement to the report  | 30/10/2024        |
+
+Para ver todos los commits con mas detalle revisar el repositorio
+
+### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+En esta seccion implementamos el funcionamiento del obejtivo principal que seria la landing Page Atravez del testing en este caso no tenemos conomiento tecnico si no coceptual y usaremos los criterios de aceptacion
+
+| Repository | Branch   | Commit Id | Commit Message | Commit Message Body | Commited on Date |
+|------------|----------|-----------|-----------------|----------------------|-------------------|
+| testing    | feature  | 018       | Added           | Visualizar información nutricional detallada: Como usuario, quiero visualizar la información nutricional detallada de los productos para entender mejor sus beneficios y limitaciones. | 29/10/2024 |
+| testing    | feature  | 021       | Added           | Personalización de alertas de salud: Como usuario, quiero personalizar las alertas de salud para recibir notificaciones relevantes a mis necesidades y preferencias. | 29/10/2024 |
+| testing    | feature  | 017       | Added           | Comparar productos similares: Como usuario, quiero comparar productos similares para elegir el más adecuado para mí en términos de valor nutricional y otros criterios. | 29/10/2024 |
+| testing    | feature  | 016       | Added           | Ver alertas de productos no saludables: Como usuario, quiero recibir alertas sobre productos no saludables para tomar decisiones informadas sobre mi alimentación. | 29/10/2024  |
+| testing    | feature  | 019       | Added           | Identificación de aditivos artificiales: Como usuario, quiero identificar aditivos artificiales en los productos para evitar aquellos que no sean compatibles con mis preferencias alimenticias. | 29/10/2024  |
+| testing    | feature  | 020       | Added           | Consulta de información sobre seguridad alimentaria: Como usuario, quiero consultar información sobre la seguridad alimentaria de los productos para garantizar su calidad y seguridad. | 29/10/2024  |
+
+
+
+```feature
+
+Feature: Visualizar información nutricional
+Scenario: Mostrar detalles nutricionales de un producto
+Given soy un usuario autenticado
+When selecciono un producto de la lista
+Then debería poder ver la información nutricional completa
+And debería visualizar detalles como calorías, grasas, proteínas, y vitaminas.
+
+
+Feature: Configuración de alertas de salud
+Scenario: Modificar preferencias de alertas
+Given soy un usuario autenticado
+When accedo a la configuración de alertas de salud
+Then debería poder activar o desactivar alertas personalizadas
+And los cambios deberían reflejarse en mis notificaciones.
+
+
+Feature: Comparar productos
+Scenario: Comparación de productos seleccionados
+Given soy un usuario interesado en comparar productos
+When selecciono dos o más productos de la lista
+Then debería ver una tabla comparativa de sus características nutricionales
+And debería poder identificar las diferencias en los valores nutricionales.
+
+
+Feature: Alerta de productos no saludables
+Scenario: Recibir alerta de producto no saludable
+Given soy un usuario que navega por productos
+When accedo a un producto considerado no saludable
+Then debería recibir una alerta visual indicando el riesgo
+And debería ver detalles sobre los componentes que lo hacen no saludable.
+
+
+Feature: Identificar aditivos
+Scenario: Mostrar aditivos artificiales en productos
+Given soy un usuario autenticado que revisa un producto
+When veo los detalles de un producto
+Then debería poder ver una lista de aditivos artificiales presentes
+And debería obtener información sobre el posible impacto en la salud de estos aditivos.
+
+
+Feature: Seguridad alimentaria
+Scenario: Consultar información de seguridad
+Given soy un usuario interesado en la seguridad alimentaria
+When accedo a la sección de información de seguridad
+Then debería poder ver datos sobre alertas sanitarias, riesgos, y recomendaciones
+And debería recibir actualizaciones si algún producto es retirado del mercado.
+
+```
+
+### 5.2.4.5. Execution Evidence for Sprint Review.
+
+Para esta entrega, el backend se visualiza 
+
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2FBackend.png?alt=media&token=a6fbeab3-0950-4b66-b6af-75531e57f4f0" alt="W5" style="width: auto; height: auto;">
+</div>
+
+
+### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+Sprint: Sprint 3 Fecha: 29/10/2024 FoodFacts
+
+1. Resumen
+El objetivo de este sprint fue implementar funcionalidades clave relacionadas con la experiencia del usuario, enfocadas en proporcionar información nutricional detallada, personalización de alertas de salud, comparación de productos, y funcionalidades de seguridad alimentaria. Se buscó mejorar la interacción del usuario y ofrecer herramientas para una experiencia más informada y personalizada.
+
+2. Trabajo Realizado
+
+2.1 Visualización de Información Nutricional Detallada
+Story US-001: Desarrollamos la funcionalidad para que los usuarios puedan visualizar información nutricional completa de los productos, incluyendo detalles como calorías, grasas, proteínas y vitaminas.
+Scenario: Mostrar detalles nutricionales de un producto
+Given soy un usuario autenticado
+When selecciono un producto de la lista
+Then debería poder ver la información nutricional completa
+And debería visualizar detalles como calorías, grasas, proteínas, y vitaminas.
+
+2.2 Personalización de Alertas de Salud
+Story US-003: Implementamos la opción para que los usuarios personalicen sus alertas de salud, permitiéndoles activar o desactivar notificaciones basadas en sus preferencias.
+Scenario: Modificar preferencias de alertas
+Given soy un usuario autenticado
+When accedo a la configuración de alertas de salud
+Then debería poder activar o desactivar alertas personalizadas
+And los cambios deberían reflejarse en mis notificaciones.
+
+2.3 Comparar Productos Similares
+Story US-004: Creamos la funcionalidad que permite a los usuarios comparar productos similares en una tabla comparativa, destacando sus características nutricionales y diferencias clave.
+Scenario: Comparación de productos seleccionados
+Given soy un usuario interesado en comparar productos
+When selecciono dos o más productos de la lista
+Then debería ver una tabla comparativa de sus características nutricionales
+And debería poder identificar las diferencias en los valores nutricionales.
+
+2.4 Ver Alertas de Productos No Saludables
+Story US-014: Implementamos un sistema de alertas que avisa a los usuarios cuando están viendo productos considerados no saludables, junto con detalles de los componentes de riesgo.
+Scenario: Recibir alerta de producto no saludable
+Given soy un usuario que navega por productos
+When accedo a un producto considerado no saludable
+Then debería recibir una alerta visual indicando el riesgo
+And debería ver detalles sobre los componentes que lo hacen no saludable.
+
+2.5 Identificación de Aditivos Artificiales
+Story US-015: Desarrollamos una funcionalidad que muestra a los usuarios los aditivos artificiales presentes en los productos, junto con información sobre sus posibles impactos en la salud.
+Scenario: Mostrar aditivos artificiales en productos
+Given soy un usuario autenticado que revisa un producto
+When veo los detalles de un producto
+Then debería poder ver una lista de aditivos artificiales presentes
+And debería obtener información sobre el posible impacto en la salud de estos aditivos.
+
+2.6 Consulta de Información sobre Seguridad Alimentaria
+Story US-025: Implementamos una sección donde los usuarios pueden consultar información sobre seguridad alimentaria, incluyendo alertas sanitarias y recomendaciones.
+Scenario: Consultar información de seguridad
+Given soy un usuario interesado en la seguridad alimentaria
+When accedo a la sección de información de seguridad
+Then debería poder ver datos sobre alertas sanitarias, riesgos, y recomendaciones
+And debería recibir actualizaciones si algún producto es retirado del mercado.
+
+3. Hallazgos y Desafíos
+
+* Integración de sistemas: La implementación de la visualización de información detallada y las alertas de salud requirió una integración cuidadosa con los sistemas de datos existentes.
+* Rendimiento: Las funcionalidades de comparación de productos y visualización de aditivos exigieron optimización para mantener la rapidez de la aplicación.
+* Diseño de UX: Diseñar una interfaz intuitiva para la consulta de información de seguridad alimentaria y el manejo de alertas personalizadas llevó varias iteraciones.
+4. Próximos Pasos
+
+* Realizar pruebas de usabilidad para las nuevas funcionalidades implementadas.
+* Optimizar el rendimiento de las consultas de información nutricional y alertas de productos no saludables.
+* Recoger feedback de los usuarios para mejorar la personalización de alertas y la visualización de detalles nutricionales.
+* Añadir nuevas categorías de aditivos y sus impactos en la salud basadas en la retroalimentación de expertos en nutrición.
+
+
+### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+Para el segundo sprint, optamos por utilizar la plataforma Firebase para desplegar el frontend. En primer lugar, instalamos Firebase Tools y luego procedimos a iniciar sesión con Firebase login. Posteriormente, ejecutamos el comando "npm firebase init" en la terminal y seleccionamos el servicio de hosting. Una vez seleccionado, configuramos los parámetros necesarios, como el directorio de compilación, las rutas y el proyecto asociado. Finalmente, empleamos el comando "firebase deploy --only hosting" para implementar nuestra aplicación exclusivamente para el servicio de hosting.
+
+<div style="text-align: center;">
+   <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/appwb.jpg?alt=media&token=bdac552d-4a3f-421b-a02f-68b31d230dbf" alt="W5" style="width: auto; height: auto;">
+</div>
+ link:https://foodfacts-7ee9f.web.app/ 
+
+### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 En este Aparto veremos colaboracion real entre todos los integrantes de FooDFacts en la implementacion de la aplicacion
 <div style="text-align: center;">
