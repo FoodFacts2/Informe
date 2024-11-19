@@ -3038,7 +3038,7 @@ En este Aparto veremos colaboracion real entre todos los integrantes de FooDFact
 
 ### 5.2.4. Sprint 4
 
-
+Durante el Sprint 4, nuestro enfoque se centró en el desarrollo del web service de nuestra plataforma. Trabajamos arduamente en la implementación de la arquitectura y la estructura inicial que sustentará la interacción entre el frontend y el backend. Para ello decidimos realizar el despliegue de la aplicacion con la conexion del frontend y el backend.
 
 ### 5.2.4.1. Sprint Planning 4.
 
@@ -3053,7 +3053,7 @@ En este Aparto veremos colaboracion real entre todos los integrantes de FooDFact
 | **Sprint 4 Review Summary** | Nos hemos reunido para repartir el backend, es decir que coordinamos para terminar el backend y hacer el despliegue|
 | **Sprint 4 Retrospective Summary** | Las opiniones son una buena comunicación y trabajo en equipo. |
 | **Sprint Planning Background** | |
-| **Sprint 4 Goal** | Completar el desarrollo del backend |
+| **Sprint 4 Goal** | Completar el desarrollo del backend y hacer el despliegue |
 | **Sprint 4 Velocity** | **Story US-012**: Obtener reportes personalizados (5 Story Points)<br><br> **Story US-017**: Recomendaciones de productos saludables (5 Story Points)<br><br> **Story US-020**: Comparación de Productos (5 Story Points)<br><br> **Story US-022**: Sugerencias para Mejora de Hábitos Alimenticios (5 Story Points)<br><br> **Story US-023**: Filtro por Preferencias Alimenticias (5 Story Points)<br><br> **Story US-024**: Gestión de Listas de Productos (5 Story Points)<br><br> **Story US-021**: Informes de Tendencias de Consumo (8 Story Points) |
 | **Sum of Story Points** | Suma de Story Points: 5 + 5 + 5 + 5 + 5 + 5 + 8 = **38 Story Points** |
 
