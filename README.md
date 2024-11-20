@@ -2676,7 +2676,7 @@ And debería poder ajustar los filtros para cambiar los resultados
 
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 
-Para esta entrega, la aplicación web se encuentran en lanzamiento y de acceso abierto para todos los ususarios:
+Para esta entrega, la aplicación web se encuentran en lanzamiento y de acceso abierto para todos los usuarios:
 1.Home
 <div style="text-align: center;">
     <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/IMG-20240926-WA0010.jpg?alt=media&token=1a044814-7c0a-46cf-97ca-c05330e66a77" alt="W5" style="width: auto; height: auto;">
@@ -3153,6 +3153,19 @@ Durante el Sprint 4, nuestro enfoque se centró en el desarrollo del web service
 
 ### 5.2.4.3. Development Evidence for Sprint Review.
 
+Para este entrega  hemos realizado en entre los  repositorios Informe y front end hemos Hecho 40 commits varios de ellos sobre el informe, frontend y correcciones aca dejo los mas importante:
+
+
+
+| Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
+| -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
+| Food-Facts/FoodFacts-Backend   | main  | id1       | Backend: the project is created                             | first commit and project is created                                   | 03/11/2024        |
+| Food-Facts/FoodFacts-Backend   | main    | id2       | added Profile Bounded context                 | second commit                         | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | id3       | Added Users Bounded Context                   | third commit                 | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main   | id4       | Backend: Nutrition values are added                         |  fourth commit                       | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend   | main    | id5       | feat: add Health risks                   |  fifth commit       | 04/11/2024        |
+| Food-Facts/FoodFacts-Backend  | main    | id6       | fix: product bounden context                | six commit             | 04/11/2024        |
+
 
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
@@ -3221,7 +3234,31 @@ Then debería incluir un análisis de tendencias en el consumo de calorías y nu
 
 ### 5.2.4.5. Execution Evidence for Sprint Review.
 
-
+Para esta entrega, la aplicación web se encuentran desplegada
+1.Home
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Fhome.png?alt=media&token=7b380dc0-75b1-4b25-b871-1229f06d737d" alt="W5" style="width: auto; height: auto;">
+</div>
+2.Suscrpciones
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Fsuscripciones.png?alt=media&token=13eeb8bf-06d7-4c01-8731-1c55a34e1d19" alt="W5" style="width: auto; height: auto;">
+  </div>
+3.Restaurantes
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Frestaurantes.png?alt=media&token=debac582-e419-4cca-b62d-7d4803194da4" alt="W5" style="width: auto; height: auto;">
+</div>
+4.Ordenes
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Fordenes.png?alt=media&token=d1caa440-b8ca-404d-b715-634367db2905" alt="W5" style="width: auto; height: auto;">
+</div>
+5.Registro
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Fregistro.png?alt=media&token=4c9383a5-5cea-4143-b859-260f1dbb321a" alt="W5" style="width: auto; height: auto;">
+</div>
+6.Login
+<div style="text-align: center;">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Flogin.png?alt=media&token=9014c8f3-7a1b-44a0-8d41-0b0431d955ac" alt="W5" style="width: auto; height: auto;">
+</div>
 
 
 ### 5.2.4.6. Services Documentation Evidence for Sprint Review.
@@ -3313,11 +3350,19 @@ El objetivo de este sprint fue implementar funcionalidades clave relacionadas co
 
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
+Para este 4 sprint, optamos por utilizar la plataforma Firebase para desplegar el frontend y backend. En primer lugar, instalamos Firebase Tools y luego procedimos a iniciar sesión con Firebase login. Posteriormente, ejecutamos el comando "npm firebase init" en la terminal y seleccionamos el servicio de hosting. Una vez seleccionado, configuramos los parámetros necesarios, como el directorio de compilación, las rutas y el proyecto asociado. Finalmente, empleamos el comando "firebase deploy --only hosting" para implementar nuestra aplicación exclusivamente para el servicio de hosting.
 
+<div style="text-align: center;">
+   <img src="https://firebasestorage.googleapis.com/v0/b/app-web-a7d28.appspot.com/o/appwb.jpg?alt=media&token=bdac552d-4a3f-421b-a02f-68b31d230dbf" alt="W5" style="width: auto; height: auto;">
+</div>
+ Link: https://673d978645eeed2f4750ba42--illustrious-bublanina-f31eff.netlify.app/
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint.
 
-
+En este Aparto veremos colaboracion real entre todos los integrantes de FooFacts en la implementacion de la aplicacion. En este ya que creamos otro repositorio aparece Sebastian Ramos como unico ya que junto todo lo que hicimos
+<div style="text-align: center;">
+   <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-1f936.appspot.com/o/Imagenes_Open%2Ffinal.png?alt=media&token=d7f89eb0-3cfa-45e0-8c49-23f4c8e8ffe9">
+</div>
 
 ## 5.3. Validation Interviews.
 
@@ -3543,10 +3588,10 @@ Aumentar el contraste o el tamaño de las alertas y considerar el uso de íconos
 
 Link de Figma: https://www.figma.com/design/jlQyN71VRygji3P5ALdaCW/WebSite?node-id=0-1&node-type=CANVAS&t=jMjJGt81TCCz2t9P-0
 
-Link de Repositorio: https://github.com/FoodFacts2
+Link de Repositorio: https://foodfacts2.github.io/Landing-page/
 
 Link Landing Page desplegada: https://food-facts.github.io/LandingPage/
 
-Link de la Aplicación Web : https://673d978645eeed2f4750ba42--illustrious-bublanina-f31eff.netlify.app/
+Link de la aplicacion final: https://673d978645eeed2f4750ba42--illustrious-bublanina-f31eff.netlify.app/
 
 Link del Video de Exposición: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EeXJJoiwoJ9OoMFefJEfKEUBs_uYEmlfqjViHVWa0AtTng?e=JJY9kJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
