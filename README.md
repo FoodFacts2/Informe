@@ -3159,12 +3159,7 @@ Para este entrega  hemos realizado en entre los  repositorios Informe y front en
 
 | Repository           | Branch | Commit Id | Commit Message                   | Commit Message Body                           | Commited on Date |
 | -------------------- | ------ | --------- | -------------------------------- | -------------------------------------------- | ---------------- |
-| Food-Facts/FoodFacts-Backend   | main  | id1       | Backend: the project is created                             | first commit and project is created                                   | 03/11/2024        |
-| Food-Facts/FoodFacts-Backend   | main    | id2       | added Profile Bounded context                 | second commit                         | 04/11/2024        |
-| Food-Facts/FoodFacts-Backend  | main    | id3       | Added Users Bounded Context                   | third commit                 | 04/11/2024        |
-| Food-Facts/FoodFacts-Backend  | main   | id4       | Backend: Nutrition values are added                         |  fourth commit                       | 04/11/2024        |
-| Food-Facts/FoodFacts-Backend   | main    | id5       | feat: add Health risks                   |  fifth commit       | 04/11/2024        |
-| Food-Facts/FoodFacts-Backend  | main    | id6       | fix: product bounden context                | six commit             | 04/11/2024        |
+| Food-Facts/FoodFacts-Frontend   | main  | id1       |  final frontend develop       | first commit and project is created                                   | 18/11/2024        |
 
 
 ### 5.2.4.4. Testing Suite Evidence for Sprint Review.
@@ -3567,7 +3562,7 @@ Aumentar el contraste o el tamaño de las alertas y considerar el uso de íconos
 
 ## 5.4. Video About-the-Product.
 
-**URL:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015274_upc_edu_pe/ERrUurZ1KHVHiDH9s1RQbG4BAHCcZ8oOo87ISzgIaB4ilg?e=ozopim
+**URL:** https://youtu.be/Leo5UnNMBMs?si=O8pnr-A2mKsJ-O-U
 
 
 ## Conclusiones
@@ -3578,7 +3573,10 @@ Aumentar el contraste o el tamaño de las alertas y considerar el uso de íconos
 - El diseño atractivo y la usabilidad son fundamentales. Una estructura clara ayuda a los usuarios a encontrar información rápidamente, mejorando la efectividad del mensaje.
 <br><br>
 - El contenido debe ser científicamente preciso y actualizado. Esto aumenta la credibilidad y el valor informativo de la página.
-
+- El despliegue de la aplicación se ha realizado utilizando Firebase para el frontend y backend, asegurando una implementación eficiente y escalable. La colaboración entre los miembros del equipo ha sido evidente a través de la participación activa en commits y la distribución equitativa del trabajo. La comunicación constante y la coordinación han sido clave para el éxito del proyecto.
+- El frontend de FoodFacts ha sido diseñado con un enfoque en la usabilidad y la experiencia del usuario. Se ha utilizado un diseño minimalista y colorido, con ilustraciones en lugar de fotografías para mantener un estilo coherente y atractivo. Los elementos de interacción han sido diseñados para ser intuitivos, mejorando la experiencia del usuario. Además, se ha priorizado un adecuado contraste de colores para mejorar la claridad y legibilidad dentro de la aplicación.
+- El backend de FoodFacts ha sido desarrollado con una arquitectura modular y escalable. Se ha utilizado el modelo C4 para diseñar la estructura del sistema, asegurando una clara separación de responsabilidades y una fácil mantenibilidad. La arquitectura se ha diseñado para soportar futuras expansiones y mejoras.
+- El despliegue final ha resultado en una aplicación web completamente funcional y accesible para los usuarios. La aplicación ha sido probada y validada por los usuarios, quienes han proporcionado feedback positivo sobre la usabilidad y funcionalidad de la aplicación.
 
 ## Bibliografia 
 
@@ -3594,4 +3592,6 @@ Link Landing Page desplegada: https://food-facts.github.io/LandingPage/
 
 Link de la aplicacion final: https://673d978645eeed2f4750ba42--illustrious-bublanina-f31eff.netlify.app/
 
-Link del Video de Exposición: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EeXJJoiwoJ9OoMFefJEfKEUBs_uYEmlfqjViHVWa0AtTng?e=JJY9kJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+Link del Video de Exposición(TB2): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EeXJJoiwoJ9OoMFefJEfKEUBs_uYEmlfqjViHVWa0AtTng?e=JJY9kJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
+
+Link del Video de Exposición(TF): https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EZ2AY2mEYwBHtEhPyeoP6eIBWclShU_kAKNpH2ortm0Nrg?e=3dDDM9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
