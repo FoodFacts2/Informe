@@ -3547,6 +3547,6 @@ Link de Repositorio: https://github.com/FoodFacts2
 
 Link Landing Page desplegada: https://food-facts.github.io/LandingPage/
 
-Link de la Aplicación Web : [https://673d978645eeed2f4750ba42--illustrious-bublanina-f31eff.netlify.app/]
+Link de la Aplicación Web : https://673d978645eeed2f4750ba42--illustrious-bublanina-f31eff.netlify.app/
 
 Link del Video de Exposición: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221e734_upc_edu_pe/EeXJJoiwoJ9OoMFefJEfKEUBs_uYEmlfqjViHVWa0AtTng?e=JJY9kJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D
